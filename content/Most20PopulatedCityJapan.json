@@ -1,0 +1,160 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Tokyo"
+      },
+      "lat": 35.6895,
+      "lng": 139.6917
+    },
+    {
+      "name": {
+        "fr": "Osaka"
+      },
+      "lat": 34.6937,
+      "lng": 135.5023
+    },
+    {
+      "name": {
+        "fr": "Nagoya"
+      },
+      "lat": 35.1815,
+      "lng": 136.9066
+    },
+    {
+      "name": {
+        "fr": "Fukuoka"
+      },
+      "lat": 33.5904,
+      "lng": 130.4017
+    },
+    {
+      "name": {
+        "fr": "Yokohama"
+      },
+      "lat": 35.4437,
+      "lng": 139.638
+    },
+    {
+      "name": {
+        "fr": "Shizuoka"
+      },
+      "lat": 34.9756,
+      "lng": 138.3828
+    },
+    {
+      "name": {
+        "fr": "Sapporo"
+      },
+      "lat": 43.0621,
+      "lng": 141.3544
+    },
+    {
+      "name": {
+        "fr": "Sendai"
+      },
+      "lat": 38.2682,
+      "lng": 140.8694
+    },
+    {
+      "name": {
+        "fr": "Hiroshima"
+      },
+      "lat": 34.3853,
+      "lng": 132.4553
+    },
+    {
+      "name": {
+        "fr": "Kobe"
+      },
+      "lat": 34.6901,
+      "lng": 135.1955
+    },
+    {
+      "name": {
+        "fr": "Kyoto"
+      },
+      "lat": 35.0116,
+      "lng": 135.7681
+    },
+    {
+      "name": {
+        "fr": "Kawasaki"
+      },
+      "lat": 35.5308,
+      "lng": 139.7036
+    },
+    {
+      "name": {
+        "fr": "Saitama"
+      },
+      "lat": 35.8617,
+      "lng": 139.6455
+    },
+    {
+      "name": {
+        "fr": "Kitakyushu"
+      },
+      "lat": 33.8833,
+      "lng": 130.875
+    },
+    {
+      "name": {
+        "fr": "Chiba"
+      },
+      "lat": 35.6074,
+      "lng": 140.1063
+    },
+    {
+      "name": {
+        "fr": "Niigata"
+      },
+      "lat": 37.9162,
+      "lng": 139.0364
+    },
+    {
+      "name": {
+        "fr": "Sakai"
+      },
+      "lat": 34.5735,
+      "lng": 135.4828
+    },
+    {
+      "name": {
+        "fr": "Kumamoto"
+      },
+      "lat": 32.8031,
+      "lng": 130.7079
+    },
+    {
+      "name": {
+        "fr": "Okayama"
+      },
+      "lat": 34.6551,
+      "lng": 133.9195
+    },
+    {
+      "name": {
+        "fr": "Hamamatsu"
+      },
+      "lat": 34.7108,
+      "lng": 137.7269
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les 20 villes les plus peuplées du Japon",
+    "Text": "Les 20 villes les plus peuplées du Japon",
+    "lang": "FR",
+    "pictureURL": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Autumn_in_Mido-suji_Osaka02n.jpg",
+    "setInfo": "AS-JAP",
+    "option": {
+      "rangeError": 300,
+      "rangeErrorAccepted": 100
+    }
+  },
+  "type": [
+    "place",
+    "name",
+    "guess"
+  ]
+}

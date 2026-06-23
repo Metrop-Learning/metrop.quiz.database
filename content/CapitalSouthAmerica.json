@@ -1,0 +1,107 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Buenos Aires"
+      },
+      "lat": -34.61,
+      "lng": -58.38
+    },
+    {
+      "name": {
+        "fr": "Sucre"
+      },
+      "lat": -19.0429,
+      "lng": -65.2554
+    },
+    {
+      "name": {
+        "fr": "Brasília"
+      },
+      "lat": -15.7801,
+      "lng": -47.9292
+    },
+    {
+      "name": {
+        "fr": "Santiago"
+      },
+      "lat": -33.46,
+      "lng": -70.65
+    },
+    {
+      "name": {
+        "fr": "Bogotá"
+      },
+      "lat": 4.61,
+      "lng": -74.08
+    },
+    {
+      "name": {
+        "fr": "Quito"
+      },
+      "lat": -0.23,
+      "lng": -78.52
+    },
+    {
+      "name": {
+        "fr": "Georgetown"
+      },
+      "lat": 6.8,
+      "lng": -58.16
+    },
+    {
+      "name": {
+        "fr": "Asunción"
+      },
+      "lat": -25.3,
+      "lng": -57.64
+    },
+    {
+      "name": {
+        "fr": "Lima"
+      },
+      "lat": -12.04,
+      "lng": -77.03
+    },
+    {
+      "name": {
+        "fr": "Paramaribo"
+      },
+      "lat": 5.87,
+      "lng": -55.17
+    },
+    {
+      "name": {
+        "fr": "Montevideo"
+      },
+      "lat": -34.9,
+      "lng": -56.19
+    },
+    {
+      "name": {
+        "fr": "Caracas"
+      },
+      "lat": 10.49,
+      "lng": -66.88
+    },
+    {
+      "name": {
+        "fr": "Port‑of‑Spain"
+      },
+      "lat": 10.6549,
+      "lng": -61.5019
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les capital des pays d’Amérique du Sud",
+    "Text": "Les capital des 13 pays d’Amérique du Sud. (À l'exception des territoires d'outre-mer de la France, du Royaume-Uni et des Pays-Bas)",
+    "lang": "FR",
+    "setInfo": "AM",
+    "pictureURL": "None"
+  },
+  "type": [
+    "place",
+    "name",
+    "guess"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Chongqing"
+      },
+      "lat": 29.4393,
+      "lng": 106.8877
+    },
+    {
+      "name": {
+        "fr": "Shanghai"
+      },
+      "lat": 31.2244,
+      "lng": 121.4692
+    },
+    {
+      "name": {
+        "fr": "Pékin"
+      },
+      "lat": 39.9167,
+      "lng": 116.3833
+    },
+    {
+      "name": {
+        "fr": "Chengdu"
+      },
+      "lat": 30.657,
+      "lng": 104.066
+    },
+    {
+      "name": {
+        "fr": "Guangzhou"
+      },
+      "lat": 23.129,
+      "lng": 113.253
+    },
+    {
+      "name": {
+        "fr": "Shenzhen"
+      },
+      "lat": 22.5429,
+      "lng": 114.0629
+    },
+    {
+      "name": {
+        "fr": "Wuhan"
+      },
+      "lat": 30.5833,
+      "lng": 114.2833
+    },
+    {
+      "name": {
+        "fr": "Tianjin"
+      },
+      "lat": 39.1333,
+      "lng": 117.1833
+    },
+    {
+      "name": {
+        "fr": "Xi'an"
+      },
+      "lat": 34.2743,
+      "lng": 108.8892
+    },
+    {
+      "name": {
+        "fr": "Zhengzhou"
+      },
+      "lat": 34.7466,
+      "lng": 113.6651
+    },
+    {
+      "name": {
+        "fr": "Suzhou"
+      },
+      "lat": 31.3,
+      "lng": 120.6
+    },
+    {
+      "name": {
+        "fr": "Hangzhou"
+      },
+      "lat": 30.25,
+      "lng": 120.1667
+    },
+    {
+      "name": {
+        "fr": "Shijiazhuang"
+      },
+      "lat": 38.05,
+      "lng": 114.48
+    },
+    {
+      "name": {
+        "fr": "Linyi"
+      },
+      "lat": 35.1021,
+      "lng": 118.346
+    },
+    {
+      "name": {
+        "fr": "Changsha"
+      },
+      "lat": 28.228,
+      "lng": 112.939
+    },
+    {
+      "name": {
+        "fr": "Dongguan"
+      },
+      "lat": 23.0205,
+      "lng": 113.7518
+    },
+    {
+      "name": {
+        "fr": "Qingdao"
+      },
+      "lat": 36.0669,
+      "lng": 120.3827
+    },
+    {
+      "name": {
+        "fr": "Hefei"
+      },
+      "lat": 31.8484,
+      "lng": 117.2724
+    },
+    {
+      "name": {
+        "fr": "Wenzhou"
+      },
+      "lat": 27.9943,
+      "lng": 120.6994
+    },
+    {
+      "name": {
+        "fr": "Foshan"
+      },
+      "lat": 23.027,
+      "lng": 113.131
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les 20 villes les plus peuplées de Chine",
+    "Text": "Les 20 villes les plus peuplées de Chine",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "AS-CHN",
+    "option": {
+      "rangeError": 300,
+      "rangeErrorAccepted": 100
+    }
+  },
+  "type": [
+    "place",
+    "name",
+    "guess"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Jakarta"
+      },
+      "lat": -6.208763,
+      "lng": 106.845599
+    },
+    {
+      "name": {
+        "fr": "Manille"
+      },
+      "lat": 14.599512,
+      "lng": 120.984222
+    },
+    {
+      "name": {
+        "fr": "Hanoï"
+      },
+      "lat": 21.027764,
+      "lng": 105.83416
+    },
+    {
+      "name": {
+        "fr": "Bangkok"
+      },
+      "lat": 13.756331,
+      "lng": 100.501765
+    },
+    {
+      "name": {
+        "fr": "Naypyidaw"
+      },
+      "lat": 19.763306,
+      "lng": 96.07851
+    },
+    {
+      "name": {
+        "fr": "Kuala Lumpur"
+      },
+      "lat": 3.139003,
+      "lng": 101.686855
+    },
+    {
+      "name": {
+        "fr": "Phnom Penh"
+      },
+      "lat": 11.556374,
+      "lng": 104.928209
+    },
+    {
+      "name": {
+        "fr": "Vientiane"
+      },
+      "lat": 17.975705,
+      "lng": 102.633103
+    },
+    {
+      "name": {
+        "fr": "Singapour"
+      },
+      "lat": 1.352083,
+      "lng": 103.819836
+    },
+    {
+      "name": {
+        "fr": "Dili"
+      },
+      "lat": -8.556856,
+      "lng": 125.560314
+    },
+    {
+      "name": {
+        "fr": "Bandar Seri Begawan"
+      },
+      "lat": 4.903052,
+      "lng": 114.939821
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les capital des pays d'Asie du Sud Est",
+    "Text": "Les capital des pays d'Asie du Sud Est",
+    "lang": "FR",
+    "setInfo": "AS",
+    "pictureURL": "None"
+  },
+  "type": [
+    "place",
+    "name",
+    "guess"
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Santiago"
+      },
+      "lat": -33.4489,
+      "lng": -70.6693
+    },
+    {
+      "name": {
+        "fr": "Riyad"
+      },
+      "lat": 24.7136,
+      "lng": 46.6753
+    },
+    {
+      "name": {
+        "fr": "Hong Kong"
+      },
+      "lat": 22.3193,
+      "lng": 114.1694
+    },
+    {
+      "name": {
+        "fr": "Washington"
+      },
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    {
+      "name": {
+        "fr": "Khartoum"
+      },
+      "lat": 15.5007,
+      "lng": 32.5599
+    },
+    {
+      "name": {
+        "fr": "Dar es Salaam"
+      },
+      "lat": -6.7924,
+      "lng": 39.2083
+    },
+    {
+      "name": {
+        "fr": "Shenyang"
+      },
+      "lat": 41.8057,
+      "lng": 123.4315
+    },
+    {
+      "name": {
+        "fr": "Ahmedabad"
+      },
+      "lat": 23.0225,
+      "lng": 72.5714
+    },
+    {
+      "name": {
+        "fr": "Pune"
+      },
+      "lat": 18.5204,
+      "lng": 73.8567
+    },
+    {
+      "name": {
+        "fr": "Nankin"
+      },
+      "lat": 32.0603,
+      "lng": 118.7969
+    },
+    {
+      "name": {
+        "fr": "Kuala Lumpur"
+      },
+      "lat": 3.139,
+      "lng": 101.6869
+    },
+    {
+      "name": {
+        "fr": "Luanda"
+      },
+      "lat": -8.839,
+      "lng": 13.2894
+    },
+    {
+      "name": {
+        "fr": "Chicago"
+      },
+      "lat": 41.8781,
+      "lng": -87.6298
+    },
+    {
+      "name": {
+        "fr": "Nagoya"
+      },
+      "lat": 35.1815,
+      "lng": 136.9066
+    },
+    {
+      "name": {
+        "fr": "Hangzhou"
+      },
+      "lat": 30.2741,
+      "lng": 120.1551
+    },
+    {
+      "name": {
+        "fr": "Bogota"
+      },
+      "lat": 4.711,
+      "lng": -74.0721
+    },
+    {
+      "name": {
+        "fr": "Lima"
+      },
+      "lat": -12.0464,
+      "lng": -77.0428
+    },
+    {
+      "name": {
+        "fr": "Tianjin"
+      },
+      "lat": 39.3434,
+      "lng": 117.3616
+    },
+    {
+      "name": {
+        "fr": "Hyderabad"
+      },
+      "lat": 17.385,
+      "lng": 78.4867
+    },
+    {
+      "name": {
+        "fr": "Dongguan"
+      },
+      "lat": 23.0207,
+      "lng": 113.7518
+    },
+    {
+      "name": {
+        "fr": "Paris"
+      },
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    {
+      "name": {
+        "fr": "Londres"
+      },
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    {
+      "name": {
+        "fr": "Chongqing"
+      },
+      "lat": 29.4316,
+      "lng": 106.9123
+    },
+    {
+      "name": {
+        "fr": "Lahore"
+      },
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    {
+      "name": {
+        "fr": "Xi'an"
+      },
+      "lat": 34.3416,
+      "lng": 108.9398
+    },
+    {
+      "name": {
+        "fr": "Chennai (Madris)"
+      },
+      "lat": 13.0827,
+      "lng": 80.2707
+    },
+    {
+      "name": {
+        "fr": "Wuhan"
+      },
+      "lat": 30.5928,
+      "lng": 114.3055
+    },
+    {
+      "name": {
+        "fr": "Rio de Janeiro"
+      },
+      "lat": -22.9068,
+      "lng": -43.1729
+    },
+    {
+      "name": {
+        "fr": "Kinshasa"
+      },
+      "lat": -4.4419,
+      "lng": 15.2663
+    },
+    {
+      "name": {
+        "fr": "Téhéran"
+      },
+      "lat": 35.6892,
+      "lng": 51.389
+    },
+    {
+      "name": {
+        "fr": "Istanbul"
+      },
+      "lat": 41.0082,
+      "lng": 28.9784
+    },
+    {
+      "name": {
+        "fr": "Johannesbourg"
+      },
+      "lat": -26.2041,
+      "lng": 28.0473
+    },
+    {
+      "name": {
+        "fr": "Osaka-Kobe-Kyoto"
+      },
+      "lat": 34.6937,
+      "lng": 135.5023
+    },
+    {
+      "name": {
+        "fr": "Ho Chi Minh villes"
+      },
+      "lat": 10.8231,
+      "lng": 106.6297
+    },
+    {
+      "name": {
+        "fr": "Los Angeles"
+      },
+      "lat": 34.0522,
+      "lng": -118.2437
+    },
+    {
+      "name": {
+        "fr": "Bangalore"
+      },
+      "lat": 12.9716,
+      "lng": 77.5946
+    },
+    {
+      "name": {
+        "fr": "Karachi"
+      },
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    {
+      "name": {
+        "fr": "Lagos"
+      },
+      "lat": 6.5244,
+      "lng": 3.3792
+    },
+    {
+      "name": {
+        "fr": "Buenos Aires"
+      },
+      "lat": -34.6037,
+      "lng": -58.3816
+    },
+    {
+      "name": {
+        "fr": "Moscou"
+      },
+      "lat": 55.7558,
+      "lng": 37.6173
+    },
+    {
+      "name": {
+        "fr": "Shenzhen"
+      },
+      "lat": 22.5431,
+      "lng": 114.0579
+    },
+    {
+      "name": {
+        "fr": "Bangkok"
+      },
+      "lat": 13.7563,
+      "lng": 100.5018
+    },
+    {
+      "name": {
+        "fr": "Beijing (Pékin)"
+      },
+      "lat": 39.9042,
+      "lng": 116.4074
+    },
+    {
+      "name": {
+        "fr": "Dacca"
+      },
+      "lat": 23.8103,
+      "lng": 90.4125
+    },
+    {
+      "name": {
+        "fr": "Le Caire"
+      },
+      "lat": 30.0444,
+      "lng": 31.2357
+    },
+    {
+      "name": {
+        "fr": "Chengdu"
+      },
+      "lat": 30.5728,
+      "lng": 104.0668
+    },
+    {
+      "name": {
+        "fr": "New York - Newark"
+      },
+      "lat": 40.7128,
+      "lng": -74.006
+    },
+    {
+      "name": {
+        "fr": "Calcutta"
+      },
+      "lat": 22.5726,
+      "lng": 88.3639
+    },
+    {
+      "name": {
+        "fr": "Mexico"
+      },
+      "lat": 19.4326,
+      "lng": -99.1332
+    },
+    {
+      "name": {
+        "fr": "Séoul"
+      },
+      "lat": 37.5665,
+      "lng": 126.978
+    },
+    {
+      "name": {
+        "fr": "Sao Paulo"
+      },
+      "lat": -23.5505,
+      "lng": -46.6333
+    },
+    {
+      "name": {
+        "fr": "Shanghai"
+      },
+      "lat": 31.2304,
+      "lng": 121.4737
+    },
+    {
+      "name": {
+        "fr": "Manille"
+      },
+      "lat": 14.5995,
+      "lng": 120.9842
+    },
+    {
+      "name": {
+        "fr": "Mumbai"
+      },
+      "lat": 19.076,
+      "lng": 72.8777
+    },
+    {
+      "name": {
+        "fr": "Canton"
+      },
+      "lat": 23.1291,
+      "lng": 113.2644
+    },
+    {
+      "name": {
+        "fr": "Delhi"
+      },
+      "lat": 28.7041,
+      "lng": 77.1025
+    },
+    {
+      "name": {
+        "fr": "Jakarta"
+      },
+      "lat": -6.2088,
+      "lng": 106.8456
+    },
+    {
+      "name": {
+        "fr": "Tokyo - Yokohama"
+      },
+      "lat": 35.6762,
+      "lng": 139.6503
+    }
+  ],
+  "cardInfo": {
+    "Title": "Mégalopoles [Expert]",
+    "Text": "Les mégapoles (étendue aux agglomérations de plus de 7 millions d’habitants)",
+    "lang": "FR",
+    "pictureURL": "None"
+  },
+  "type": [
+    "place",
+    "name",
+    "guess"
+  ]
+}

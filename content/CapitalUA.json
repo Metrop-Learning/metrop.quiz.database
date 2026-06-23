@@ -1,0 +1,405 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Alger"
+      },
+      "lat": 36.7538,
+      "lng": 3.0588
+    },
+    {
+      "name": {
+        "fr": "Luanda"
+      },
+      "lat": -8.839,
+      "lng": 13.2894
+    },
+    {
+      "name": {
+        "fr": "Porto-Novo"
+      },
+      "lat": 6.4969,
+      "lng": 2.6289
+    },
+    {
+      "name": {
+        "fr": "Gaborone"
+      },
+      "lat": -24.6282,
+      "lng": 25.9231
+    },
+    {
+      "name": {
+        "fr": "Ouagadougou"
+      },
+      "lat": 12.3714,
+      "lng": -1.5197
+    },
+    {
+      "name": {
+        "fr": "Gitega"
+      },
+      "lat": -3.4271,
+      "lng": 29.9246
+    },
+    {
+      "name": {
+        "fr": "Praia"
+      },
+      "lat": 14.933,
+      "lng": -23.5133
+    },
+    {
+      "name": {
+        "fr": "Yaoundé"
+      },
+      "lat": 3.848,
+      "lng": 11.5021
+    },
+    {
+      "name": {
+        "fr": "Bangui"
+      },
+      "lat": 4.3947,
+      "lng": 18.5582
+    },
+    {
+      "name": {
+        "fr": "N'Djaména"
+      },
+      "lat": 12.1348,
+      "lng": 15.0557
+    },
+    {
+      "name": {
+        "fr": "Moroni"
+      },
+      "lat": -11.7172,
+      "lng": 43.2473
+    },
+    {
+      "name": {
+        "fr": "Brazzaville"
+      },
+      "lat": -4.2634,
+      "lng": 15.2429
+    },
+    {
+      "name": {
+        "fr": "Kinshasa"
+      },
+      "lat": -4.4419,
+      "lng": 15.2663
+    },
+    {
+      "name": {
+        "fr": "Yamoussoukro"
+      },
+      "lat": 6.8276,
+      "lng": -5.2893
+    },
+    {
+      "name": {
+        "fr": "Djibouti"
+      },
+      "lat": 11.8251,
+      "lng": 42.5903
+    },
+    {
+      "name": {
+        "fr": "Le Caire"
+      },
+      "lat": 30.0444,
+      "lng": 31.2357
+    },
+    {
+      "name": {
+        "fr": "Malabo"
+      },
+      "lat": 3.75,
+      "lng": 8.7833
+    },
+    {
+      "name": {
+        "fr": "Asmara"
+      },
+      "lat": 15.3229,
+      "lng": 38.9251
+    },
+    {
+      "name": {
+        "fr": "Mbabane"
+      },
+      "lat": -26.3054,
+      "lng": 31.1367
+    },
+    {
+      "name": {
+        "fr": "Addis-Abeba"
+      },
+      "lat": 8.9806,
+      "lng": 38.7578
+    },
+    {
+      "name": {
+        "fr": "Libreville"
+      },
+      "lat": 0.4162,
+      "lng": 9.4673
+    },
+    {
+      "name": {
+        "fr": "Banjul"
+      },
+      "lat": 13.4549,
+      "lng": -16.579
+    },
+    {
+      "name": {
+        "fr": "Accra"
+      },
+      "lat": 5.6037,
+      "lng": -0.187
+    },
+    {
+      "name": {
+        "fr": "Conakry"
+      },
+      "lat": 9.6412,
+      "lng": -13.5784
+    },
+    {
+      "name": {
+        "fr": "Bissau"
+      },
+      "lat": 11.8817,
+      "lng": -15.617
+    },
+    {
+      "name": {
+        "fr": "Nairobi"
+      },
+      "lat": -1.2921,
+      "lng": 36.8219
+    },
+    {
+      "name": {
+        "fr": "Maseru"
+      },
+      "lat": -29.3151,
+      "lng": 27.4869
+    },
+    {
+      "name": {
+        "fr": "Monrovia"
+      },
+      "lat": 6.3156,
+      "lng": -10.8074
+    },
+    {
+      "name": {
+        "fr": "Tripoli"
+      },
+      "lat": 32.8872,
+      "lng": 13.1913
+    },
+    {
+      "name": {
+        "fr": "Antananarivo"
+      },
+      "lat": -18.8792,
+      "lng": 47.5079
+    },
+    {
+      "name": {
+        "fr": "Lilongwe"
+      },
+      "lat": -13.9626,
+      "lng": 33.7741
+    },
+    {
+      "name": {
+        "fr": "Bamako"
+      },
+      "lat": 12.6392,
+      "lng": -8.0029
+    },
+    {
+      "name": {
+        "fr": "Nouakchott"
+      },
+      "lat": 18.0735,
+      "lng": -15.9582
+    },
+    {
+      "name": {
+        "fr": "Port-Louis"
+      },
+      "lat": -20.1609,
+      "lng": 57.5012
+    },
+    {
+      "name": {
+        "fr": "Rabat"
+      },
+      "lat": 34.0209,
+      "lng": -6.8416
+    },
+    {
+      "name": {
+        "fr": "Maputo"
+      },
+      "lat": -25.9692,
+      "lng": 32.5732
+    },
+    {
+      "name": {
+        "fr": "Windhoek"
+      },
+      "lat": -22.5609,
+      "lng": 17.0658
+    },
+    {
+      "name": {
+        "fr": "Niamey"
+      },
+      "lat": 13.5116,
+      "lng": 2.1254
+    },
+    {
+      "name": {
+        "fr": "Abuja"
+      },
+      "lat": 9.0765,
+      "lng": 7.3986
+    },
+    {
+      "name": {
+        "fr": "Kigali"
+      },
+      "lat": -1.9706,
+      "lng": 30.1044
+    },
+    {
+      "name": {
+        "fr": "São Tomé"
+      },
+      "lat": 0.3365,
+      "lng": 6.7273
+    },
+    {
+      "name": {
+        "fr": "Dakar"
+      },
+      "lat": 14.7167,
+      "lng": -17.4677
+    },
+    {
+      "name": {
+        "fr": "Victoria"
+      },
+      "lat": -4.6191,
+      "lng": 55.4513
+    },
+    {
+      "name": {
+        "fr": "Freetown"
+      },
+      "lat": 8.4657,
+      "lng": -13.2317
+    },
+    {
+      "name": {
+        "fr": "Mogadiscio"
+      },
+      "lat": 2.0469,
+      "lng": 45.3182
+    },
+    {
+      "name": {
+        "fr": "Pretoria"
+      },
+      "lat": -25.7479,
+      "lng": 28.2293
+    },
+    {
+      "name": {
+        "fr": "Djouba"
+      },
+      "lat": 4.8594,
+      "lng": 31.5713
+    },
+    {
+      "name": {
+        "fr": "Khartoum"
+      },
+      "lat": 15.5007,
+      "lng": 32.5599
+    },
+    {
+      "name": {
+        "fr": "Dodoma"
+      },
+      "lat": -6.163,
+      "lng": 35.7516
+    },
+    {
+      "name": {
+        "fr": "Lomé"
+      },
+      "lat": 6.1725,
+      "lng": 1.2314
+    },
+    {
+      "name": {
+        "fr": "Tunis"
+      },
+      "lat": 36.8065,
+      "lng": 10.1815
+    },
+    {
+      "name": {
+        "fr": "Kampala"
+      },
+      "lat": 0.3476,
+      "lng": 32.5825
+    },
+    {
+      "name": {
+        "fr": "Lusaka"
+      },
+      "lat": -15.3875,
+      "lng": 28.3228
+    },
+    {
+      "name": {
+        "fr": "Harare"
+      },
+      "lat": -17.8252,
+      "lng": 31.0335
+    },
+    {
+      "name": {
+        "fr": "Tifariti"
+      },
+      "lat": 26.1583,
+      "lng": -10.567
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les capitales des États membres de l’Union africaine (UA)",
+    "Text": "Les capitales des États membres de l’Union africaine (UA), y compris celle de la République arabe sahraouie démocratique, dont le statut fait l’objet de contestations internationales.",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "AF",
+    "option": {
+      "rangeError": 300,
+      "rangeErrorAccepted": 100
+    }
+  },
+  "type": [
+    "place",
+    "name",
+    "guess"
+  ]
+}

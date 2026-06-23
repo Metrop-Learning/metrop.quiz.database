@@ -1,0 +1,113 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Los Angeles"
+      },
+      "lat": 34.052235,
+      "lng": -118.243683
+    },
+    {
+      "name": {
+        "fr": "New York"
+      },
+      "lat": 40.712776,
+      "lng": -74.005974
+    },
+    {
+      "name": {
+        "fr": "Mexico"
+      },
+      "lat": 19.432608,
+      "lng": -99.133209
+    },
+    {
+      "name": {
+        "fr": "São Paulo"
+      },
+      "lat": -23.55052,
+      "lng": -46.633308
+    },
+    {
+      "name": {
+        "fr": "Le Caire"
+      },
+      "lat": 30.04442,
+      "lng": 31.235712
+    },
+    {
+      "name": {
+        "fr": "Lagos"
+      },
+      "lat": 6.524379,
+      "lng": 3.379206
+    },
+    {
+      "name": {
+        "fr": "Osaka"
+      },
+      "lat": 34.693737,
+      "lng": 135.502167
+    },
+    {
+      "name": {
+        "fr": "Tokyo"
+      },
+      "lat": 35.689487,
+      "lng": 139.691711
+    },
+    {
+      "name": {
+        "fr": "Séoul"
+      },
+      "lat": 37.5665,
+      "lng": 126.978
+    },
+    {
+      "name": {
+        "fr": "Mumbai"
+      },
+      "lat": 19.075983,
+      "lng": 72.877655
+    },
+    {
+      "name": {
+        "fr": "Jakarta"
+      },
+      "lat": -6.208763,
+      "lng": 106.845599
+    },
+    {
+      "name": {
+        "fr": "Manille"
+      },
+      "lat": 14.599512,
+      "lng": 120.984222
+    },
+    {
+      "name": {
+        "fr": "Shanghai"
+      },
+      "lat": 31.230416,
+      "lng": 121.473701
+    },
+    {
+      "name": {
+        "fr": "Pékin"
+      },
+      "lat": 39.904202,
+      "lng": 116.407394
+    }
+  ],
+  "cardInfo": {
+    "Title": "Mégalopoles [Facile]",
+    "Text": "Les villes les plus peuplées au monde",
+    "lang": "FR",
+    "pictureURL": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Skyscrapers_Shinjuku_25_January_2004_rev.jpg"
+  },
+  "type": [
+    "place",
+    "name",
+    "guess"
+  ]
+}

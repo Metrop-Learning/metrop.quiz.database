@@ -1,0 +1,202 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Paris"
+      },
+      "lat": 48.86,
+      "lng": 2.34
+    },
+    {
+      "name": {
+        "fr": "Lyon"
+      },
+      "lat": 45.76,
+      "lng": 4.83
+    },
+    {
+      "name": {
+        "fr": "Marseille"
+      },
+      "lat": 43.31,
+      "lng": 5.37
+    },
+    {
+      "name": {
+        "fr": "Nice"
+      },
+      "lat": 43.7,
+      "lng": 7.27
+    },
+    {
+      "name": {
+        "fr": "Toulon"
+      },
+      "lat": 43.13,
+      "lng": 5.92
+    },
+    {
+      "name": {
+        "fr": "Ajaccio"
+      },
+      "lat": 41.92,
+      "lng": 8.738
+    },
+    {
+      "name": {
+        "fr": "Montpellier"
+      },
+      "lat": 43.61,
+      "lng": 3.87
+    },
+    {
+      "name": {
+        "fr": "Toulouse"
+      },
+      "lat": 43.62,
+      "lng": 1.45
+    },
+    {
+      "name": {
+        "fr": "Bordeaux"
+      },
+      "lat": 44.84,
+      "lng": -0.58
+    },
+    {
+      "name": {
+        "fr": "Grenoble"
+      },
+      "lat": 45.19,
+      "lng": 5.72
+    },
+    {
+      "name": {
+        "fr": "Saint-Étienne"
+      },
+      "lat": 45.43,
+      "lng": 4.39
+    },
+    {
+      "name": {
+        "fr": "Clermont-Ferrand"
+      },
+      "lat": 45.78,
+      "lng": 3.08
+    },
+    {
+      "name": {
+        "fr": "Dijon"
+      },
+      "lat": 47.33,
+      "lng": 5.03
+    },
+    {
+      "name": {
+        "fr": "Nancy"
+      },
+      "lat": 48.69,
+      "lng": 6.17
+    },
+    {
+      "name": {
+        "fr": "Metz"
+      },
+      "lat": 49.12,
+      "lng": 6.18
+    },
+    {
+      "name": {
+        "fr": "Strasbourg"
+      },
+      "lat": 48.58,
+      "lng": 7.76
+    },
+    {
+      "name": {
+        "fr": "Lille"
+      },
+      "lat": 50.64,
+      "lng": 3.07
+    },
+    {
+      "name": {
+        "fr": "Rouen"
+      },
+      "lat": 49.44,
+      "lng": 1.08
+    },
+    {
+      "name": {
+        "fr": "Orléans"
+      },
+      "lat": 47.9,
+      "lng": 1.9
+    },
+    {
+      "name": {
+        "fr": "Tours"
+      },
+      "lat": 47.38,
+      "lng": 0.69
+    },
+    {
+      "name": {
+        "fr": "Nantes"
+      },
+      "lat": 47.23,
+      "lng": -1.57
+    },
+    {
+      "name": {
+        "fr": "Rennes"
+      },
+      "lat": 48.11,
+      "lng": -1.68
+    },
+    {
+      "name": {
+        "fr": "Brest"
+      },
+      "lat": 48.39,
+      "lng": -4.5
+    },
+    {
+      "name": {
+        "fr": "Pointe-à-Pitre"
+      },
+      "lat": 16.241,
+      "lng": -61.535
+    },
+    {
+      "name": {
+        "fr": "Fort-de-France"
+      },
+      "lat": 14.61,
+      "lng": -61.07
+    },
+    {
+      "name": {
+        "fr": "Saint-Denis"
+      },
+      "lat": -20.88,
+      "lng": 55.45
+    }
+  ],
+  "cardInfo": {
+    "Title": "Métropole Française",
+    "Text": "Les métropoles françaises",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-FRA",
+    "option": {
+      "rangeError": 300,
+      "rangeErrorAccepted": 100
+    }
+  },
+  "type": [
+    "place",
+    "name",
+    "guess"
+  ]
+}

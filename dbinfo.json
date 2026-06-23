@@ -1,0 +1,39 @@
+{
+    "ID": "metrop.geo.database",
+    "NAME": {
+        "en": "Default Metrop Quiz List"
+    },
+    "API_VER":[1,0],
+    "VER": [
+        1,
+        0,
+        0
+    ],
+    "DATE": [
+        2026,
+        6,
+        23
+    ],
+    "PROVIDER": "METROP_LEARNING_ORGANISATION",
+    "TYPE": "MODERN_DAY",
+    "CONTENT_ADVISORY": {
+        "CONTESTED_TERRITORY": true
+    },
+    "LICENSE": "Copyright (c) 2026 Metrop. All Rights Reserved.",
+    "QUIZ_LIST": [
+        "CapitalCanada.json",
+        "CapitalEurope.json",
+        "CapitalEuropeanUnion.json",
+        "CapitalSouthAmerica.json",
+        "CapitalUA.json",
+        "Megacity.json",
+        "MegacityEasy.json",
+        "MegacityHard.json",
+        "MetroCityFrance.json",
+        "Most10PopulatedCity.json",
+        "Most20PopulatedCityChina.json",
+        "Most20PopulatedCityJapan.json",
+        "SouthAsiaCapital.json",
+        "SouthEasternAsiaCapital.json"
+    ]
+}

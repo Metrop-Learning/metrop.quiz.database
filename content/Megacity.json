@@ -1,0 +1,246 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Los Angeles"
+      },
+      "lat": 34.052235,
+      "lng": -118.243683
+    },
+    {
+      "name": {
+        "fr": "New York"
+      },
+      "lat": 40.712776,
+      "lng": -74.005974
+    },
+    {
+      "name": {
+        "fr": "Mexico"
+      },
+      "lat": 19.432608,
+      "lng": -99.133209
+    },
+    {
+      "name": {
+        "fr": "Bogotá"
+      },
+      "lat": 4.711,
+      "lng": -74.072092
+    },
+    {
+      "name": {
+        "fr": "Rio de Janeiro"
+      },
+      "lat": -22.906847,
+      "lng": -43.172897
+    },
+    {
+      "name": {
+        "fr": "São Paulo"
+      },
+      "lat": -23.55052,
+      "lng": -46.633308
+    },
+    {
+      "name": {
+        "fr": "Buenos Aires"
+      },
+      "lat": -34.603722,
+      "lng": -58.381592
+    },
+    {
+      "name": {
+        "fr": "Londres"
+      },
+      "lat": 51.507351,
+      "lng": -0.127758
+    },
+    {
+      "name": {
+        "fr": "Paris"
+      },
+      "lat": 48.856613,
+      "lng": 2.352222
+    },
+    {
+      "name": {
+        "fr": "Istanbul"
+      },
+      "lat": 41.008238,
+      "lng": 28.978359
+    },
+    {
+      "name": {
+        "fr": "Moscou"
+      },
+      "lat": 55.755825,
+      "lng": 37.617298
+    },
+    {
+      "name": {
+        "fr": "Le Caire"
+      },
+      "lat": 30.04442,
+      "lng": 31.235712
+    },
+    {
+      "name": {
+        "fr": "Lagos"
+      },
+      "lat": 6.524379,
+      "lng": 3.379206
+    },
+    {
+      "name": {
+        "fr": "Khartoum"
+      },
+      "lat": 15.500654,
+      "lng": 32.559899
+    },
+    {
+      "name": {
+        "fr": "Kinshasa"
+      },
+      "lat": -4.441931,
+      "lng": 15.266293
+    },
+    {
+      "name": {
+        "fr": "Osaka"
+      },
+      "lat": 34.693737,
+      "lng": 135.502167
+    },
+    {
+      "name": {
+        "fr": "Tokyo"
+      },
+      "lat": 35.689487,
+      "lng": 139.691711
+    },
+    {
+      "name": {
+        "fr": "Lahore"
+      },
+      "lat": 31.52037,
+      "lng": 74.358749
+    },
+    {
+      "name": {
+        "fr": "Karachi"
+      },
+      "lat": 24.860735,
+      "lng": 67.001137
+    },
+    {
+      "name": {
+        "fr": "Delhi"
+      },
+      "lat": 28.70406,
+      "lng": 77.102493
+    },
+    {
+      "name": {
+        "fr": "Mumbai"
+      },
+      "lat": 19.075983,
+      "lng": 72.877655
+    },
+    {
+      "name": {
+        "fr": "Bangalore"
+      },
+      "lat": 12.971599,
+      "lng": 77.594566
+    },
+    {
+      "name": {
+        "fr": "Chennai"
+      },
+      "lat": 13.08268,
+      "lng": 80.270718
+    },
+    {
+      "name": {
+        "fr": "Calcutta"
+      },
+      "lat": 22.572646,
+      "lng": 88.363895
+    },
+    {
+      "name": {
+        "fr": "Dacca"
+      },
+      "lat": 23.810331,
+      "lng": 90.412521
+    },
+    {
+      "name": {
+        "fr": "Jakarta"
+      },
+      "lat": -6.208763,
+      "lng": 106.845599
+    },
+    {
+      "name": {
+        "fr": "Manille"
+      },
+      "lat": 14.599512,
+      "lng": 120.984222
+    },
+    {
+      "name": {
+        "fr": "Shanghai"
+      },
+      "lat": 31.230416,
+      "lng": 121.473701
+    },
+    {
+      "name": {
+        "fr": "Pékin"
+      },
+      "lat": 39.904202,
+      "lng": 116.407394
+    },
+    {
+      "name": {
+        "fr": "Tianjin"
+      },
+      "lat": 39.343357,
+      "lng": 117.361649
+    },
+    {
+      "name": {
+        "fr": "Chongqing"
+      },
+      "lat": 29.431586,
+      "lng": 106.912254
+    },
+    {
+      "name": {
+        "fr": "Shenzhen"
+      },
+      "lat": 22.543096,
+      "lng": 114.057865
+    },
+    {
+      "name": {
+        "fr": "Guangzhou"
+      },
+      "lat": 23.12911,
+      "lng": 113.264385
+    }
+  ],
+  "cardInfo": {
+    "Title": "Mégalopoles [Intermédiaire]",
+    "Text": "Les villes les plus peuplées au monde",
+    "lang": "FR",
+    "pictureURL": "None"
+  },
+  "type": [
+    "place",
+    "name",
+    "guess"
+  ]
+}
