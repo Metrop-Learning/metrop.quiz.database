@@ -1,0 +1,134 @@
+{
+  "list": [
+    {
+      "id": "AS-IDN-AC"
+    },
+    {
+      "id": "AS-IDN-SU"
+    },
+    {
+      "id": "AS-IDN-SB"
+    },
+    {
+      "id": "AS-IDN-RI"
+    },
+    {
+      "id": "AS-IDN-JA"
+    },
+    {
+      "id": "AS-IDN-SS"
+    },
+    {
+      "id": "AS-IDN-BE"
+    },
+    {
+      "id": "AS-IDN-LA"
+    },
+    {
+      "id": "AS-IDN-BB"
+    },
+    {
+      "id": "AS-IDN-KR"
+    },
+    {
+      "id": "AS-IDN-JK"
+    },
+    {
+      "id": "AS-IDN-JB"
+    },
+    {
+      "id": "AS-IDN-JT"
+    },
+    {
+      "id": "AS-IDN-YO"
+    },
+    {
+      "id": "AS-IDN-JI"
+    },
+    {
+      "id": "AS-IDN-BT"
+    },
+    {
+      "id": "AS-IDN-BA"
+    },
+    {
+      "id": "AS-IDN-NB"
+    },
+    {
+      "id": "AS-IDN-NT"
+    },
+    {
+      "id": "AS-IDN-KB"
+    },
+    {
+      "id": "AS-IDN-KT"
+    },
+    {
+      "id": "AS-IDN-KS"
+    },
+    {
+      "id": "AS-IDN-KI"
+    },
+    {
+      "id": "AS-IDN-KU"
+    },
+    {
+      "id": "AS-IDN-SA"
+    },
+    {
+      "id": "AS-IDN-ST"
+    },
+    {
+      "id": "AS-IDN-SN"
+    },
+    {
+      "id": "AS-IDN-SG"
+    },
+    {
+      "id": "AS-IDN-GO"
+    },
+    {
+      "id": "AS-IDN-SR"
+    },
+    {
+      "id": "AS-IDN-MA"
+    },
+    {
+      "id": "AS-IDN-MU"
+    },
+    {
+      "id": "AS-IDN-PA"
+    },
+    {
+      "id": "AS-IDN-PB"
+    },
+    {
+      "id": "AS-IDN-PS"
+    },
+    {
+      "id": "AS-IDN-PT"
+    },
+    {
+      "id": "AS-IDN-PE"
+    },
+    {
+      "id": "AS-IDN-PD"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les provinces de l'Indonésie",
+    "Text": "Les 38 provinces de l'Indonésie",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "AS-IDN",
+    "option": {
+      "tryMax": 2,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

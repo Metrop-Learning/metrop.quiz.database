@@ -1,0 +1,68 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Attique"
+      },
+      "id": "EU-GRC-AT"
+    },
+    {
+      "name": {
+        "fr": "Macédoine-Thrace"
+      },
+      "id": "EU-GRC-MT"
+    },
+    {
+      "name": {
+        "fr": "Épire-Macédoine-Occidentale"
+      },
+      "id": "EU-GRC-EO"
+    },
+    {
+      "name": {
+        "fr": "Thessalie-Grèce-Centrale"
+      },
+      "id": "EU-GRC-TC"
+    },
+    {
+      "name": {
+        "fr": "Péloponnèse-Grèce occidentale-Îles Ioniennes"
+      },
+      "id": "EU-GRC-PI"
+    },
+    {
+      "name": {
+        "fr": "Égée"
+      },
+      "id": "EU-GRC-EG"
+    },
+    {
+      "name": {
+        "fr": "Crète"
+      },
+      "id": "EU-GRC-CR"
+    },
+    {
+      "name": {
+        "fr": "Communauté monastique du mont Athos"
+      },
+      "id": "EU-GRC-MA"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les diocèses décentralisés de la Grèce",
+    "Text": "Les 7 diocèses décentralisés de la Grèce et la Communauté monastique du mont Athos",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-GRC",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

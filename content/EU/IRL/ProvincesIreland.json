@@ -1,0 +1,34 @@
+{
+  "list": [
+    {
+      "id": "EU-IRL-ULST"
+    },
+    {
+      "id": "EU-IRL-CONN"
+    },
+    {
+      "id": "EU-IRL-LEIN"
+    },
+    {
+      "id": "EU-IRL-MUNS"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Provinces d'Irlande",
+    "Text": "Les 4 provinces ne sont pas des subdivisions administratives de l'Irlande, mais une division historique du territoire. (La provinces d'Ulster est ici réprésenter sans Les six comtés britanniques qui relèvent de l'autorité de l'Irlande du Nord).",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-IRL",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "fromFlag",
+    "fromName",
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

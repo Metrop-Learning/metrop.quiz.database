@@ -1,0 +1,60 @@
+{
+  "list": [
+    {
+      "id": "AM-ARG"
+    },
+    {
+      "id": "AM-BOL"
+    },
+    {
+      "id": "AM-BRA"
+    },
+    {
+      "id": "AM-CHL"
+    },
+    {
+      "id": "AM-COL"
+    },
+    {
+      "id": "AM-ECU"
+    },
+    {
+      "id": "AM-GUY"
+    },
+    {
+      "id": "AM-PRY"
+    },
+    {
+      "id": "AM-PER"
+    },
+    {
+      "id": "AM-SUR"
+    },
+    {
+      "id": "AM-TTO"
+    },
+    {
+      "id": "AM-URY"
+    },
+    {
+      "id": "AM-VEN"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Pays d'Amérique du Sud",
+    "Text": "Les 13 pays d'Amérique du Sud (À l'exception des territoires d'outre-mer de la France, du Royaume-Uni et des Pays-Bas)",
+    "lang": "FR",
+    "pictureURL": "None",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "fromFlag",
+    "fromName",
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

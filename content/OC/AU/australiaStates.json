@@ -1,0 +1,38 @@
+{
+  "list": [
+    {
+      "id": "OC-AU-SA"
+    },
+    {
+      "id": "OC-AU-WA"
+    },
+    {
+      "id": "OC-AU-NGS"
+    },
+    {
+      "id": "OC-AU-QLD"
+    },
+    {
+      "id": "OC-AU-TAS"
+    },
+    {
+      "id": "OC-AU-VIC"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les États de l'Australie",
+    "Text": "Les 6 États de l’Australie.",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "OC-AU",
+    "option": {
+      "tryMax": 2,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

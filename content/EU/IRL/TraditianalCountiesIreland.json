@@ -1,0 +1,98 @@
+{
+  "list": [
+    {
+      "id": "EU-IRL-LEIN-CW"
+    },
+    {
+      "id": "EU-IRL-LEIN-D"
+    },
+    {
+      "id": "EU-IRL-LEIN-KD"
+    },
+    {
+      "id": "EU-IRL-LEIN-KK"
+    },
+    {
+      "id": "EU-IRL-LEIN-LS"
+    },
+    {
+      "id": "EU-IRL-LEIN-LM"
+    },
+    {
+      "id": "EU-IRL-LEIN-LH"
+    },
+    {
+      "id": "EU-IRL-LEIN-MH"
+    },
+    {
+      "id": "EU-IRL-LEIN-OY"
+    },
+    {
+      "id": "EU-IRL-LEIN-WH"
+    },
+    {
+      "id": "EU-IRL-LEIN-WW"
+    },
+    {
+      "id": "EU-IRL-LEIN-WX"
+    },
+    {
+      "id": "EU-IRL-CONN-G"
+    },
+    {
+      "id": "EU-IRL-CONN-LD"
+    },
+    {
+      "id": "EU-IRL-CONN-MO"
+    },
+    {
+      "id": "EU-IRL-CONN-RN"
+    },
+    {
+      "id": "EU-IRL-CONN-SO"
+    },
+    {
+      "id": "EU-IRL-ULST-CN"
+    },
+    {
+      "id": "EU-IRL-ULST-DL"
+    },
+    {
+      "id": "EU-IRL-ULST-MN"
+    },
+    {
+      "id": "EU-IRL-MUNS-CE"
+    },
+    {
+      "id": "EU-IRL-MUNS-CO"
+    },
+    {
+      "id": "EU-IRL-MUNS-KY"
+    },
+    {
+      "id": "EU-IRL-MUNS-LK"
+    },
+    {
+      "id": "EU-IRL-MUNS-TA"
+    },
+    {
+      "id": "EU-IRL-MUNS-WD"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Comté Traditionnels d'Irlande",
+    "Text": "Les 26 Comté Traditionnels d'Irlande ne coresponde plus exactement à des subdivisions administratives de l'Irlande. (Sans Les six comtés britanniques qui relèvent de l'autorité de l'Irlande du Nord).",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-IRL",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

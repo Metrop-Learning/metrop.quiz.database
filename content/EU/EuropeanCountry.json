@@ -1,0 +1,167 @@
+{
+  "list": [
+    {
+      "id": "EU-DEU"
+    },
+    {
+      "id": "EU-AUT"
+    },
+    {
+      "id": "EU-BEL"
+    },
+    {
+      "id": "EU-BGR"
+    },
+    {
+      "id": "EU-HRV"
+    },
+    {
+      "id": "EU-DNK"
+    },
+    {
+      "id": "EU-ESP"
+    },
+    {
+      "id": "EU-EST"
+    },
+    {
+      "id": "EU-FIN"
+    },
+    {
+      "id": "EU-FRA"
+    },
+    {
+      "id": "EU-GRC"
+    },
+    {
+      "id": "EU-HUN"
+    },
+    {
+      "id": "EU-IRL"
+    },
+    {
+      "id": "EU-ITA"
+    },
+    {
+      "id": "EU-LVA"
+    },
+    {
+      "id": "EU-LTU"
+    },
+    {
+      "id": "EU-LUX"
+    },
+    {
+      "id": "EU-MLT"
+    },
+    {
+      "id": "EU-NLD"
+    },
+    {
+      "id": "EU-POL"
+    },
+    {
+      "id": "EU-PRT"
+    },
+    {
+      "id": "EU-CZE"
+    },
+    {
+      "id": "EU-ROU"
+    },
+    {
+      "id": "EU-SVK"
+    },
+    {
+      "id": "EU-SVN"
+    },
+    {
+      "id": "EU-SWE"
+    },
+    {
+      "id": "EU-NOR"
+    },
+    {
+      "id": "EU-ISL"
+    },
+    {
+      "id": "EU-LIE"
+    },
+    {
+      "id": "EU-VAT"
+    },
+    {
+      "id": "EU-MCO"
+    },
+    {
+      "id": "EU-CHE"
+    },
+    {
+      "id": "EU-AND"
+    },
+    {
+      "id": "EU-UK"
+    },
+    {
+      "id": "EU-ALB"
+    },
+    {
+      "id": "EU-MNE"
+    },
+    {
+      "id": "EU-NWR:RKS"
+    },
+    {
+      "id": "EU-MKD"
+    },
+    {
+      "id": "EU-SRB"
+    },
+    {
+      "id": "EU-BIH"
+    },
+    {
+      "id": "EU-MDA"
+    },
+    {
+      "id": "EU-BLR"
+    },
+    {
+      "id": "EU-UKR"
+    },
+    {
+      "id": "EU-SMR"
+    },
+    {
+      "id": "EU-RUS"
+    },
+    {
+      "id": "EU-TUR"
+    },
+    {
+      "id": "EU-KAZ"
+    },
+    {
+      "id": "EU-GEO"
+    },
+    {
+      "id": "EU-AZE"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Pays d'Europe",
+    "Text": "Les 50 pays de l'Europe dont 5 pays intercontinentaux (Il convient de noter que Chypre n'est pas située géographiquement en Europe, bien qu'elle y soit politiquement liée. C'est pourquoi Chypre n'a pas été incluse sur cette carte.)",
+    "lang": "FR",
+    "setInfo": "EU",
+    "pictureURL": "None",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "fromFlag",
+    "fromName",
+    "placeTerritory"
+  ]
+}

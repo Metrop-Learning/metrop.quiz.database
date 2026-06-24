@@ -1,0 +1,140 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Abruzzes"
+      },
+      "id": "EU-ITA-ABR"
+    },
+    {
+      "name": {
+        "fr": "Basilicate"
+      },
+      "id": "EU-ITA-BAS"
+    },
+    {
+      "name": {
+        "fr": "Calabre"
+      },
+      "id": "EU-ITA-CAL"
+    },
+    {
+      "name": {
+        "fr": "Campanie"
+      },
+      "id": "EU-ITA-CAM"
+    },
+    {
+      "name": {
+        "fr": "Émilie-Romagne"
+      },
+      "id": "EU-ITA-EMR"
+    },
+    {
+      "name": {
+        "fr": "Frioul-Vénétie Julienne"
+      },
+      "id": "EU-ITA-FVG"
+    },
+    {
+      "name": {
+        "fr": "Latium"
+      },
+      "id": "EU-ITA-LAZ"
+    },
+    {
+      "name": {
+        "fr": "Ligurie"
+      },
+      "id": "EU-ITA-LIG"
+    },
+    {
+      "name": {
+        "fr": "Lombardie"
+      },
+      "id": "EU-ITA-LOM"
+    },
+    {
+      "name": {
+        "fr": "Marches"
+      },
+      "id": "EU-ITA-MAR"
+    },
+    {
+      "name": {
+        "fr": "Molise"
+      },
+      "id": "EU-ITA-MOL"
+    },
+    {
+      "name": {
+        "fr": "Ombrie"
+      },
+      "id": "EU-ITA-UMB"
+    },
+    {
+      "name": {
+        "fr": "Piémont"
+      },
+      "id": "EU-ITA-PMN"
+    },
+    {
+      "name": {
+        "fr": "Pouilles"
+      },
+      "id": "EU-ITA-PUG"
+    },
+    {
+      "name": {
+        "fr": "Sardaigne"
+      },
+      "id": "EU-ITA-SAR"
+    },
+    {
+      "name": {
+        "fr": "Sicile"
+      },
+      "id": "EU-ITA-SIC"
+    },
+    {
+      "name": {
+        "fr": "Toscane"
+      },
+      "id": "EU-ITA-TOS"
+    },
+    {
+      "name": {
+        "fr": "Trentin-Haut-Adige"
+      },
+      "id": "EU-ITA-TAA"
+    },
+    {
+      "name": {
+        "fr": "Vallée d'Aoste"
+      },
+      "id": "EU-ITA-VAO"
+    },
+    {
+      "name": {
+        "fr": "Vénétie"
+      },
+      "id": "EU-ITA-VEN"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les régions d'Italie",
+    "Text": "Les 20 régions italiennes",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-ITA",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Bade-Wurtemberg"
+      },
+      "id": "EU-DEU-BW"
+    },
+    {
+      "name": {
+        "fr": "Basse-Saxe"
+      },
+      "id": "EU-DEU-NI"
+    },
+    {
+      "name": {
+        "fr": "Bavière"
+      },
+      "id": "EU-DEU-BY"
+    },
+    {
+      "name": {
+        "fr": "Berlin"
+      },
+      "id": "EU-DEU-BE"
+    },
+    {
+      "name": {
+        "fr": "Brandebourg"
+      },
+      "id": "EU-DEU-BB"
+    },
+    {
+      "name": {
+        "fr": "Brême"
+      },
+      "id": "EU-DEU-HB"
+    },
+    {
+      "name": {
+        "fr": "Hambourg"
+      },
+      "id": "EU-DEU-HH"
+    },
+    {
+      "name": {
+        "fr": "Hesse"
+      },
+      "id": "EU-DEU-HE"
+    },
+    {
+      "name": {
+        "fr": "Mecklembourg-Poméranie-Occidentale"
+      },
+      "id": "EU-DEU-MV"
+    },
+    {
+      "name": {
+        "fr": "Rhénanie-du-Nord-Westphalie"
+      },
+      "id": "EU-DEU-NW"
+    },
+    {
+      "name": {
+        "fr": "Rhénanie-Palatinat"
+      },
+      "id": "EU-DEU-RP"
+    },
+    {
+      "name": {
+        "fr": "Sarre"
+      },
+      "id": "EU-DEU-SL"
+    },
+    {
+      "name": {
+        "fr": "Saxe"
+      },
+      "id": "EU-DEU-SN"
+    },
+    {
+      "name": {
+        "fr": "Saxe-Anhalt"
+      },
+      "id": "EU-DEU-ST"
+    },
+    {
+      "name": {
+        "fr": "Schleswig-Holstein"
+      },
+      "id": "EU-DEU-SH"
+    },
+    {
+      "name": {
+        "fr": "Thuringe"
+      },
+      "id": "EU-DEU-TH"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Lands Allemands",
+    "Text": "Les 16 lands allemands",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-DEU",
+    "option": {
+      "tryMax": 2,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

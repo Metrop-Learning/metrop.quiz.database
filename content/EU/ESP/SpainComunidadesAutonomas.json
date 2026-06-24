@@ -1,0 +1,134 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Andalousie"
+      },
+      "id": "EU-ESP-AN"
+    },
+    {
+      "name": {
+        "fr": "Aragon"
+      },
+      "id": "EU-ESP-AR"
+    },
+    {
+      "name": {
+        "fr": "Asturies"
+      },
+      "id": "EU-ESP-AS"
+    },
+    {
+      "name": {
+        "fr": "Îles Baléares"
+      },
+      "id": "EU-ESP-BA"
+    },
+    {
+      "name": {
+        "fr": "Îles Canaries"
+      },
+      "id": "EU-ESP-CN"
+    },
+    {
+      "name": {
+        "fr": "Cantabrie"
+      },
+      "id": "EU-ESP-CB"
+    },
+    {
+      "name": {
+        "fr": "Castille-et-León"
+      },
+      "id": "EU-ESP-CL"
+    },
+    {
+      "name": {
+        "fr": "Castille-La Manche"
+      },
+      "id": "EU-ESP-CM"
+    },
+    {
+      "name": {
+        "fr": "Catalogne"
+      },
+      "id": "EU-ESP-CT"
+    },
+    {
+      "name": {
+        "fr": "Estrémadure"
+      },
+      "id": "EU-ESP-EX"
+    },
+    {
+      "name": {
+        "fr": "Galice"
+      },
+      "id": "EU-ESP-GA"
+    },
+    {
+      "name": {
+        "fr": "Communauté de Madrid"
+      },
+      "id": "EU-ESP-MD"
+    },
+    {
+      "name": {
+        "fr": "Région de Murcie"
+      },
+      "id": "EU-ESP-MC"
+    },
+    {
+      "name": {
+        "fr": "Communauté forale de Navarre"
+      },
+      "id": "EU-ESP-NC"
+    },
+    {
+      "name": {
+        "fr": "Pays basque"
+      },
+      "id": "EU-ESP-PV"
+    },
+    {
+      "name": {
+        "fr": "La Rioja"
+      },
+      "id": "EU-ESP-RI"
+    },
+    {
+      "name": {
+        "fr": "Communauté valencienne"
+      },
+      "id": "EU-ESP-VC"
+    },
+    {
+      "name": {
+        "fr": "Ceuta"
+      },
+      "id": "EU-ESP-CE"
+    },
+    {
+      "name": {
+        "fr": "Melilla"
+      },
+      "id": "EU-ESP-ML"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les 17 communautés autonomes de l'Espagne",
+    "Text": "Les 17 communautés autonomes et les 2 Villes autonomes de l'Espagne",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-ESP",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

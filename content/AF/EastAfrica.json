@@ -1,0 +1,76 @@
+{
+  "list": [
+    {
+      "id": "AF-ERI"
+    },
+    {
+      "id": "AF-DJI"
+    },
+    {
+      "id": "AF-SOM"
+    },
+    {
+      "id": "AF-ETH"
+    },
+    {
+      "id": "AF-KEN"
+    },
+    {
+      "id": "AF-SSD"
+    },
+    {
+      "id": "AF-UGA"
+    },
+    {
+      "id": "AF-RWA"
+    },
+    {
+      "id": "AF-BDI"
+    },
+    {
+      "id": "AF-TZA"
+    },
+    {
+      "id": "AF-MWI"
+    },
+    {
+      "id": "AF-MOZ"
+    },
+    {
+      "id": "AF-ZMB"
+    },
+    {
+      "id": "AF-ZWE"
+    },
+    {
+      "id": "AF-MDG"
+    },
+    {
+      "id": "AF-COM"
+    },
+    {
+      "id": "AF-SYC"
+    },
+    {
+      "id": "AF-MUS"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Pays d'Afrique de l'Est",
+    "Text": "Les 18 États reconnus d’Afrique de l’Est. (Le Somaliland est ici inclus dans la Somalie, conformément à son statut juridique reconnu par l’UA et l’ONU, indépendamment de sa situation de facto, faute de reconnaissance internationale.)",
+    "lang": "FR",
+    "setInfo": "AF",
+    "pictureURL": "None",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "fromFlag",
+    "fromName",
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

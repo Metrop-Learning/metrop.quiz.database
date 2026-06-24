@@ -1,0 +1,61 @@
+{
+  "list": [
+    {
+      "id": "AM-CAN-AB"
+    },
+    {
+      "id": "AM-CAN-BC"
+    },
+    {
+      "id": "AM-CAN-PE"
+    },
+    {
+      "id": "AM-CAN-MB"
+    },
+    {
+      "id": "AM-CAN-NB"
+    },
+    {
+      "id": "AM-CAN-NS"
+    },
+    {
+      "id": "AM-CAN-ON"
+    },
+    {
+      "id": "AM-CAN-QC"
+    },
+    {
+      "id": "AM-CAN-SK"
+    },
+    {
+      "id": "AM-CAN-NL"
+    },
+    {
+      "id": "AM-CAN-NU"
+    },
+    {
+      "id": "AM-CAN-NT"
+    },
+    {
+      "id": "AM-CAN-YT"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les 13 Provinces et Territoires du Canada",
+    "Text": "Les 10 Provinces et les 3 Territoires (Yukon, Territoires du Nord-Ouest et Nunavut) du Canada",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "AM-CAN",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "fromFlag",
+    "fromName",
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

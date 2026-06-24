@@ -1,0 +1,172 @@
+{
+  "list": [
+    {
+      "id": "AS-IRN"
+    },
+    {
+      "id": "AS-TUR"
+    },
+    {
+      "id": "AS-IRQ"
+    },
+    {
+      "id": "AS-YEM"
+    },
+    {
+      "id": "AS-SAU"
+    },
+    {
+      "id": "AS-SYR"
+    },
+    {
+      "id": "AS-JOR"
+    },
+    {
+      "id": "AS-ARE"
+    },
+    {
+      "id": "AS-ISR"
+    },
+    {
+      "id": "AS-LBN"
+    },
+    {
+      "id": "AS-PSE"
+    },
+    {
+      "id": "AS-OMN"
+    },
+    {
+      "id": "AS-KWT"
+    },
+    {
+      "id": "AS-QAT"
+    },
+    {
+      "id": "AS-BHR"
+    },
+    {
+      "id": "AS-CYP"
+    },
+    {
+      "id": "AS-ARM"
+    },
+    {
+      "id": "AS-GEO"
+    },
+    {
+      "id": "AS-AZE"
+    },
+    {
+      "id": "AS-UZB"
+    },
+    {
+      "id": "AS-KAZ"
+    },
+    {
+      "id": "AS-KGZ"
+    },
+    {
+      "id": "AS-TJK"
+    },
+    {
+      "id": "AS-TKM"
+    },
+    {
+      "id": "AS-RUS"
+    },
+    {
+      "id": "AS-JAP"
+    },
+    {
+      "id": "AS-CHN"
+    },
+    {
+      "id": "AS-PRK"
+    },
+    {
+      "id": "AS-KOR"
+    },
+    {
+      "id": "AS-MNG"
+    },
+    {
+      "id": "AS-NWR:TWN"
+    },
+    {
+      "id": "AS-AFG"
+    },
+    {
+      "id": "AS-BGD"
+    },
+    {
+      "id": "AS-BTN"
+    },
+    {
+      "id": "AS-IND"
+    },
+    {
+      "id": "AS-MDV"
+    },
+    {
+      "id": "AS-NPL"
+    },
+    {
+      "id": "AS-PAK"
+    },
+    {
+      "id": "AS-LKA"
+    },
+    {
+      "id": "AS-IDN"
+    },
+    {
+      "id": "AS-PHL"
+    },
+    {
+      "id": "AS-VNM"
+    },
+    {
+      "id": "AS-THA"
+    },
+    {
+      "id": "AS-MMR"
+    },
+    {
+      "id": "AS-MYS"
+    },
+    {
+      "id": "AS-KHM"
+    },
+    {
+      "id": "AS-LAO"
+    },
+    {
+      "id": "AS-SGP"
+    },
+    {
+      "id": "AS-TLS"
+    },
+    {
+      "id": "AS-BRN"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Pays d'Asie",
+    "Text": "Les pays en Asie et les pays intercontinentaux, à l'exception de la Grèce et de l'Égypte.",
+    "lang": "FR",
+    "setInfo": "AS",
+    "pictureURL": "None",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "fromFlag",
+    "fromName",
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "list": [
+    {
+      "id": "AF-BEN"
+    },
+    {
+      "id": "AF-BFA"
+    },
+    {
+      "id": "AF-CPV"
+    },
+    {
+      "id": "AF-CIV"
+    },
+    {
+      "id": "AF-GMB"
+    },
+    {
+      "id": "AF-GHA"
+    },
+    {
+      "id": "AF-GIN"
+    },
+    {
+      "id": "AF-GNB"
+    },
+    {
+      "id": "AF-LBR"
+    },
+    {
+      "id": "AF-MLI"
+    },
+    {
+      "id": "AF-MRT"
+    },
+    {
+      "id": "AF-NER"
+    },
+    {
+      "id": "AF-NGA"
+    },
+    {
+      "id": "AF-SEN"
+    },
+    {
+      "id": "AF-SLE"
+    },
+    {
+      "id": "AF-TGO"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Pays d'Afrique de l'Ouest",
+    "Text": "Les 16 États reconnus d’Afrique de l'Ouest.",
+    "lang": "FR",
+    "setInfo": "AF",
+    "pictureURL": "None",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "fromFlag",
+    "fromName",
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

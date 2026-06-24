@@ -1,0 +1,98 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Ariège"
+      },
+      "id": "EU-FRA-OCC-9"
+    },
+    {
+      "name": {
+        "fr": "Aude"
+      },
+      "id": "EU-FRA-OCC-11"
+    },
+    {
+      "name": {
+        "fr": "Aveyron"
+      },
+      "id": "EU-FRA-OCC-12"
+    },
+    {
+      "name": {
+        "fr": "Gard"
+      },
+      "id": "EU-FRA-OCC-30"
+    },
+    {
+      "name": {
+        "fr": "Haute-Garonne"
+      },
+      "id": "EU-FRA-OCC-31"
+    },
+    {
+      "name": {
+        "fr": "Gers"
+      },
+      "id": "EU-FRA-OCC-32"
+    },
+    {
+      "name": {
+        "fr": "Hérault"
+      },
+      "id": "EU-FRA-OCC-34"
+    },
+    {
+      "name": {
+        "fr": "Lot"
+      },
+      "id": "EU-FRA-OCC-46"
+    },
+    {
+      "name": {
+        "fr": "Lozère"
+      },
+      "id": "EU-FRA-OCC-48"
+    },
+    {
+      "name": {
+        "fr": "Hautes-Pyrénées"
+      },
+      "id": "EU-FRA-OCC-65"
+    },
+    {
+      "name": {
+        "fr": "Pyrénées-Orientales"
+      },
+      "id": "EU-FRA-OCC-66"
+    },
+    {
+      "name": {
+        "fr": "Tarn"
+      },
+      "id": "EU-FRA-OCC-81"
+    },
+    {
+      "name": {
+        "fr": "Tarn-et-Garonne"
+      },
+      "id": "EU-FRA-OCC-82"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les départements de l'Occitanie",
+    "Text": "Les 13 départements de la région Occitanie en France",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-FRA",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "list": [
+    {
+      "id": "EU-AUT-AT1"
+    },
+    {
+      "id": "EU-AUT-AT2"
+    },
+    {
+      "id": "EU-AUT-AT3"
+    },
+    {
+      "id": "EU-AUT-AT4"
+    },
+    {
+      "id": "EU-AUT-AT5"
+    },
+    {
+      "id": "EU-AUT-AT6"
+    },
+    {
+      "id": "EU-AUT-AT7"
+    },
+    {
+      "id": "EU-AUT-AT8"
+    },
+    {
+      "id": "EU-AUT-AT9"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Land Autrichien",
+    "Text": "Les 9 Land Autrichien",
+    "lang": "FR",
+    "setInfo": "EU-AUT",
+    "pictureURL": "None",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

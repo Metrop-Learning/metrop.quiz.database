@@ -1,0 +1,127 @@
+{
+  "list": [
+    {
+      "id": "AM-GTM"
+    },
+    {
+      "id": "AM-BLZ"
+    },
+    {
+      "id": "AM-HND"
+    },
+    {
+      "id": "AM-NIC"
+    },
+    {
+      "id": "AM-CRI"
+    },
+    {
+      "id": "AM-PAN"
+    },
+    {
+      "id": "AM-ATG"
+    },
+    {
+      "id": "AM-BHS"
+    },
+    {
+      "id": "AM-BRB"
+    },
+    {
+      "id": "AM-CUB"
+    },
+    {
+      "id": "AM-DMA"
+    },
+    {
+      "id": "AM-GRD"
+    },
+    {
+      "id": "AM-HTI"
+    },
+    {
+      "id": "AM-DOM"
+    },
+    {
+      "id": "AM-JAM"
+    },
+    {
+      "id": "AM-KNA"
+    },
+    {
+      "id": "AM-VTC"
+    },
+    {
+      "id": "AM-LCA"
+    },
+    {
+      "id": "AM-SLV"
+    },
+    {
+      "id": "AM-ARG"
+    },
+    {
+      "id": "AM-BOL"
+    },
+    {
+      "id": "AM-BRA"
+    },
+    {
+      "id": "AM-CHL"
+    },
+    {
+      "id": "AM-COL"
+    },
+    {
+      "id": "AM-ECU"
+    },
+    {
+      "id": "AM-GUY"
+    },
+    {
+      "id": "AM-PRY"
+    },
+    {
+      "id": "AM-PER"
+    },
+    {
+      "id": "AM-SUR"
+    },
+    {
+      "id": "AM-TTO"
+    },
+    {
+      "id": "AM-URY"
+    },
+    {
+      "id": "AM-VEN"
+    },
+    {
+      "id": "AM-CAN"
+    },
+    {
+      "id": "AM-USA"
+    },
+    {
+      "id": "AM-MEX"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Pays d'Amérique",
+    "Text": "Les 35 pays en Amérique.",
+    "lang": "FR",
+    "setInfo": "AM",
+    "pictureURL": "None",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "fromFlag",
+    "fromName",
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

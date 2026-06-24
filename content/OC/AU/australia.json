@@ -1,0 +1,65 @@
+{
+  "list": [
+    {
+      "id": "OC-AU-SA"
+    },
+    {
+      "id": "OC-AU-WA"
+    },
+    {
+      "id": "OC-AU-NGS"
+    },
+    {
+      "id": "OC-AU-QLD"
+    },
+    {
+      "id": "OC-AU-TAS"
+    },
+    {
+      "id": "OC-AU-VIC"
+    },
+    {
+      "id": "OC-AU-ACT"
+    },
+    {
+      "id": "OC-AU-NT"
+    },
+    {
+      "id": "OC-AU-JBT"
+    },
+    {
+      "id": "OC-AU-NFK"
+    },
+    {
+      "id": "OC-AU-CXR"
+    },
+    {
+      "id": "OC-AU-CCK"
+    },
+    {
+      "id": "OC-AU-ACI"
+    },
+    {
+      "id": "OC-AU-CSI"
+    },
+    {
+      "id": "OC-AU-HMD"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les États et Territoires de l'Australie",
+    "Text": "Les 6 États et les 3 territoires intérieurs et 6 territoires extérieurs de l’Australie (à l’exception du Territoire antarctique australien, qui est contesté à l’international).",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "OC-AU",
+    "option": {
+      "tryMax": 2,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

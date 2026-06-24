@@ -1,0 +1,596 @@
+{
+  "list": [
+    {
+      "id": "AF-DZA"
+    },
+    {
+      "id": "AF-AGO"
+    },
+    {
+      "id": "AF-BEN"
+    },
+    {
+      "id": "AF-BWA"
+    },
+    {
+      "id": "AF-BFA"
+    },
+    {
+      "id": "AF-BDI"
+    },
+    {
+      "id": "AF-CPV"
+    },
+    {
+      "id": "AF-CMR"
+    },
+    {
+      "id": "AF-CAF"
+    },
+    {
+      "id": "AF-TCD"
+    },
+    {
+      "id": "AF-COM"
+    },
+    {
+      "id": "AF-COG"
+    },
+    {
+      "id": "AF-COD"
+    },
+    {
+      "id": "AF-CIV"
+    },
+    {
+      "id": "AF-DJI"
+    },
+    {
+      "id": "AF-EGY"
+    },
+    {
+      "id": "AF-ERI"
+    },
+    {
+      "id": "AF-SWZ"
+    },
+    {
+      "id": "AF-ETH"
+    },
+    {
+      "id": "AF-GAB"
+    },
+    {
+      "id": "AF-GMB"
+    },
+    {
+      "id": "AF-GHA"
+    },
+    {
+      "id": "AF-GIN"
+    },
+    {
+      "id": "AF-GNB"
+    },
+    {
+      "id": "AF-KEN"
+    },
+    {
+      "id": "AF-LSO"
+    },
+    {
+      "id": "AF-LBR"
+    },
+    {
+      "id": "AF-LBY"
+    },
+    {
+      "id": "AF-MDG"
+    },
+    {
+      "id": "AF-MWI"
+    },
+    {
+      "id": "AF-MLI"
+    },
+    {
+      "id": "AF-MRT"
+    },
+    {
+      "id": "AF-MUS"
+    },
+    {
+      "id": "AF-MAR"
+    },
+    {
+      "id": "AF-MOZ"
+    },
+    {
+      "id": "AF-NAM"
+    },
+    {
+      "id": "AF-NER"
+    },
+    {
+      "id": "AF-NGA"
+    },
+    {
+      "id": "AF-RWA"
+    },
+    {
+      "id": "AF-STP"
+    },
+    {
+      "id": "AF-SEN"
+    },
+    {
+      "id": "AF-SYC"
+    },
+    {
+      "id": "AF-SLE"
+    },
+    {
+      "id": "AF-SOM"
+    },
+    {
+      "id": "AF-SDN"
+    },
+    {
+      "id": "AF-SSD"
+    },
+    {
+      "id": "AF-TZA"
+    },
+    {
+      "id": "AF-TGO"
+    },
+    {
+      "id": "AF-TUN"
+    },
+    {
+      "id": "AF-UGA"
+    },
+    {
+      "id": "AF-ZMB"
+    },
+    {
+      "id": "AF-ZWE"
+    },
+    {
+      "id": "AF-ZAF"
+    },
+    {
+      "id": "AS-AFG"
+    },
+    {
+      "id": "AS-SAU"
+    },
+    {
+      "id": "AS-ARM"
+    },
+    {
+      "id": "AS-AZE"
+    },
+    {
+      "id": "AS-BHR"
+    },
+    {
+      "id": "AS-BGD"
+    },
+    {
+      "id": "AS-BTN"
+    },
+    {
+      "id": "AS-BRN"
+    },
+    {
+      "id": "AS-MMR"
+    },
+    {
+      "id": "AS-KHM"
+    },
+    {
+      "id": "AS-CHN"
+    },
+    {
+      "id": "AS-CYP"
+    },
+    {
+      "id": "AS-PRK"
+    },
+    {
+      "id": "AS-KOR"
+    },
+    {
+      "id": "AS-ARE"
+    },
+    {
+      "id": "AS-GEO"
+    },
+    {
+      "id": "AS-IND"
+    },
+    {
+      "id": "AS-IDN"
+    },
+    {
+      "id": "AS-IRN"
+    },
+    {
+      "id": "AS-IRQ"
+    },
+    {
+      "id": "AS-ISR"
+    },
+    {
+      "id": "AS-JAP"
+    },
+    {
+      "id": "AS-JOR"
+    },
+    {
+      "id": "AS-KAZ"
+    },
+    {
+      "id": "AS-KGZ"
+    },
+    {
+      "id": "AS-KWT"
+    },
+    {
+      "id": "AS-LAO"
+    },
+    {
+      "id": "AS-LBN"
+    },
+    {
+      "id": "AS-MYS"
+    },
+    {
+      "id": "AS-MDV"
+    },
+    {
+      "id": "AS-MNG"
+    },
+    {
+      "id": "AS-NPL"
+    },
+    {
+      "id": "AS-OMN"
+    },
+    {
+      "id": "AS-PAK"
+    },
+    {
+      "id": "AS-PHL"
+    },
+    {
+      "id": "AS-QAT"
+    },
+    {
+      "id": "AS-SGP"
+    },
+    {
+      "id": "AS-LKA"
+    },
+    {
+      "id": "AS-SYR"
+    },
+    {
+      "id": "AS-TJK"
+    },
+    {
+      "id": "AS-THA"
+    },
+    {
+      "id": "AS-TLS"
+    },
+    {
+      "id": "AS-TKM"
+    },
+    {
+      "id": "AS-TUR"
+    },
+    {
+      "id": "AS-VNM"
+    },
+    {
+      "id": "AS-YEM"
+    },
+    {
+      "id": "AS-UZB"
+    },
+    {
+      "id": "AS-RUS"
+    },
+    {
+      "id": "EU-ALB"
+    },
+    {
+      "id": "EU-AND"
+    },
+    {
+      "id": "EU-AUT"
+    },
+    {
+      "id": "EU-BLR"
+    },
+    {
+      "id": "EU-BEL"
+    },
+    {
+      "id": "EU-BIH"
+    },
+    {
+      "id": "EU-BGR"
+    },
+    {
+      "id": "EU-HRV"
+    },
+    {
+      "id": "EU-DNK"
+    },
+    {
+      "id": "EU-ESP"
+    },
+    {
+      "id": "EU-EST"
+    },
+    {
+      "id": "EU-FIN"
+    },
+    {
+      "id": "EU-FRA"
+    },
+    {
+      "id": "EU-GRC"
+    },
+    {
+      "id": "EU-HUN"
+    },
+    {
+      "id": "EU-IRL"
+    },
+    {
+      "id": "EU-ITA"
+    },
+    {
+      "id": "EU-ISL"
+    },
+    {
+      "id": "EU-LVA"
+    },
+    {
+      "id": "EU-LIE"
+    },
+    {
+      "id": "EU-LTU"
+    },
+    {
+      "id": "EU-LUX"
+    },
+    {
+      "id": "EU-MLT"
+    },
+    {
+      "id": "EU-MDA"
+    },
+    {
+      "id": "EU-MCO"
+    },
+    {
+      "id": "EU-MNE"
+    },
+    {
+      "id": "EU-NLD"
+    },
+    {
+      "id": "EU-MKD"
+    },
+    {
+      "id": "EU-NOR"
+    },
+    {
+      "id": "EU-POL"
+    },
+    {
+      "id": "EU-PRT"
+    },
+    {
+      "id": "EU-ROU"
+    },
+    {
+      "id": "EU-SMR"
+    },
+    {
+      "id": "EU-SRB"
+    },
+    {
+      "id": "EU-SVK"
+    },
+    {
+      "id": "EU-SVN"
+    },
+    {
+      "id": "EU-SWE"
+    },
+    {
+      "id": "EU-CHE"
+    },
+    {
+      "id": "EU-UK"
+    },
+    {
+      "id": "EU-CZE"
+    },
+    {
+      "id": "EU-DEU"
+    },
+    {
+      "id": "EU-UKR"
+    },
+    {
+      "id": "AM-ATG"
+    },
+    {
+      "id": "AM-ARG"
+    },
+    {
+      "id": "AM-BHS"
+    },
+    {
+      "id": "AM-BRB"
+    },
+    {
+      "id": "AM-BLZ"
+    },
+    {
+      "id": "AM-BOL"
+    },
+    {
+      "id": "AM-BRA"
+    },
+    {
+      "id": "AM-CAN"
+    },
+    {
+      "id": "AM-CHL"
+    },
+    {
+      "id": "AM-COL"
+    },
+    {
+      "id": "AM-CRI"
+    },
+    {
+      "id": "AM-CUB"
+    },
+    {
+      "id": "AM-DMA"
+    },
+    {
+      "id": "AM-DOM"
+    },
+    {
+      "id": "AM-ECU"
+    },
+    {
+      "id": "AM-SLV"
+    },
+    {
+      "id": "AM-GRD"
+    },
+    {
+      "id": "AM-GTM"
+    },
+    {
+      "id": "AM-GUY"
+    },
+    {
+      "id": "AM-HTI"
+    },
+    {
+      "id": "AM-HND"
+    },
+    {
+      "id": "AM-JAM"
+    },
+    {
+      "id": "AM-MEX"
+    },
+    {
+      "id": "AM-NIC"
+    },
+    {
+      "id": "AM-PAN"
+    },
+    {
+      "id": "AM-PRY"
+    },
+    {
+      "id": "AM-PER"
+    },
+    {
+      "id": "AM-KNA"
+    },
+    {
+      "id": "AM-LCA"
+    },
+    {
+      "id": "AM-VTC"
+    },
+    {
+      "id": "AM-SUR"
+    },
+    {
+      "id": "AM-TTO"
+    },
+    {
+      "id": "AM-URY"
+    },
+    {
+      "id": "AM-VEN"
+    },
+    {
+      "id": "AM-USA"
+    },
+    {
+      "id": "OC-AU"
+    },
+    {
+      "id": "OC-FJI"
+    },
+    {
+      "id": "OC-KIR"
+    },
+    {
+      "id": "OC-MHL"
+    },
+    {
+      "id": "OC-FSM"
+    },
+    {
+      "id": "OC-NRU"
+    },
+    {
+      "id": "OC-PLW"
+    },
+    {
+      "id": "OC-PNG"
+    },
+    {
+      "id": "OC-SLB"
+    },
+    {
+      "id": "OC-WSM"
+    },
+    {
+      "id": "OC-TON"
+    },
+    {
+      "id": "OC-TUV"
+    },
+    {
+      "id": "OC-VUT"
+    },
+    {
+      "id": "OC-NZ"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les pays membres de l'ONU",
+    "Text": "Les 193 États Membre de l'ONU.",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "WD",
+    "option": {
+      "tryMax": 2,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "fromFlag",
+    "fromName",
+    "placeTerritory"
+  ]
+}

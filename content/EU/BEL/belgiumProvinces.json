@@ -1,0 +1,58 @@
+{
+  "list": [
+    {
+      "id": "EU-BEL-BRU",
+      "name":{
+        "fr":"Bruxelles"
+      }
+    },
+    {
+      "id": "EU-BEL-VLG-VAN"
+    },
+    {
+      "id": "EU-BEL-VLG-VLI"
+    },
+    {
+      "id": "EU-BEL-VLG-VOV"
+    },
+    {
+      "id": "EU-BEL-VLG-VBR"
+    },
+    {
+      "id": "EU-BEL-VLG-VWV"
+    },
+    {
+      "id": "EU-BEL-WAL-WBR"
+    },
+    {
+      "id": "EU-BEL-WAL-WHT"
+    },
+    {
+      "id": "EU-BEL-WAL-WLG"
+    },
+    {
+      "id": "EU-BEL-WAL-WLX"
+    },
+    {
+      "id": "EU-BEL-WAL-WNA"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Provinces de Belgique",
+    "Text": "Les 11 Provinces de Belgique",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-BEL",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "fromFlag",
+    "fromName",
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

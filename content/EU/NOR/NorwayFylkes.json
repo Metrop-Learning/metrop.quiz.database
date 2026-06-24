@@ -1,0 +1,65 @@
+{
+  "list": [
+    {
+      "id": "EU-NOR-42"
+    },
+    {
+      "id": "EU-NOR-02"
+    },
+    {
+      "id": "EU-NOR-06"
+    },
+    {
+      "id": "EU-NOR-20"
+    },
+    {
+      "id": "EU-NOR-34"
+    },
+    {
+      "id": "EU-NOR-15"
+    },
+    {
+      "id": "EU-NOR-18"
+    },
+    {
+      "id": "EU-NOR-OSLO"
+    },
+    {
+      "id": "EU-NOR-01"
+    },
+    {
+      "id": "EU-NOR-11"
+    },
+    {
+      "id": "EU-NOR-08"
+    },
+    {
+      "id": "EU-NOR-17"
+    },
+    {
+      "id": "EU-NOR-19"
+    },
+    {
+      "id": "EU-NOR-07"
+    },
+    {
+      "id": "EU-NOR-46"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Fylke de Norvège",
+    "Text": "Les 15 Fylke de Norvège",
+    "lang": "FR",
+    "setInfo": "EU-NOR",
+    "pictureURL": "None",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

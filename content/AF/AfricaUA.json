@@ -1,0 +1,187 @@
+{
+  "list": [
+    {
+      "id": "AF-ZAF"
+    },
+    {
+      "id": "AF-NAM"
+    },
+    {
+      "id": "AF-BWA"
+    },
+    {
+      "id": "AF-LSO"
+    },
+    {
+      "id": "AF-SWZ"
+    },
+    {
+      "id": "AF-EGY"
+    },
+    {
+      "id": "AF-MAR"
+    },
+    {
+      "id": "AF-DZA"
+    },
+    {
+      "id": "AF-LBY"
+    },
+    {
+      "id": "AF-TUN"
+    },
+    {
+      "id": "AF-SDN"
+    },
+    {
+      "id": "AF-TCD"
+    },
+    {
+      "id": "AF-CAF"
+    },
+    {
+      "id": "AF-CMR"
+    },
+    {
+      "id": "AF-COD"
+    },
+    {
+      "id": "AF-COG"
+    },
+    {
+      "id": "AF-GAB"
+    },
+    {
+      "id": "AF-AGO"
+    },
+    {
+      "id": "AF-GNQ"
+    },
+    {
+      "id": "AF-STP"
+    },
+    {
+      "id": "AF-BEN"
+    },
+    {
+      "id": "AF-BFA"
+    },
+    {
+      "id": "AF-CPV"
+    },
+    {
+      "id": "AF-CIV"
+    },
+    {
+      "id": "AF-GMB"
+    },
+    {
+      "id": "AF-GHA"
+    },
+    {
+      "id": "AF-GIN"
+    },
+    {
+      "id": "AF-GNB"
+    },
+    {
+      "id": "AF-LBR"
+    },
+    {
+      "id": "AF-MLI"
+    },
+    {
+      "id": "AF-MRT"
+    },
+    {
+      "id": "AF-NER"
+    },
+    {
+      "id": "AF-NGA"
+    },
+    {
+      "id": "AF-SEN"
+    },
+    {
+      "id": "AF-SLE"
+    },
+    {
+      "id": "AF-TGO"
+    },
+    {
+      "id": "AF-ERI"
+    },
+    {
+      "id": "AF-DJI"
+    },
+    {
+      "id": "AF-SOM"
+    },
+    {
+      "id": "AF-ETH"
+    },
+    {
+      "id": "AF-KEN"
+    },
+    {
+      "id": "AF-SSD"
+    },
+    {
+      "id": "AF-UGA"
+    },
+    {
+      "id": "AF-RWA"
+    },
+    {
+      "id": "AF-BDI"
+    },
+    {
+      "id": "AF-TZA"
+    },
+    {
+      "id": "AF-MWI"
+    },
+    {
+      "id": "AF-MOZ"
+    },
+    {
+      "id": "AF-ZMB"
+    },
+    {
+      "id": "AF-ZWE"
+    },
+    {
+      "id": "AF-MDG"
+    },
+    {
+      "id": "AF-COM"
+    },
+    {
+      "id": "AF-SYC"
+    },
+    {
+      "id": "AF-MUS"
+    },
+    {
+      "id": "AF-NWR:EH"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Pays d'Afrique",
+    "Text": "Les 55 États membres de l’Union africaine, y compris ceux suspendus, couvrant toute l’Afrique.",
+    "lang": "FR",
+    "setInfo": "AF",
+    "pictureURL": "None",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "fromFlag",
+    "fromName",
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Auvergne-Rhône-Alpes"
+      },
+      "id": "EU-FRA-ARA"
+    },
+    {
+      "name": {
+        "fr": "Bourgogne-Franche-Comté"
+      },
+      "id": "EU-FRA-BFC"
+    },
+    {
+      "name": {
+        "fr": "Bretagne"
+      },
+      "id": "EU-FRA-BRE"
+    },
+    {
+      "name": {
+        "fr": "Centre-Val de Loire"
+      },
+      "id": "EU-FRA-CVL"
+    },
+    {
+      "name": {
+        "fr": "Corse"
+      },
+      "id": "EU-FRA-COR"
+    },
+    {
+      "name": {
+        "fr": "Grand Est"
+      },
+      "id": "EU-FRA-GES"
+    },
+    {
+      "name": {
+        "fr": "Hauts-de-France"
+      },
+      "id": "EU-FRA-HDF"
+    },
+    {
+      "name": {
+        "fr": "Île-de-France"
+      },
+      "id": "EU-FRA-IDF"
+    },
+    {
+      "name": {
+        "fr": "Normandie"
+      },
+      "id": "EU-FRA-NOR"
+    },
+    {
+      "name": {
+        "fr": "Nouvelle-Aquitaine"
+      },
+      "id": "EU-FRA-NAQ"
+    },
+    {
+      "name": {
+        "fr": "Occitanie"
+      },
+      "id": "EU-FRA-OCC"
+    },
+    {
+      "name": {
+        "fr": "Pays de la Loire"
+      },
+      "id": "EU-FRA-PDL"
+    },
+    {
+      "name": {
+        "fr": "Provence-Alpes-Côte d'Azur"
+      },
+      "id": "EU-FRA-PAC"
+    },
+    {
+      "name": {
+        "fr": "Guadeloupe"
+      },
+      "id": "EU-FRA-GLP"
+    },
+    {
+      "name": {
+        "fr": "Guyane"
+      },
+      "id": "EU-FRA-GUF"
+    },
+    {
+      "name": {
+        "fr": "Martinique"
+      },
+      "id": "EU-FRA-MTQ"
+    },
+    {
+      "name": {
+        "fr": "La Réunion"
+      },
+      "id": "EU-FRA-REU"
+    },
+    {
+      "name": {
+        "fr": "Mayotte"
+      },
+      "id": "EU-FRA-MYT"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Régions de France",
+    "Text": "Les 13 régions de France Métropolitaine et les 5 régions ultramarines de France",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-FRA",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

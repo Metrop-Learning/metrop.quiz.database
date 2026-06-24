@@ -1,0 +1,49 @@
+{
+  "list": [
+    {
+      "id": "AF-TCD"
+    },
+    {
+      "id": "AF-CAF"
+    },
+    {
+      "id": "AF-CMR"
+    },
+    {
+      "id": "AF-COD"
+    },
+    {
+      "id": "AF-COG"
+    },
+    {
+      "id": "AF-GAB"
+    },
+    {
+      "id": "AF-AGO"
+    },
+    {
+      "id": "AF-GNQ"
+    },
+    {
+      "id": "AF-STP"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Pays d'Afrique Centrale",
+    "Text": "Les 9 Pays d’Afrique Centrale.",
+    "lang": "FR",
+    "setInfo": "AF",
+    "pictureURL": "None",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "fromFlag",
+    "fromName",
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

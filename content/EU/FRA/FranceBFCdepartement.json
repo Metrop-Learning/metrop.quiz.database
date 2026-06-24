@@ -1,0 +1,68 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Côte-d'Or"
+      },
+      "id": "EU-FRA-BFC-21"
+    },
+    {
+      "name": {
+        "fr": "Doubs"
+      },
+      "id": "EU-FRA-BFC-25"
+    },
+    {
+      "name": {
+        "fr": "Jura"
+      },
+      "id": "EU-FRA-BFC-39"
+    },
+    {
+      "name": {
+        "fr": "Nièvre"
+      },
+      "id": "EU-FRA-BFC-58"
+    },
+    {
+      "name": {
+        "fr": "Haute-Saône"
+      },
+      "id": "EU-FRA-BFC-70"
+    },
+    {
+      "name": {
+        "fr": "Saône-et-Loire"
+      },
+      "id": "EU-FRA-BFC-71"
+    },
+    {
+      "name": {
+        "fr": "Yonne"
+      },
+      "id": "EU-FRA-BFC-89"
+    },
+    {
+      "name": {
+        "fr": "Territoire de Belfort"
+      },
+      "id": "EU-FRA-BFC-90"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les départements de Bourgogne-Franche-Comté",
+    "Text": "Les 8 départements de la région Bourgogne-Franche-Comté en France",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-FRA",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

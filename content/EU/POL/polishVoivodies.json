@@ -1,0 +1,68 @@
+{
+  "list": [
+    {
+      "id": "EU-POL-DS"
+    },
+    {
+      "id": "EU-POL-PK"
+    },
+    {
+      "id": "EU-POL-KP"
+    },
+    {
+      "id": "EU-POL-WP"
+    },
+    {
+      "id": "EU-POL-LU"
+    },
+    {
+      "id": "EU-POL-LB"
+    },
+    {
+      "id": "EU-POL-LD"
+    },
+    {
+      "id": "EU-POL-MZ"
+    },
+    {
+      "id": "EU-POL-OP"
+    },
+    {
+      "id": "EU-POL-MA"
+    },
+    {
+      "id": "EU-POL-PD"
+    },
+    {
+      "id": "EU-POL-PM"
+    },
+    {
+      "id": "EU-POL-ZP"
+    },
+    {
+      "id": "EU-POL-SK"
+    },
+    {
+      "id": "EU-POL-SL"
+    },
+    {
+      "id": "EU-POL-WN"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Voïvodies de Pologne",
+    "Text": "Les 16 Voïvodies de Pologne",
+    "lang": "FR",
+    "setInfo": "EU-POL",
+    "pictureURL": "None",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

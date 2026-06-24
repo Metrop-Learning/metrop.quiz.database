@@ -1,0 +1,104 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Attique"
+      },
+      "id": "EU-GRC-AT-ATQ"
+    },
+    {
+      "name": {
+        "fr": "Macédoine-Orientale-et-Thrace"
+      },
+      "id": "EU-GRC-MT-AMT"
+    },
+    {
+      "name": {
+        "fr": "Macédoine-Centrale"
+      },
+      "id": "EU-GRC-MT-KEM"
+    },
+    {
+      "name": {
+        "fr": "Macédoine-Occidentale"
+      },
+      "id": "EU-GRC-EO-DYM"
+    },
+    {
+      "name": {
+        "fr": "Épire"
+      },
+      "id": "EU-GRC-EO-IEO"
+    },
+    {
+      "name": {
+        "fr": "Thessalie"
+      },
+      "id": "EU-GRC-TC-THE"
+    },
+    {
+      "name": {
+        "fr": "Grèce-Centrale"
+      },
+      "id": "EU-GRC-TC-STE"
+    },
+    {
+      "name": {
+        "fr": "Îles Ioniennes"
+      },
+      "id": "EU-GRC-PI-ION"
+    },
+    {
+      "name": {
+        "fr": "Grèce-Occidentale"
+      },
+      "id": "EU-GRC-PI-DYE"
+    },
+    {
+      "name": {
+        "fr": "Péloponnèse"
+      },
+      "id": "EU-GRC-PI-PEL"
+    },
+    {
+      "name": {
+        "fr": "Égée-Méridionale"
+      },
+      "id": "EU-GRC-EG-NAI"
+    },
+    {
+      "name": {
+        "fr": "Égée-Septentrionale"
+      },
+      "id": "EU-GRC-EG-VAI"
+    },
+    {
+      "name": {
+        "fr": "Crète"
+      },
+      "id": "EU-GRC-CR-KRI"
+    },
+    {
+      "name": {
+        "fr": "Communauté monastique du mont Athos"
+      },
+      "id": "EU-GRC-MA-AYO"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Périphérie de la Grèce",
+    "Text": "Les 13 diocèses décentralisés de la Grèce et la Communauté monastique du mont Athos",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-GRC",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

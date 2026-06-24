@@ -1,0 +1,320 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Alberta"
+      },
+      "id": "AM-USA-AL"
+    },
+    {
+      "name": {
+        "fr": "Alaska"
+      },
+      "id": "AM-USA-AK"
+    },
+    {
+      "name": {
+        "fr": "Arizona"
+      },
+      "id": "AM-USA-AZ"
+    },
+    {
+      "name": {
+        "fr": "Arkansas"
+      },
+      "id": "AM-USA-AR"
+    },
+    {
+      "name": {
+        "fr": "Californie"
+      },
+      "id": "AM-USA-CA"
+    },
+    {
+      "name": {
+        "fr": "Caroline du Nord"
+      },
+      "id": "AM-USA-NC"
+    },
+    {
+      "name": {
+        "fr": "Caroline du Sud"
+      },
+      "id": "AM-USA-SC"
+    },
+    {
+      "name": {
+        "fr": "Colorado"
+      },
+      "id": "AM-USA-CO"
+    },
+    {
+      "name": {
+        "fr": "Connecticut"
+      },
+      "id": "AM-USA-CT"
+    },
+    {
+      "name": {
+        "fr": "Dakota du Nord"
+      },
+      "id": "AM-USA-ND"
+    },
+    {
+      "name": {
+        "fr": "Dakota du Sud"
+      },
+      "id": "AM-USA-SD"
+    },
+    {
+      "name": {
+        "fr": "Delaware"
+      },
+      "id": "AM-USA-DE"
+    },
+    {
+      "name": {
+        "fr": "Floride"
+      },
+      "id": "AM-USA-FL"
+    },
+    {
+      "name": {
+        "fr": "Géorgie"
+      },
+      "id": "AM-USA-GA"
+    },
+    {
+      "name": {
+        "fr": "Hawaï"
+      },
+      "id": "AM-USA-HI"
+    },
+    {
+      "name": {
+        "fr": "Idaho"
+      },
+      "id": "AM-USA-ID"
+    },
+    {
+      "name": {
+        "fr": "Illinois"
+      },
+      "id": "AM-USA-IL"
+    },
+    {
+      "name": {
+        "fr": "Indiana"
+      },
+      "id": "AM-USA-IN"
+    },
+    {
+      "name": {
+        "fr": "Iowa"
+      },
+      "id": "AM-USA-IA"
+    },
+    {
+      "name": {
+        "fr": "Kansas"
+      },
+      "id": "AM-USA-KS"
+    },
+    {
+      "name": {
+        "fr": "Kentucky"
+      },
+      "id": "AM-USA-KY"
+    },
+    {
+      "name": {
+        "fr": "Louisiane"
+      },
+      "id": "AM-USA-LA"
+    },
+    {
+      "name": {
+        "fr": "Maine"
+      },
+      "id": "AM-USA-ME"
+    },
+    {
+      "name": {
+        "fr": "Maryland"
+      },
+      "id": "AM-USA-MD"
+    },
+    {
+      "name": {
+        "fr": "Massachusetts"
+      },
+      "id": "AM-USA-MA"
+    },
+    {
+      "name": {
+        "fr": "Michigan"
+      },
+      "id": "AM-USA-MI"
+    },
+    {
+      "name": {
+        "fr": "Minnesota"
+      },
+      "id": "AM-USA-MN"
+    },
+    {
+      "name": {
+        "fr": "Mississippi"
+      },
+      "id": "AM-USA-MS"
+    },
+    {
+      "name": {
+        "fr": "Missouri"
+      },
+      "id": "AM-USA-MO"
+    },
+    {
+      "name": {
+        "fr": "Montana"
+      },
+      "id": "AM-USA-MT"
+    },
+    {
+      "name": {
+        "fr": "Nebraska"
+      },
+      "id": "AM-USA-NE"
+    },
+    {
+      "name": {
+        "fr": "Nevada"
+      },
+      "id": "AM-USA-NV"
+    },
+    {
+      "name": {
+        "fr": "New Hampshire"
+      },
+      "id": "AM-USA-NH"
+    },
+    {
+      "name": {
+        "fr": "New Jersey"
+      },
+      "id": "AM-USA-NJ"
+    },
+    {
+      "name": {
+        "fr": "New York"
+      },
+      "id": "AM-USA-NY"
+    },
+    {
+      "name": {
+        "fr": "Nouveau-Méxique"
+      },
+      "id": "AM-USA-NM"
+    },
+    {
+      "name": {
+        "fr": "Ohio"
+      },
+      "id": "AM-USA-OH"
+    },
+    {
+      "name": {
+        "fr": "Oklahoma"
+      },
+      "id": "AM-USA-OK"
+    },
+    {
+      "name": {
+        "fr": "Oregon"
+      },
+      "id": "AM-USA-OR"
+    },
+    {
+      "name": {
+        "fr": "Pennsylvanie"
+      },
+      "id": "AM-USA-PA"
+    },
+    {
+      "name": {
+        "fr": "Rhode Island"
+      },
+      "id": "AM-USA-RI"
+    },
+    {
+      "name": {
+        "fr": "Tennessee"
+      },
+      "id": "AM-USA-TN"
+    },
+    {
+      "name": {
+        "fr": "Texas"
+      },
+      "id": "AM-USA-TX"
+    },
+    {
+      "name": {
+        "fr": "Utah"
+      },
+      "id": "AM-USA-UT"
+    },
+    {
+      "name": {
+        "fr": "Vermont"
+      },
+      "id": "AM-USA-VT"
+    },
+    {
+      "name": {
+        "fr": "Virginie"
+      },
+      "id": "AM-USA-VA"
+    },
+    {
+      "name": {
+        "fr": "Virginie-Occidentale"
+      },
+      "id": "AM-USA-WV"
+    },
+    {
+      "name": {
+        "fr": "Washington"
+      },
+      "id": "AM-USA-WA"
+    },
+    {
+      "name": {
+        "fr": "Wisconsin"
+      },
+      "id": "AM-USA-WI"
+    },
+    {
+      "name": {
+        "fr": "Wyoming"
+      },
+      "id": "AM-USA-WY"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les 50 États des États-Unis d'Amérique",
+    "Text": "Les 50 États des États-Unis d'Amérique",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "AM-USA",
+    "option": {
+      "tryMax": 2,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

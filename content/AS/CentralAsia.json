@@ -1,0 +1,37 @@
+{
+  "list": [
+    {
+      "id": "AS-UZB"
+    },
+    {
+      "id": "AS-KAZ"
+    },
+    {
+      "id": "AS-KGZ"
+    },
+    {
+      "id": "AS-TJK"
+    },
+    {
+      "id": "AS-TKM"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Pays de l'Asie Central",
+    "Text": "Les 5 pays de l'Asie Central",
+    "lang": "FR",
+    "setInfo": "AS",
+    "pictureURL": "None",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "fromFlag",
+    "fromName",
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

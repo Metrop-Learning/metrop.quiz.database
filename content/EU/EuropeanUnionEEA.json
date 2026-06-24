@@ -1,0 +1,112 @@
+{
+  "list": [
+    {
+      "id": "EU-DEU"
+    },
+    {
+      "id": "EU-AUT"
+    },
+    {
+      "id": "EU-BEL"
+    },
+    {
+      "id": "EU-BGR"
+    },
+    {
+      "id": "AS-CYP"
+    },
+    {
+      "id": "EU-HRV"
+    },
+    {
+      "id": "EU-DNK"
+    },
+    {
+      "id": "EU-ESP"
+    },
+    {
+      "id": "EU-EST"
+    },
+    {
+      "id": "EU-FIN"
+    },
+    {
+      "id": "EU-FRA"
+    },
+    {
+      "id": "EU-GRC"
+    },
+    {
+      "id": "EU-HUN"
+    },
+    {
+      "id": "EU-IRL"
+    },
+    {
+      "id": "EU-ITA"
+    },
+    {
+      "id": "EU-LVA"
+    },
+    {
+      "id": "EU-LTU"
+    },
+    {
+      "id": "EU-LUX"
+    },
+    {
+      "id": "EU-MLT"
+    },
+    {
+      "id": "EU-NLD"
+    },
+    {
+      "id": "EU-POL"
+    },
+    {
+      "id": "EU-PRT"
+    },
+    {
+      "id": "EU-CZE"
+    },
+    {
+      "id": "EU-ROU"
+    },
+    {
+      "id": "EU-SVK"
+    },
+    {
+      "id": "EU-SVN"
+    },
+    {
+      "id": "EU-SWE"
+    },
+    {
+      "id": "EU-NOR"
+    },
+    {
+      "id": "EU-ISL"
+    },
+    {
+      "id": "EU-LIE"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Pays de l'Union Européenne ou de l'EEA",
+    "Text": "Les 27 membres de l'Union Européenne et les 3 membres de l'Espace économique européen non présents dans l'Union Européenne",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "fromFlag",
+    "fromName",
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

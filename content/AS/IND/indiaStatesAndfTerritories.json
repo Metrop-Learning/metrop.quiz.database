@@ -1,0 +1,236 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Andhra Pradesh"
+      },
+      "id": "AS-IND-AP"
+    },
+    {
+      "name": {
+        "fr": "Arunachal Pradesh"
+      },
+      "id": "AS-IND-AR"
+    },
+    {
+      "name": {
+        "fr": "Assam"
+      },
+      "id": "AS-IND-AS"
+    },
+    {
+      "name": {
+        "fr": "Bihar"
+      },
+      "id": "AS-IND-BR"
+    },
+    {
+      "name": {
+        "fr": "Chhattisgarh"
+      },
+      "id": "AS-IND-CG"
+    },
+    {
+      "name": {
+        "fr": "Goa"
+      },
+      "id": "AS-IND-GA"
+    },
+    {
+      "name": {
+        "fr": "Gujarat"
+      },
+      "id": "AS-IND-GJ"
+    },
+    {
+      "name": {
+        "fr": "Haryana"
+      },
+      "id": "AS-IND-HR"
+    },
+    {
+      "name": {
+        "fr": "Himachal Pradesh"
+      },
+      "id": "AS-IND-HP"
+    },
+    {
+      "name": {
+        "fr": "Jharkhand"
+      },
+      "id": "AS-IND-JH"
+    },
+    {
+      "name": {
+        "fr": "Karnataka"
+      },
+      "id": "AS-IND-KA"
+    },
+    {
+      "name": {
+        "fr": "Kerala"
+      },
+      "id": "AS-IND-KL"
+    },
+    {
+      "name": {
+        "fr": "Madhya Pradesh"
+      },
+      "id": "AS-IND-MP"
+    },
+    {
+      "name": {
+        "fr": "Maharashtra"
+      },
+      "id": "AS-IND-MH"
+    },
+    {
+      "name": {
+        "fr": "Manipur"
+      },
+      "id": "AS-IND-MN"
+    },
+    {
+      "name": {
+        "fr": "Meghalaya"
+      },
+      "id": "AS-IND-ML"
+    },
+    {
+      "name": {
+        "fr": "Mizoram"
+      },
+      "id": "AS-IND-MZ"
+    },
+    {
+      "name": {
+        "fr": "Nagaland"
+      },
+      "id": "AS-IND-NL"
+    },
+    {
+      "name": {
+        "fr": "Odisha"
+      },
+      "id": "AS-IND-OD"
+    },
+    {
+      "name": {
+        "fr": "Pendjab"
+      },
+      "id": "AS-IND-PB"
+    },
+    {
+      "name": {
+        "fr": "Rajasthan"
+      },
+      "id": "AS-IND-RJ"
+    },
+    {
+      "name": {
+        "fr": "Sikkim"
+      },
+      "id": "AS-IND-SK"
+    },
+    {
+      "name": {
+        "fr": "Tamil Nadu"
+      },
+      "id": "AS-IND-TN"
+    },
+    {
+      "name": {
+        "fr": "Telangana"
+      },
+      "id": "AS-IND-TS"
+    },
+    {
+      "name": {
+        "fr": "Tripura"
+      },
+      "id": "AS-IND-TR"
+    },
+    {
+      "name": {
+        "fr": "Uttar Pradesh"
+      },
+      "id": "AS-IND-UP"
+    },
+    {
+      "name": {
+        "fr": "Uttarakhand"
+      },
+      "id": "AS-IND-UK"
+    },
+    {
+      "name": {
+        "fr": "West Bengal"
+      },
+      "id": "AS-IND-WB"
+    },
+    {
+      "name": {
+        "fr": "Îles Andaman-et-Nicobar"
+      },
+      "id": "AS-IND-AN"
+    },
+    {
+      "name": {
+        "fr": "Chandigarh"
+      },
+      "id": "AS-IND-CH"
+    },
+    {
+      "name": {
+        "fr": "Dadra et Nagar Haveli et Daman et Diu"
+      },
+      "id": "AS-IND-DH"
+    },
+    {
+      "name": {
+        "fr": "Delhi"
+      },
+      "id": "AS-IND-DL"
+    },
+    {
+      "name": {
+        "fr": "Jammu-et-Cachemire"
+      },
+      "id": "AS-IND-JK"
+    },
+    {
+      "name": {
+        "fr": "Ladakh"
+      },
+      "id": "AS-IND-LA"
+    },
+    {
+      "name": {
+        "fr": "Lakshadweep"
+      },
+      "id": "AS-IND-LD"
+    },
+    {
+      "name": {
+        "fr": "Territoire de Pondichéry"
+      },
+      "id": "AS-IND-PY"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les États et Territoires de l'Union de l'Inde",
+    "Text": "Les 28 États et 8 Territoires de l'Union de l'Inde",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "AS-IND",
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}
