@@ -162,6 +162,8 @@
   "type": [
     "fromFlag",
     "fromName",
-    "placeTerritory"
+    "placeTerritory",
+    "guessFromPosiTerritory",
+    "shadowTerritory"
   ]
 }
