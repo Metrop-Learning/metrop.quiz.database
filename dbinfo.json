@@ -22,7 +22,7 @@
     "CONTENT_ADVISORY": {
         "CONTESTED_TERRITORY": true
     },
-    "LICENSE": "Copyright (c) 2026 Metrop. All Rights Reserved.",
+    "LICENSE": "https://metrop-learning.github.io/metrop.quiz.database/LICENSE",
     "QUIZ_LIST": [
         "Megacity.json",
         "MegacityEasy.json",
