@@ -189,6 +189,7 @@
     "lang": "FR",
     "pictureURL": "None",
     "setInfo": "EU-FRA",
+    "group":["g.fra"],
     "option": {
       "rangeError": 300,
       "rangeErrorAccepted": 100

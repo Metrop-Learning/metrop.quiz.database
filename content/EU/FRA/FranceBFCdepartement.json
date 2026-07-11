@@ -55,6 +55,7 @@
     "lang": "FR",
     "pictureURL": "None",
     "setInfo": "EU-FRA",
+    "group":["g.fra"],
     "option": {
       "tryMax": 1,
       "EliminateSelected": true
