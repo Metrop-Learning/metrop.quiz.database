@@ -34,6 +34,7 @@
     "lang": "FR",
     "pictureURL": "None",
     "setInfo": "OC-AU",
+    "group":["g.aus"],
     "option": {
       "tryMax": 2,
       "EliminateSelected": true

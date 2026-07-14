@@ -147,6 +147,7 @@
     "lang": "FR",
     "pictureURL": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Autumn_in_Mido-suji_Osaka02n.jpg",
     "setInfo": "AS-JAP",
+    "group":["g.jap"],
     "option": {
       "rangeError": 300,
       "rangeErrorAccepted": 100

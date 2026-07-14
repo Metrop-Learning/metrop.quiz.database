@@ -289,6 +289,7 @@
     "lang": "FR",
     "pictureURL": "None",
     "setInfo": "AS-JAP",
+    "group":["g.jap"],
     "option": {
       "tryMax": 1,
       "EliminateSelected": true

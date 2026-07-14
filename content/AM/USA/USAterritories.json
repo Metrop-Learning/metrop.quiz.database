@@ -343,6 +343,7 @@
     "lang": "FR",
     "pictureURL": "None",
     "setInfo": "AM-USA",
+    "group":["g.usa"],
     "option": {
       "tryMax": 2,
       "EliminateSelected": true
