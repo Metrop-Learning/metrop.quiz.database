@@ -134,7 +134,7 @@
         },
         {
             "NAME": {
-                "fr": "\u00c3\u2030tats-Unis",
+                "fr": "Etats-Unis",
                 "en": "United States"
             },
             "flag": "AM-USA",
@@ -167,7 +167,7 @@
                 "fr": "Royaume-Uni",
                 "en": "United Kingdom"
             },
-            "flag": "AM-UK",
+            "flag": "EU-UK",
             "img": "https://images.unsplash.com/photo-1594760910270-8720de623883?q=80&w=2051&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "img_credit": "https://unsplash.com/fr/@hunupnorth",
             "group_id": "g.uk"
