@@ -1,0 +1,97 @@
+{
+  "list": [
+    {
+      "id": "EU-SRB-BEL"
+    },
+    {
+      "id": "EU-SRB-V1"
+    },
+    {
+      "id": "EU-SRB-V2"
+    },
+    {
+      "id": "EU-SRB-V3"
+    },
+    {
+      "id": "EU-SRB-V4"
+    },
+    {
+      "id": "EU-SRB-V5"
+    },
+    {
+      "id": "EU-SRB-V6"
+    },
+    {
+      "id": "EU-SRB-V7"
+    },
+    {
+      "id": "EU-SRB-C1"
+    },
+    {
+      "id": "EU-SRB-C2"
+    },
+    {
+      "id": "EU-SRB-C3"
+    },
+    {
+      "id": "EU-SRB-C4"
+    },
+    {
+      "id": "EU-SRB-C5"
+    },
+    {
+      "id": "EU-SRB-C6"
+    },
+    {
+      "id": "EU-SRB-C7"
+    },
+    {
+      "id": "EU-SRB-C8"
+    },
+    {
+      "id": "EU-SRB-C9"
+    },
+    {
+      "id": "EU-SRB-C10"
+    },
+    {
+      "id": "EU-SRB-C11"
+    },
+    {
+      "id": "EU-SRB-C12"
+    },
+    {
+      "id": "EU-SRB-C13"
+    },
+    {
+      "id": "EU-SRB-C14"
+    },
+    {
+      "id": "EU-SRB-C15"
+    },
+    {
+      "id": "EU-SRB-C16"
+    },
+    {
+      "id": "EU-SRB-C17"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les District de Serbie",
+    "Text": "Les districts de Serbie présentés ici incluent la province autonome de Voïvodine, mais excluent la province du Kosovo-et-Métochie (indépendante de facto sous le nom de République du Kosovo). La Serbie considère toujours ce territoire comme sien et reconnaît ses anciens districts, bien qu'ils aient été abolis par la MINUK (ONU).",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-SRB",
+    "conflic_type":["exi"],
+    "involved":["EU-SRB","EU-NWR:RKS"],
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

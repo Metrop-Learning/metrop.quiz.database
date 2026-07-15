@@ -1,0 +1,45 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Morbihan"
+      },
+      "id": "EU-FRA-BRE-56"
+    },
+    {
+      "name": {
+        "fr": "Finistère"
+      },
+      "id": "EU-FRA-BRE-29"
+    },
+    {
+      "name": {
+        "fr": "Côtes-d'Armor"
+      },
+      "id": "EU-FRA-BRE-22"
+    },
+    {
+      "name": {
+        "fr": "Ille-et-Vilaine"
+      },
+      "id": "EU-FRA-BRE-35"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les départements de Bretagne",
+    "Text": "Les 4 départements de la région Bretagne en France",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-FRA",
+    "group":["g.fra"],
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

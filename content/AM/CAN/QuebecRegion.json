@@ -1,0 +1,72 @@
+{
+  "list": [
+    {
+      "id": "AM-CAN-QC-1"
+    },
+    {
+      "id": "AM-CAN-QC-2"
+    },
+    {
+      "id": "AM-CAN-QC-3"
+    },
+    {
+      "id": "AM-CAN-QC-4"
+    },
+    {
+      "id": "AM-CAN-QC-5"
+    },
+    {
+      "id": "AM-CAN-QC-6"
+    },
+    {
+      "id": "AM-CAN-QC-7"
+    },
+    {
+      "id": "AM-CAN-QC-8"
+    },
+    {
+      "id": "AM-CAN-QC-9"
+    },
+    {
+      "id": "AM-CAN-QC-10"
+    },
+    {
+      "id": "AM-CAN-QC-11"
+    },
+    {
+      "id": "AM-CAN-QC-12"
+    },
+    {
+      "id": "AM-CAN-QC-13"
+    },
+    {
+      "id": "AM-CAN-QC-14"
+    },
+    {
+      "id": "AM-CAN-QC-15"
+    },
+    {
+      "id": "AM-CAN-QC-16"
+    },
+    {
+      "id": "AM-CAN-QC-17"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les Région administrative du Québec",
+    "Text": "Les 17 Région administrative du Québec (Canada)",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "AM-CAN-QC",
+    "group":["g.can"],
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

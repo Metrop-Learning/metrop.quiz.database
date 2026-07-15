@@ -1,0 +1,51 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Calvados"
+      },
+      "id": "EU-FRA-BRE-14"
+    },
+    {
+      "name": {
+        "fr": "Eure"
+      },
+      "id": "EU-FRA-BRE-27"
+    },
+    {
+      "name": {
+        "fr": "Manche"
+      },
+      "id": "EU-FRA-BRE-50"
+    },
+    {
+      "name": {
+        "fr": "Orne"
+      },
+      "id": "EU-FRA-BRE-61"
+    },
+    {
+      "name": {
+        "fr": "Seine-Maritime"
+      },
+      "id": "EU-FRA-BRE-76"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les départements de Normandie",
+    "Text": "Les 5 départements de la région Normandie en France",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-FRA",
+    "group":["g.fra"],
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

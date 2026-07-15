@@ -1,0 +1,57 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Cher"
+      },
+      "id": "EU-FRA-CVL-18"
+    },
+    {
+      "name": {
+        "fr": "Eure-et-Loir"
+      },
+      "id": "EU-FRA-CVL-28"
+    },
+    {
+      "name": {
+        "fr": "Indre"
+      },
+      "id": "EU-FRA-CVL-36"
+    },
+    {
+      "name": {
+        "fr": "Indre-et-Loire"
+      },
+      "id": "EU-FRA-CVL-37"
+    },
+    {
+      "name": {
+        "fr": "Loir-et-Cher"
+      },
+      "id": "EU-FRA-CVL-41"
+    },
+    {
+      "name": {
+        "fr": "Loiret"
+      },
+      "id": "EU-FRA-CVL-45"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les départements du Centre-Val de Loire",
+    "Text": "Les 6 départements de la région Centre-Val de Loire en France",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-FRA",
+    "group":["g.fra"],
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

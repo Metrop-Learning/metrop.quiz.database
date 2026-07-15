@@ -1,0 +1,39 @@
+{
+  "list": [
+    {
+      "id": "EU-UKC:IMN-GLE"
+    },
+    {
+      "id": "EU-UKC:IMN-MIC"
+    },
+    {
+      "id": "EU-UKC:IMN-AYR"
+    },
+    {
+      "id": "EU-UKC:IMN-GAR"
+    },
+    {
+      "id": "EU-UKC:IMN-MID"
+    },
+    {
+      "id": "EU-UKC:IMN-RUS"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les sheading de l’île de Man",
+    "Text": "Les 6 sheading de l’île de Man",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-UKC:IMN",
+    "group":["g.uk"],
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

@@ -9,13 +9,13 @@
     ],
     "VER": [
         1,
-        1,
-        2
+        2,
+        0
     ],
     "DATE": [
         2026,
         7,
-        14
+        16
     ],
     "PROVIDER": "METROP_LEARNING_ORGANISATION",
     "TYPE": "MODERN_DAY",
@@ -46,6 +46,7 @@
         "AM/SouthAmerica.json",
         "AM/CAN/CanadaProvince.json",
         "AM/CAN/CapitalCanada.json",
+        "AM/CAN/QuebecRegion.json",
         "AM/USA/StatesOfUSA.json",
         "AM/USA/StatesOfUSAporto.json",
         "AM/USA/USAterritories.json",
@@ -82,8 +83,12 @@
         "EU/ESP/SpainComunidadesAutonomas.json",
         "EU/FRA/FranceARAdepartement.json",
         "EU/FRA/FranceBFCdepartement.json",
+        "EU/FRA/FranceBREdepartement.json",
+        "EU/FRA/FranceCVLdepartement.json",
+        "EU/FRA/FranceNORdepartement.json",
         "EU/FRA/FranceOCCdepartement.json",
         "EU/FRA/FrancePACdepartement.json",
+        "EU/FRA/FrancePDLdepartement.json",
         "EU/FRA/FranceRegion.json",
         "EU/FRA/FranceRegionMetropolitaine.json",
         "EU/FRA/MetroCityFrance.json",
@@ -95,63 +100,77 @@
         "EU/ITA/RegionItaly.json",
         "EU/NOR/NorwayFylkes.json",
         "EU/POL/polishVoivodies.json",
+        "EU/RKS/kosovo.json",
+        "EU/SRB/serbia.json",
+        "EU/UK/BritishOverseasTerritories.json",
         "EU/UK/UkHomeNation.json",
+        "EU/UK/UKC/manSheading.json",
         "OC/oceania.json",
         "OC/AU/australia.json",
         "OC/AU/australiaIntern.json",
         "OC/AU/australiaStates.json",
         "OC/NZ/NewZealandRegion.json"
     ],
-    "SHOWCASE_GROUP":[
+    "SHOWCASE_GROUP": [
         {
-            "NAME":{
-                "fr":"France",
-                "en":"France"
+            "NAME": {
+                "fr": "France",
+                "en": "France"
             },
-            "flag":"EU-FRA",
-            "img":"https://images.unsplash.com/photo-1634300538353-79d5ac918fd2?q=80&w=2129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "img_credit":"https://unsplash.com/fr/@aaronstaes",
-            "group_id":"g.fra"
+            "flag": "EU-FRA",
+            "img": "https://images.unsplash.com/photo-1634300538353-79d5ac918fd2?q=80&w=2129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img_credit": "https://unsplash.com/fr/@aaronstaes",
+            "group_id": "g.fra"
         },
         {
-            "NAME":{
-                "fr":"Japon",
-                "en":"Japan"
+            "NAME": {
+                "fr": "Japon",
+                "en": "Japan"
             },
-            "flag":"AS-JAP",
-            "img":"https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "img_credit":"https://unsplash.com/fr/@jlhopes",
-            "group_id":"g.jap"
+            "flag": "AS-JAP",
+            "img": "https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img_credit": "https://unsplash.com/fr/@jlhopes",
+            "group_id": "g.jap"
         },
         {
-            "NAME":{
-                "fr":"États-Unis",
-                "en":"United States"
+            "NAME": {
+                "fr": "\u00c3\u2030tats-Unis",
+                "en": "United States"
             },
-            "flag":"AM-USA",
-            "img":"https://images.unsplash.com/photo-1518235506717-e1ed3306a89b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "img_credit":"https://unsplash.com/fr/@mikechv",
-            "group_id":"g.usa"
+            "flag": "AM-USA",
+            "img": "https://images.unsplash.com/photo-1518235506717-e1ed3306a89b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img_credit": "https://unsplash.com/fr/@mikechv",
+            "group_id": "g.usa"
         },
         {
-            "NAME":{
-                "fr":"Australie",
-                "en":"Australia"
+            "NAME": {
+                "fr": "Australie",
+                "en": "Australia"
             },
-            "flag":"OC-AU",
-            "img":"https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?q=80&w=2233&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "img_credit":"https://unsplash.com/fr/@calebrussell",
-            "group_id":"g.aus"
+            "flag": "OC-AU",
+            "img": "https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?q=80&w=2233&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img_credit": "https://unsplash.com/fr/@calebrussell",
+            "group_id": "g.aus"
         },
         {
-            "NAME":{
-                "fr":"Canada",
-                "en":"Canada"
+            "NAME": {
+                "fr": "Canada",
+                "en": "Canada"
             },
-            "flag":"AM-CAN",
-            "img":"https://images.unsplash.com/photo-1597463439561-56c1bc962dee?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "img_credit":"https://unsplash.com/fr/@trintaycinco",
-            "group_id":"g.can"
+            "flag": "AM-CAN",
+            "img": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img_credit": "https://unsplash.com/fr/@kalenemsley",
+            "group_id": "g.can"
+        },
+        {
+            "NAME": {
+                "fr": "Royaume-Uni",
+                "en": "United Kingdom"
+            },
+            "flag": "AM-UK",
+            "img": "https://images.unsplash.com/photo-1594760910270-8720de623883?q=80&w=2051&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img_credit": "https://unsplash.com/fr/@hunupnorth",
+            "group_id": "g.uk"
         }
     ]
 }

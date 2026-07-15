@@ -169,6 +169,8 @@
     }
   },
   "type": [
+    "fromFlag",
+    "fromName",
     "placeTerritory",
     "shadowTerritory",
     "guessFromPosiTerritory"

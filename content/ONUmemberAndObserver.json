@@ -597,6 +597,8 @@
   "type": [
     "fromFlag",
     "fromName",
-    "placeTerritory"
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
   ]
 }

@@ -1,0 +1,51 @@
+{
+  "list": [
+    {
+      "name": {
+        "fr": "Loire-Atlantique"
+      },
+      "id": "EU-FRA-PDL-44"
+    },
+    {
+      "name": {
+        "fr": "Maine-et-Loire"
+      },
+      "id": "EU-FRA-PDL-49"
+    },
+    {
+      "name": {
+        "fr": "Mayenne"
+      },
+      "id": "EU-FRA-PDL-53"
+    },
+    {
+      "name": {
+        "fr": "Sarthe"
+      },
+      "id": "EU-FRA-PDL-72"
+    },
+    {
+      "name": {
+        "fr": "Vendée"
+      },
+      "id": "EU-FRA-PDL-85"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les départements des Pays de la Loire",
+    "Text": "Les 5 départements de la région Pays de la Loire en France",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-FRA",
+    "group":["g.fra"],
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}

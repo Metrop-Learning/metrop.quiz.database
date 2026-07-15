@@ -1,0 +1,43 @@
+{
+  "list": [
+    {
+      "id": "EU-NWR:RKS-K1"
+    },
+    {
+      "id": "EU-NWR:RKS-K2"
+    },
+    {
+      "id": "EU-NWR:RKS-K3"
+    },
+    {
+      "id": "EU-NWR:RKS-K4"
+    },
+    {
+      "id": "EU-NWR:RKS-K5"
+    },
+    {
+      "id": "EU-NWR:RKS-K6"
+    },
+    {
+      "id": "EU-NWR:RKS-K7"
+    }
+  ],
+  "cardInfo": {
+    "Title": "Les District du Kosovo",
+    "Text": "Ce quiz présente les districts du Kosovo indépendant de facto, créés par l'ONU (MINUK). Ils diffèrent des districts historiques toujours revendiqués par la Serbie.",
+    "lang": "FR",
+    "pictureURL": "None",
+    "setInfo": "EU-NWR:RKS",
+    "conflic_type":["exi"],
+    "involved":["EU-SRB","EU-NWR:RKS"],
+    "option": {
+      "tryMax": 1,
+      "EliminateSelected": true
+    }
+  },
+  "type": [
+    "placeTerritory",
+    "shadowTerritory",
+    "guessFromPosiTerritory"
+  ]
+}
