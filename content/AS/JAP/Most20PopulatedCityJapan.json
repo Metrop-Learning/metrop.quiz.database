@@ -2,152 +2,246 @@
   "list": [
     {
       "name": {
-        "fr": "Tokyo"
+        "fr": "Tokyo",
+        "en": "Tokyo",
+        "es": "Tokio",
+        "it": "Tokyo",
+        "jp": "東京"
       },
       "lat": 35.6895,
       "lng": 139.6917
     },
     {
       "name": {
-        "fr": "Osaka"
+        "fr": "Osaka",
+        "en": "Osaka",
+        "es": "Osaka",
+        "it": "Osaka",
+        "jp": "大阪"
       },
       "lat": 34.6937,
       "lng": 135.5023
     },
     {
       "name": {
-        "fr": "Nagoya"
+        "fr": "Nagoya",
+        "en": "Nagoya",
+        "es": "Nagoya",
+        "it": "Nagoya",
+        "jp": "名古屋"
       },
       "lat": 35.1815,
       "lng": 136.9066
     },
     {
       "name": {
-        "fr": "Fukuoka"
+        "fr": "Fukuoka",
+        "en": "Fukuoka",
+        "es": "Fukuoka",
+        "it": "Fukuoka",
+        "jp": "福岡"
       },
       "lat": 33.5904,
       "lng": 130.4017
     },
     {
       "name": {
-        "fr": "Yokohama"
+        "fr": "Yokohama",
+        "en": "Yokohama",
+        "es": "Yokohama",
+        "it": "Yokohama",
+        "jp": "横浜"
       },
       "lat": 35.4437,
       "lng": 139.638
     },
     {
       "name": {
-        "fr": "Shizuoka"
+        "fr": "Shizuoka",
+        "en": "Shizuoka",
+        "es": "Shizuoka",
+        "it": "Shizuoka",
+        "jp": "静岡"
       },
       "lat": 34.9756,
       "lng": 138.3828
     },
     {
       "name": {
-        "fr": "Sapporo"
+        "fr": "Sapporo",
+        "en": "Sapporo",
+        "es": "Sapporo",
+        "it": "Sapporo",
+        "jp": "札幌"
       },
       "lat": 43.0621,
       "lng": 141.3544
     },
     {
       "name": {
-        "fr": "Sendai"
+        "fr": "Sendai",
+        "en": "Sendai",
+        "es": "Sendai",
+        "it": "Sendai",
+        "jp": "仙台"
       },
       "lat": 38.2682,
       "lng": 140.8694
     },
     {
       "name": {
-        "fr": "Hiroshima"
+        "fr": "Hiroshima",
+        "en": "Hiroshima",
+        "es": "Hiroshima",
+        "it": "Hiroshima",
+        "jp": "広島"
       },
       "lat": 34.3853,
       "lng": 132.4553
     },
     {
       "name": {
-        "fr": "Kobe"
+        "fr": "Kobe",
+        "en": "Kobe",
+        "es": "Kobe",
+        "it": "Kobe",
+        "jp": "神戸"
       },
       "lat": 34.6901,
       "lng": 135.1955
     },
     {
       "name": {
-        "fr": "Kyoto"
+        "fr": "Kyoto",
+        "en": "Kyoto",
+        "es": "Kioto",
+        "it": "Kyoto",
+        "jp": "京都"
       },
       "lat": 35.0116,
       "lng": 135.7681
     },
     {
       "name": {
-        "fr": "Kawasaki"
+        "fr": "Kawasaki",
+        "en": "Kawasaki",
+        "es": "Kawasaki",
+        "it": "Kawasaki",
+        "jp": "川崎"
       },
       "lat": 35.5308,
       "lng": 139.7036
     },
     {
       "name": {
-        "fr": "Saitama"
+        "fr": "Saitama",
+        "en": "Saitama",
+        "es": "Saitama",
+        "it": "Saitama",
+        "jp": "さいたま"
       },
       "lat": 35.8617,
       "lng": 139.6455
     },
     {
       "name": {
-        "fr": "Kitakyushu"
+        "fr": "Kitakyushu",
+        "en": "Kitakyushu",
+        "es": "Kitakyushu",
+        "it": "Kitakyushu",
+        "jp": "北九州"
       },
       "lat": 33.8833,
       "lng": 130.875
     },
     {
       "name": {
-        "fr": "Chiba"
+        "fr": "Chiba",
+        "en": "Chiba",
+        "es": "Chiba",
+        "it": "Chiba",
+        "jp": "千葉"
       },
       "lat": 35.6074,
       "lng": 140.1063
     },
     {
       "name": {
-        "fr": "Niigata"
+        "fr": "Niigata",
+        "en": "Niigata",
+        "es": "Niigata",
+        "it": "Niigata",
+        "jp": "新潟"
       },
       "lat": 37.9162,
       "lng": 139.0364
     },
     {
       "name": {
-        "fr": "Sakai"
+        "fr": "Sakai",
+        "en": "Sakai",
+        "es": "Sakai",
+        "it": "Sakai",
+        "jp": "堺"
       },
       "lat": 34.5735,
       "lng": 135.4828
     },
     {
       "name": {
-        "fr": "Kumamoto"
+        "fr": "Kumamoto",
+        "en": "Kumamoto",
+        "es": "Kumamoto",
+        "it": "Kumamoto",
+        "jp": "熊本"
       },
       "lat": 32.8031,
       "lng": 130.7079
     },
     {
       "name": {
-        "fr": "Okayama"
+        "fr": "Okayama",
+        "en": "Okayama",
+        "es": "Okayama",
+        "it": "Okayama",
+        "jp": "岡山"
       },
       "lat": 34.6551,
       "lng": 133.9195
     },
     {
       "name": {
-        "fr": "Hamamatsu"
+        "fr": "Hamamatsu",
+        "en": "Hamamatsu",
+        "es": "Hamamatsu",
+        "it": "Hamamatsu",
+        "jp": "浜松"
       },
       "lat": 34.7108,
       "lng": 137.7269
     }
   ],
   "cardInfo": {
-    "Title": "Les 20 villes les plus peuplées du Japon",
-    "Text": "Les 20 villes les plus peuplées du Japon",
-    "lang": "FR",
+    "Title": {
+      "fr": "Les 20 villes les plus peuplées du Japon",
+      "en": "The 20 most populous cities in Japan",
+      "es": "Las 20 ciudades más pobladas de Japón",
+      "it": "Le 20 città più popolate del Giappone",
+      "jp": "日本の人口の多い20都市"
+    },
+    "Text": {
+      "fr": "Les 20 villes les plus peuplées du Japon",
+      "en": "The 20 most populous cities in Japan",
+      "es": "Las 20 ciudades más pobladas de Japón",
+      "it": "Le 20 città più popolate del Giappone",
+      "jp": "日本の人口の多い20都市"
+    },
+    "lang":["fr","en","es","it","jp"],
     "pictureURL": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Autumn_in_Mido-suji_Osaka02n.jpg",
     "setInfo": "AS-JAP",
-    "group":["g.jap"],
+    "group": [
+      "g.jap"
+    ],
     "option": {
       "rangeError": 300,
       "rangeErrorAccepted": 100

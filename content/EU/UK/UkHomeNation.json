@@ -14,9 +14,15 @@
     }
   ],
   "cardInfo": {
-    "Title": "Les nations constitutives du Royaume-Uni",
-    "Text": "Les 4 nations constitutives du Royaume-Uni",
-    "lang": "FR",
+    "Title": {
+      "fr": "Les nations constitutives du Royaume-Uni",
+      "en": "The Constituent Countries of the United Kingdom"
+    },
+    "Text": {
+      "fr": "Les 4 nations constitutives du Royaume-Uni",
+      "en": "The 4 constituent countries of the United Kingdom"
+    },
+    "lang": ["fr","en"],
     "pictureURL": "None",
     "setInfo": "EU-UK",
     "group":["g.uk"],

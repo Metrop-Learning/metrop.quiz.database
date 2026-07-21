@@ -29,9 +29,15 @@
     }
   ],
   "cardInfo": {
-    "Title": "Les États et Territoires Intérieurs de l'Australie",
-    "Text": "Les 6 États et les 3 Territoires Intérieurs de l'Australie",
-    "lang": "FR",
+    "Title": {
+      "fr": "Les États et territoires intérieurs de l'Australie",
+      "en": "The States and Internal Territories of Australia"
+    },
+    "Text": {
+      "fr": "Les 6 États et les 3 territoires intérieurs de l'Australie",
+      "en": "The 6 states and 3 internal territories of Australia"
+    },
+    "lang": ["fr","en"],
     "pictureURL": "None",
     "setInfo": "OC-AU",
     "group":["g.aus"],

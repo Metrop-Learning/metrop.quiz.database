@@ -41,9 +41,21 @@
     }
   ],
   "cardInfo": {
-    "Title": "Les 13 Provinces et Territoires du Canada",
-    "Text": "Les 10 Provinces et les 3 Territoires (Yukon, Territoires du Nord-Ouest et Nunavut) du Canada",
-    "lang": "FR",
+    "Title": {
+      "fr": "Les 13 provinces et territoires du Canada",
+      "en": "The 13 Provinces and Territories of Canada",
+      "es": "Las 13 provincias y territorios de Canadá",
+      "it": "Le 13 province e territori del Canada",
+      "jp": "カナダの13州と準州"
+    },
+    "Text": {
+      "fr": "Les 10 provinces et les 3 territoires (Yukon, Territoires du Nord-Ouest et Nunavut) du Canada",
+      "en": "The 10 provinces and 3 territories (Yukon, Northwest Territories, and Nunavut) of Canada",
+      "es": "Las 10 provincias y los 3 territorios (Yukón, Territorios del Noroeste y Nunavut) de Canadá",
+      "it": "Le 10 province e i 3 territori (Yukon, Territori del Nord-Ovest e Nunavut) del Canada",
+      "jp": "カナダの10州と3準州（ユーコン、ノースウエスト準州、ヌナブト）"
+    },
+    "lang": ["fr","en","es","it","jp"],
     "pictureURL": "None",
     "setInfo": "AM-CAN",
     "group":["g.can"],

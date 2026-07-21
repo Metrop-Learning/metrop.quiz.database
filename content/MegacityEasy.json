@@ -2,107 +2,175 @@
   "list": [
     {
       "name": {
-        "fr": "Los Angeles"
+        "fr": "Los Angeles",
+        "en": "Los Angeles",
+        "es": "Los Ángeles",
+        "it": "Los Angeles",
+        "jp": "ロサンゼルス"
       },
       "lat": 34.052235,
       "lng": -118.243683
     },
     {
       "name": {
-        "fr": "New York"
+        "fr": "New York",
+        "en": "New York",
+        "es": "Nueva York",
+        "it": "New York",
+        "jp": "ニューヨーク"
       },
       "lat": 40.712776,
       "lng": -74.005974
     },
     {
       "name": {
-        "fr": "Mexico"
+        "fr": "Mexico",
+        "en": "Mexico City",
+        "es": "Ciudad de México",
+        "it": "Città del Messico",
+        "jp": "メキシコシティ"
       },
       "lat": 19.432608,
       "lng": -99.133209
     },
     {
       "name": {
-        "fr": "São Paulo"
+        "fr": "São Paulo",
+        "en": "São Paulo",
+        "es": "São Paulo",
+        "it": "San Paolo",
+        "jp": "サンパウロ"
       },
       "lat": -23.55052,
       "lng": -46.633308
     },
     {
       "name": {
-        "fr": "Le Caire"
+        "fr": "Le Caire",
+        "en": "Cairo",
+        "es": "El Cairo",
+        "it": "Il Cairo",
+        "jp": "カイロ"
       },
       "lat": 30.04442,
       "lng": 31.235712
     },
     {
       "name": {
-        "fr": "Lagos"
+        "fr": "Lagos",
+        "en": "Lagos",
+        "es": "Lagos",
+        "it": "Lagos",
+        "jp": "ラゴス"
       },
       "lat": 6.524379,
       "lng": 3.379206
     },
     {
       "name": {
-        "fr": "Osaka"
+        "fr": "Osaka",
+        "en": "Osaka",
+        "es": "Osaka",
+        "it": "Osaka",
+        "jp": "大阪"
       },
       "lat": 34.693737,
       "lng": 135.502167
     },
     {
       "name": {
-        "fr": "Tokyo"
+        "fr": "Tokyo",
+        "en": "Tokyo",
+        "es": "Tokio",
+        "it": "Tokyo",
+        "jp": "東京"
       },
       "lat": 35.689487,
       "lng": 139.691711
     },
     {
       "name": {
-        "fr": "Séoul"
+        "fr": "Séoul",
+        "en": "Seoul",
+        "es": "Seúl",
+        "it": "Seoul",
+        "jp": "ソウル"
       },
       "lat": 37.5665,
       "lng": 126.978
     },
     {
       "name": {
-        "fr": "Mumbai"
+        "fr": "Mumbai",
+        "en": "Mumbai",
+        "es": "Bombay",
+        "it": "Mumbai",
+        "jp": "ムンバイ"
       },
       "lat": 19.075983,
       "lng": 72.877655
     },
     {
       "name": {
-        "fr": "Jakarta"
+        "fr": "Jakarta",
+        "en": "Jakarta",
+        "es": "Yakarta",
+        "it": "Giacarta",
+        "jp": "ジャカルタ"
       },
       "lat": -6.208763,
       "lng": 106.845599
     },
     {
       "name": {
-        "fr": "Manille"
+        "fr": "Manille",
+        "en": "Manila",
+        "es": "Manila",
+        "it": "Manila",
+        "jp": "マニラ"
       },
       "lat": 14.599512,
       "lng": 120.984222
     },
     {
       "name": {
-        "fr": "Shanghai"
+        "fr": "Shanghai",
+        "en": "Shanghai",
+        "es": "Shanghai",
+        "it": "Shanghai",
+        "jp": "上海"
       },
       "lat": 31.230416,
       "lng": 121.473701
     },
     {
       "name": {
-        "fr": "Pékin"
+        "fr": "Pékin",
+        "en": "Beijing",
+        "es": "Pekín",
+        "it": "Pechino",
+        "jp": "北京"
       },
       "lat": 39.904202,
       "lng": 116.407394
     }
-  ],
+],
   "cardInfo": {
-    "Title": "Mégalopoles [Facile]",
-    "Text": "Les villes les plus peuplées au monde",
-    "lang": "FR",
+    "Title": {
+      "fr": "Mégalopoles [Facile]",
+      "en": "Megacities [Easy]",
+      "es": "Megaciudades [Fácil]",
+      "it": "Megalopoli [Facile]",
+      "jp": "メガシティ [簡単]"
+    },
+    "Text": {
+      "fr": "Les villes les plus peuplées au monde",
+      "en": "The most populous cities in the world",
+      "es": "Las ciudades más pobladas del mundo",
+      "it": "Le città più popolate al mondo",
+      "jp": "世界で最も人口が多い都市"
+    },
+    "lang": ["fr","en","it","es","jp"],
     "pictureURL": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Skyscrapers_Shinjuku_25_January_2004_rev.jpg"
   },
   "type": [

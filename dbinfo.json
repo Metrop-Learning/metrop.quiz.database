@@ -1,7 +1,11 @@
 {
     "ID": "metrop.geo.database",
     "NAME": {
-        "en": "Default Metrop Quiz List"
+        "fr": "Liste par défaut des quiz Metrop",
+        "en": "Default Metrop Quiz List",
+        "es": "Lista predeterminada de cuestionarios Metrop",
+        "it": "Elenco predefinito dei quiz Metrop",
+        "jp": "デフォルトのMetropクイズリスト"
     },
     "API_VER": [
         1,
@@ -9,13 +13,13 @@
     ],
     "VER": [
         1,
-        2,
+        3,
         0
     ],
     "DATE": [
         2026,
         7,
-        16
+        21
     ],
     "PROVIDER": "METROP_LEARNING_ORGANISATION",
     "TYPE": "MODERN_DAY",
@@ -118,26 +122,63 @@
                 "en": "France"
             },
             "flag": "EU-FRA",
+            "lang":["fr"],
             "img": "https://images.unsplash.com/photo-1634300538353-79d5ac918fd2?q=80&w=2129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "img_credit": "https://unsplash.com/fr/@aaronstaes",
             "group_id": "g.fra"
         },
         {
             "NAME": {
+                "fr": "Italie",
+                "en": "Italy",
+                "jp": "イタリア",
+                "it": "Italia",
+                "es": "Italia"
+            },
+            "flag": "EU-ITA",
+            "lang": ["fr","en","es","it","jp"],
+            "img": "https://images.unsplash.com/photo-1498307833015-e7b400441eb8?q=80&w=2128&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img_credit": "https://unsplash.com/fr/@rrebba",
+            "group_id": "g.ita"
+        },
+        {
+            "NAME": {
+                "fr": "Espagne",
+                "en": "Spain",
+                "jp": "スペイン",
+                "it": "Spagna",
+                "es": "España"
+            },
+            "flag": "EU-ESP",
+            "lang": ["fr","en","es","it","jp"],
+            "img": "https://images.unsplash.com/photo-1688680437050-d2cddf4f20b2?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "img_credit": "https://unsplash.com/fr/@taisiat",
+            "group_id": "g.esp"
+        },
+        {
+            "NAME": {
                 "fr": "Japon",
-                "en": "Japan"
+                "en": "Japan",
+                "es": "Japón",
+                "it": "Giappone",
+                "jp": "日本"
             },
             "flag": "AS-JAP",
+            "lang":["fr","en","es","it","jp"],
             "img": "https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "img_credit": "https://unsplash.com/fr/@jlhopes",
             "group_id": "g.jap"
         },
         {
             "NAME": {
-                "fr": "Etats-Unis",
-                "en": "United States"
+                "fr": "États-Unis",
+                "en": "United States",
+                "es": "Estados Unidos",
+                "it": "Stati Uniti",
+                "jp": "アメリカ"
             },
             "flag": "AM-USA",
+            "lang":["fr","en","es","it","jp"],
             "img": "https://images.unsplash.com/photo-1518235506717-e1ed3306a89b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "img_credit": "https://unsplash.com/fr/@mikechv",
             "group_id": "g.usa"
@@ -148,6 +189,7 @@
                 "en": "Australia"
             },
             "flag": "OC-AU",
+            "lang":["fr","en"],
             "img": "https://images.unsplash.com/photo-1624138784614-87fd1b6528f8?q=80&w=2233&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "img_credit": "https://unsplash.com/fr/@calebrussell",
             "group_id": "g.aus"
@@ -157,6 +199,7 @@
                 "fr": "Canada",
                 "en": "Canada"
             },
+            "lang":["fr","en","es","it","jp"],
             "flag": "AM-CAN",
             "img": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "img_credit": "https://unsplash.com/fr/@kalenemsley",
@@ -168,6 +211,7 @@
                 "en": "United Kingdom"
             },
             "flag": "EU-UK",
+            "lang":["fr","en"],
             "img": "https://images.unsplash.com/photo-1594760910270-8720de623883?q=80&w=2051&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "img_credit": "https://unsplash.com/fr/@hunupnorth",
             "group_id": "g.uk"

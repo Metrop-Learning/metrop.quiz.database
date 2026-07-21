@@ -1,106 +1,64 @@
 {
   "list": [
     {
-      "name": {
-        "fr": "Northland"
-      },
       "id": "OC-NZ-NTL"
     },
     {
-      "name": {
-        "fr": "Auckland"
-      },
       "id": "OC-NZ-AUK"
     },
     {
-      "name": {
-        "fr": "Waikato"
-      },
       "id": "OC-NZ-WKO"
     },
     {
-      "name": {
-        "fr": "Baie de l'Abondance"
-      },
       "id": "OC-NZ-BOP"
     },
     {
-      "name": {
-        "fr": "Gisborne"
-      },
       "id": "OC-NZ-GIS"
     },
     {
-      "name": {
-        "fr": "Hawke's Bay"
-      },
       "id": "OC-NZ-HKB"
     },
     {
-      "name": {
-        "fr": "Taranaki"
-      },
       "id": "OC-NZ-TKI"
     },
     {
-      "name": {
-        "fr": "Manawatū-Whanganui"
-      },
       "id": "OC-NZ-MWT"
     },
     {
-      "name": {
-        "fr": "Wellington"
-      },
       "id": "OC-NZ-WGN"
     },
     {
-      "name": {
-        "fr": "Tasman"
-      },
       "id": "OC-NZ-TAS"
     },
     {
-      "name": {
-        "fr": "Nelson"
-      },
       "id": "OC-NZ-NSN"
     },
     {
-      "name": {
-        "fr": "Marlborough"
-      },
       "id": "OC-NZ-MBH"
     },
     {
-      "name": {
-        "fr": "West Coast"
-      },
       "id": "OC-NZ-WTC"
     },
     {
-      "name": {
-        "fr": "Canterbury"
-      },
       "id": "OC-NZ-CAN"
     },
     {
-      "name": {
-        "fr": "Otago"
-      },
       "id": "OC-NZ-OTA"
     },
     {
-      "name": {
-        "fr": "Southland"
-      },
       "id": "OC-NZ-STL"
     }
   ],
   "cardInfo": {
-    "Title": "Les Régions de la Nouvelle-Zélande",
-    "Text": "Les 16 régions de la Nouvelle-Zélande",
-    "lang": "FR",
+    "Title": {
+      "fr": "Les régions de la Nouvelle-Zélande",
+      "en": "The Regions of New Zealand"
+    },
+    "Text": {
+      "fr": "Les 16 régions de la Nouvelle-Zélande",
+      "en": "The 16 regions of New Zealand"
+    },
+    "lang": ["fr","en"],
     "pictureURL": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lake_Ohau_Lodge_lupin_field%2C_NZ.jpg",
     "setInfo": "OC-NZ",
     "option": {

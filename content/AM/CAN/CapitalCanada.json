@@ -2,110 +2,180 @@
   "list": [
     {
       "name": {
-        "fr": "Ottawa"
+        "fr": "Ottawa",
+        "en": "Ottawa",
+        "es": "Ottawa",
+        "it": "Ottawa",
+        "jp": "オタワ"
       },
       "lat": 45.4215,
       "lng": -75.6972
     },
     {
       "name": {
-        "fr": "Victoria"
+        "fr": "Victoria",
+        "en": "Victoria",
+        "es": "Victoria",
+        "it": "Victoria",
+        "jp": "ビクトリア"
       },
       "lat": 48.4284,
       "lng": -123.3656
     },
     {
       "name": {
-        "fr": "Edmonton"
+        "fr": "Edmonton",
+        "en": "Edmonton",
+        "es": "Edmonton",
+        "it": "Edmonton",
+        "jp": "エドモントン"
       },
       "lat": 53.5461,
       "lng": -113.4938
     },
     {
       "name": {
-        "fr": "Regina"
+        "fr": "Regina",
+        "en": "Regina",
+        "es": "Regina",
+        "it": "Regina",
+        "jp": "レジーナ"
       },
       "lat": 50.4452,
       "lng": -104.6189
     },
     {
       "name": {
-        "fr": "Winnipeg"
+        "fr": "Winnipeg",
+        "en": "Winnipeg",
+        "es": "Winnipeg",
+        "it": "Winnipeg",
+        "jp": "ウィニペグ"
       },
       "lat": 49.8951,
       "lng": -97.1384
     },
     {
       "name": {
-        "fr": "Toronto"
+        "fr": "Toronto",
+        "en": "Toronto",
+        "es": "Toronto",
+        "it": "Toronto",
+        "jp": "トロント"
       },
       "lat": 43.6532,
       "lng": -79.3832
     },
     {
       "name": {
-        "fr": "Québec"
+        "fr": "Québec",
+        "en": "Quebec City",
+        "es": "Ciudad de Quebec",
+        "it": "Città di Québec",
+        "jp": "ケベック・シティー"
       },
       "lat": 46.8139,
       "lng": -71.208
     },
     {
       "name": {
-        "fr": "Saint-Jean de Terre-Neuve"
+        "fr": "Saint-Jean de Terre-Neuve",
+        "en": "St. John's",
+        "es": "San Juan de Terranova",
+        "it": "San Giovanni di Terranova",
+        "jp": "セントジョーンズ"
       },
       "lat": 47.5615,
       "lng": -52.7126
     },
     {
       "name": {
-        "fr": "Fredericton"
+        "fr": "Fredericton",
+        "en": "Fredericton",
+        "es": "Fredericton",
+        "it": "Fredericton",
+        "jp": "フレデリクトン"
       },
       "lat": 45.9636,
       "lng": -66.6431
     },
     {
       "name": {
-        "fr": "Halifax"
+        "fr": "Halifax",
+        "en": "Halifax",
+        "es": "Halifax",
+        "it": "Halifax",
+        "jp": "ハリファックス"
       },
       "lat": 44.6488,
       "lng": -63.5752
     },
     {
       "name": {
-        "fr": "Charlottetown"
+        "fr": "Charlottetown",
+        "en": "Charlottetown",
+        "es": "Charlottetown",
+        "it": "Charlottetown",
+        "jp": "シャーロットタウン"
       },
       "lat": 46.2382,
       "lng": -63.1311
     },
     {
       "name": {
-        "fr": "Iqaluit"
+        "fr": "Iqaluit",
+        "en": "Iqaluit",
+        "es": "Iqaluit",
+        "it": "Iqaluit",
+        "jp": "イカルイト"
       },
       "lat": 63.7467,
       "lng": -68.517
     },
     {
       "name": {
-        "fr": "Yellowknife"
+        "fr": "Yellowknife",
+        "en": "Yellowknife",
+        "es": "Yellowknife",
+        "it": "Yellowknife",
+        "jp": "イエローナイフ"
       },
       "lat": 62.454,
       "lng": -114.3718
     },
     {
       "name": {
-        "fr": "Whitehorse"
+        "fr": "Whitehorse",
+        "en": "Whitehorse",
+        "es": "Whitehorse",
+        "it": "Whitehorse",
+        "jp": "ホワイトホース"
       },
       "lat": 60.7212,
       "lng": -135.0568
     }
   ],
   "cardInfo": {
-    "Title": "Les capitales du Canada",
-    "Text": "La Capitale Fédérale, Les Capitales des Provinces et les Capitales des Territoires du Canada",
-    "lang": "FR",
+    "Title": {
+      "fr": "Les capitales du Canada",
+      "en": "The Capitals of Canada",
+      "es": "Las capitales de Canadá",
+      "it": "Le capitali del Canada",
+      "jp": "カナダの首都と州都"
+    },
+    "Text": {
+      "fr": "La capitale fédérale, les capitales des provinces et les capitales des territoires du Canada",
+      "en": "The federal capital, provincial capitals, and territorial capitals of Canada",
+      "es": "La capital federal, las capitales provinciales y las capitales territoriales de Canadá",
+      "it": "La capitale federale, le capitali provinciali e le capitali territoriali del Canada",
+      "jp": "カナダの連邦首都、州都、および準州都"
+    },
+    "lang": ["fr","en","es","it","jp"],
     "pictureURL": "None",
     "setInfo": "AM-CAN",
-    "group":["g.can"],
+    "group": [
+      "g.can"
+    ],
     "option": {
       "rangeError": 300,
       "rangeErrorAccepted": 100

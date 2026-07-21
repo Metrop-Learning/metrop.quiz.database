@@ -1,124 +1,79 @@
 {
   "list": [
     {
-      "name": {
-        "fr": "Andalousie"
-      },
       "id": "EU-ESP-AN"
     },
     {
-      "name": {
-        "fr": "Aragon"
-      },
       "id": "EU-ESP-AR"
     },
     {
-      "name": {
-        "fr": "Asturies"
-      },
       "id": "EU-ESP-AS"
     },
     {
-      "name": {
-        "fr": "Îles Baléares"
-      },
       "id": "EU-ESP-BA"
     },
     {
-      "name": {
-        "fr": "Îles Canaries"
-      },
       "id": "EU-ESP-CN"
     },
     {
-      "name": {
-        "fr": "Cantabrie"
-      },
       "id": "EU-ESP-CB"
     },
     {
-      "name": {
-        "fr": "Castille-et-León"
-      },
       "id": "EU-ESP-CL"
     },
     {
-      "name": {
-        "fr": "Castille-La Manche"
-      },
       "id": "EU-ESP-CM"
     },
     {
-      "name": {
-        "fr": "Catalogne"
-      },
       "id": "EU-ESP-CT"
     },
     {
-      "name": {
-        "fr": "Estrémadure"
-      },
       "id": "EU-ESP-EX"
     },
     {
-      "name": {
-        "fr": "Galice"
-      },
       "id": "EU-ESP-GA"
     },
     {
-      "name": {
-        "fr": "Communauté de Madrid"
-      },
       "id": "EU-ESP-MD"
     },
     {
-      "name": {
-        "fr": "Région de Murcie"
-      },
       "id": "EU-ESP-MC"
     },
     {
-      "name": {
-        "fr": "Communauté forale de Navarre"
-      },
       "id": "EU-ESP-NC"
     },
     {
-      "name": {
-        "fr": "Pays basque"
-      },
       "id": "EU-ESP-PV"
     },
     {
-      "name": {
-        "fr": "La Rioja"
-      },
       "id": "EU-ESP-RI"
     },
     {
-      "name": {
-        "fr": "Communauté valencienne"
-      },
       "id": "EU-ESP-VC"
     },
     {
-      "name": {
-        "fr": "Ceuta"
-      },
       "id": "EU-ESP-CE"
     },
     {
-      "name": {
-        "fr": "Melilla"
-      },
       "id": "EU-ESP-ML"
     }
   ],
   "cardInfo": {
-    "Title": "Les 17 communautés autonomes de l'Espagne",
-    "Text": "Les 17 communautés autonomes et les 2 Villes autonomes de l'Espagne",
-    "lang": "FR",
+    "Title": {
+      "fr": "Les 17 communautés autonomes de l'Espagne",
+      "en": "The 17 Autonomous Communities of Spain",
+      "es": "Las 17 comunidades autónomas de España",
+      "it": "Le 17 comunità autonome della Spagna",
+      "jp": "スペインの17の自治州"
+    },
+    "Text": {
+      "fr": "Les 17 communautés autonomes et les 2 villes autonomes de l'Espagne",
+      "en": "The 17 autonomous communities and 2 autonomous cities of Spain",
+      "es": "Las 17 comunidades autónomas y las 2 ciudades autónomas de España",
+      "it": "Le 17 comunità autonome e le 2 città autonome della Spagna",
+      "jp": "スペインの17の自治州と2つの自治市"
+    },
+    "lang": ["fr","en","es","it","jp"],
     "pictureURL": "None",
     "setInfo": "EU-ESP",
     "option": {

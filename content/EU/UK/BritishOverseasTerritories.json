@@ -41,9 +41,15 @@
     }
   ],
   "cardInfo": {
-    "Title": "Les Territoires britanniques d'outre-mer",
-    "Text": "Les territoires britanniques d'outre-mer (à l'exception des revendications en Antarctique)",
-    "lang": "FR",
+    "Title": {
+      "fr": "Les territoires britanniques d'outre-mer",
+      "en": "The British Overseas Territories"
+    },
+    "Text": {
+      "fr": "Les territoires britanniques d'outre-mer (à l'exception des revendications en Antarctique)",
+      "en": "The British Overseas Territories (excluding Antarctic claims)"
+    },
+    "lang": ["fr","en"],
     "pictureURL": "None",
     "setInfo": "EU-UK",
     "group":["g.uk"],
