@@ -197,7 +197,10 @@
         {
             "NAME": {
                 "fr": "Canada",
-                "en": "Canada"
+                "en": "Canada",
+                "es": "Canadá",
+                "it": "Canada",
+                "jp": "カナダ"
             },
             "lang":["fr","en","es","it","jp"],
             "flag": "AM-CAN",
