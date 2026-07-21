@@ -76,7 +76,7 @@
     "lang": ["fr","en","es","it","jp"],
     "pictureURL": "None",
     "setInfo": "EU-ESP",
-    "group":"g.esp",
+    "group":["g.esp"],
     "option": {
       "tryMax": 1,
       "EliminateSelected": true
