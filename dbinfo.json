@@ -21,12 +21,13 @@
         7,
         21
     ],
-    "PROVIDER": "METROP_LEARNING_ORGANISATION",
+    "PROVIDER": "Metrop Learning Org",
     "TYPE": "MODERN_DAY",
     "CONTENT_ADVISORY": {
         "CONTESTED_TERRITORY": true
     },
-    "LICENSE": "https://metrop-learning.github.io/metrop.quiz.database/LICENSE",
+    "LICENSE":"Copyright (c) 2026 Metrop. All Rights Reserved.",
+    "LICENSE_LINK": "https://metrop-learning.github.io/metrop.quiz.database/LICENSE",
     "QUIZ_LIST": [
         "Megacity.json",
         "MegacityEasy.json",
