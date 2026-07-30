@@ -1,37 +1,38 @@
 {
-  "list": [
-    {
-      "id": "AS-UZB"
+    "list": [
+        {
+            "id": "AS-UZB"
+        },
+        {
+            "id": "AS-KAZ"
+        },
+        {
+            "id": "AS-KGZ"
+        },
+        {
+            "id": "AS-TJK"
+        },
+        {
+            "id": "AS-TKM"
+        }
+    ],
+    "cardInfo": {
+        "Title": "Les pays de l'Asie Centrale",
+        "Text": "Les 5 pays de l'Asie Centrale",
+        "lang": "FR",
+        "setInfo": "AS",
+        "pictureURL": "None",
+        "option": {
+            "tryMax": 1,
+            "EliminateSelected": true
+        },
+        "card_key_id": "OwTnaA"
     },
-    {
-      "id": "AS-KAZ"
-    },
-    {
-      "id": "AS-KGZ"
-    },
-    {
-      "id": "AS-TJK"
-    },
-    {
-      "id": "AS-TKM"
-    }
-  ],
-  "cardInfo": {
-    "Title": "Les pays de l'Asie Centrale",
-    "Text": "Les 5 pays de l'Asie Centrale",
-    "lang": "FR",
-    "setInfo": "AS",
-    "pictureURL": "None",
-    "option": {
-      "tryMax": 1,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "fromFlag",
-    "fromName",
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "fromFlag",
+        "fromName",
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

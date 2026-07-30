@@ -1,37 +1,38 @@
 {
-  "list": [
-    {
-      "id": "AF-ZAF"
+    "list": [
+        {
+            "id": "AF-ZAF"
+        },
+        {
+            "id": "AF-NAM"
+        },
+        {
+            "id": "AF-BWA"
+        },
+        {
+            "id": "AF-LSO"
+        },
+        {
+            "id": "AF-SWZ"
+        }
+    ],
+    "cardInfo": {
+        "Title": "Les Pays d'Afrique Australe",
+        "Text": "Les 5 Pays d’Afrique Australe.",
+        "lang": "FR",
+        "setInfo": "AF",
+        "pictureURL": "None",
+        "option": {
+            "tryMax": 1,
+            "EliminateSelected": true
+        },
+        "card_key_id": "KG5i8Q"
     },
-    {
-      "id": "AF-NAM"
-    },
-    {
-      "id": "AF-BWA"
-    },
-    {
-      "id": "AF-LSO"
-    },
-    {
-      "id": "AF-SWZ"
-    }
-  ],
-  "cardInfo": {
-    "Title": "Les Pays d'Afrique Australe",
-    "Text": "Les 5 Pays d’Afrique Australe.",
-    "lang": "FR",
-    "setInfo": "AF",
-    "pictureURL": "None",
-    "option": {
-      "tryMax": 1,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "fromFlag",
-    "fromName",
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "fromFlag",
+        "fromName",
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

@@ -1,40 +1,41 @@
 {
-  "list": [
-    {
-      "id": "AS-JAP"
+    "list": [
+        {
+            "id": "AS-JAP"
+        },
+        {
+            "id": "AS-CHN"
+        },
+        {
+            "id": "AS-PRK"
+        },
+        {
+            "id": "AS-KOR"
+        },
+        {
+            "id": "AS-MNG"
+        },
+        {
+            "id": "AS-NWR:TWN"
+        }
+    ],
+    "cardInfo": {
+        "Title": "Les pays de l'Asie de l'Est",
+        "Text": "Les 6 pays de l'Asie de l'Est",
+        "lang": "FR",
+        "setInfo": "AS",
+        "pictureURL": "None",
+        "option": {
+            "tryMax": 1,
+            "EliminateSelected": true
+        },
+        "card_key_id": "DJNffw"
     },
-    {
-      "id": "AS-CHN"
-    },
-    {
-      "id": "AS-PRK"
-    },
-    {
-      "id": "AS-KOR"
-    },
-    {
-      "id": "AS-MNG"
-    },
-    {
-      "id": "AS-NWR:TWN"
-    }
-  ],
-  "cardInfo": {
-    "Title": "Les pays de l'Asie de l'Est",
-    "Text": "Les 6 pays de l'Asie de l'Est",
-    "lang": "FR",
-    "setInfo": "AS",
-    "pictureURL": "None",
-    "option": {
-      "tryMax": 1,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "fromFlag",
-    "fromName",
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "fromFlag",
+        "fromName",
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

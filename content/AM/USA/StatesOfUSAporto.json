@@ -1,186 +1,195 @@
 {
-  "list": [
-    {
-      "id": "AM-USA-AL"
+    "list": [
+        {
+            "id": "AM-USA-AL"
+        },
+        {
+            "id": "AM-USA-AK"
+        },
+        {
+            "id": "AM-USA-AZ"
+        },
+        {
+            "id": "AM-USA-AR"
+        },
+        {
+            "id": "AM-USA-CA"
+        },
+        {
+            "id": "AM-USA-NC"
+        },
+        {
+            "id": "AM-USA-SC"
+        },
+        {
+            "id": "AM-USA-CO"
+        },
+        {
+            "id": "AM-USA-CT"
+        },
+        {
+            "id": "AM-USA-ND"
+        },
+        {
+            "id": "AM-USA-SD"
+        },
+        {
+            "id": "AM-USA-DE"
+        },
+        {
+            "id": "AM-USA-FL"
+        },
+        {
+            "id": "AM-USA-GA"
+        },
+        {
+            "id": "AM-USA-HI"
+        },
+        {
+            "id": "AM-USA-ID"
+        },
+        {
+            "id": "AM-USA-IL"
+        },
+        {
+            "id": "AM-USA-IN"
+        },
+        {
+            "id": "AM-USA-IA"
+        },
+        {
+            "id": "AM-USA-KS"
+        },
+        {
+            "id": "AM-USA-KY"
+        },
+        {
+            "id": "AM-USA-LA"
+        },
+        {
+            "id": "AM-USA-ME"
+        },
+        {
+            "id": "AM-USA-MD"
+        },
+        {
+            "id": "AM-USA-MA"
+        },
+        {
+            "id": "AM-USA-MI"
+        },
+        {
+            "id": "AM-USA-MN"
+        },
+        {
+            "id": "AM-USA-MS"
+        },
+        {
+            "id": "AM-USA-MO"
+        },
+        {
+            "id": "AM-USA-MT"
+        },
+        {
+            "id": "AM-USA-NE"
+        },
+        {
+            "id": "AM-USA-NV"
+        },
+        {
+            "id": "AM-USA-NH"
+        },
+        {
+            "id": "AM-USA-NJ"
+        },
+        {
+            "id": "AM-USA-NY"
+        },
+        {
+            "id": "AM-USA-NM"
+        },
+        {
+            "id": "AM-USA-OH"
+        },
+        {
+            "id": "AM-USA-OK"
+        },
+        {
+            "id": "AM-USA-OR"
+        },
+        {
+            "id": "AM-USA-PA"
+        },
+        {
+            "id": "AM-USA-RI"
+        },
+        {
+            "id": "AM-USA-TN"
+        },
+        {
+            "id": "AM-USA-TX"
+        },
+        {
+            "id": "AM-USA-UT"
+        },
+        {
+            "id": "AM-USA-VT"
+        },
+        {
+            "id": "AM-USA-VA"
+        },
+        {
+            "id": "AM-USA-WV"
+        },
+        {
+            "id": "AM-USA-WA"
+        },
+        {
+            "id": "AM-USA-WI"
+        },
+        {
+            "id": "AM-USA-WY"
+        },
+        {
+            "id": "AM-USA-PRI"
+        }
+    ],
+    "cardInfo": {
+        "Title": {
+            "fr": "Les 50 États des États-Unis d'Amérique et Porto Rico",
+            "en": "The 50 States of the United States of America and Puerto Rico",
+            "es": "Los 50 estados de los Estados Unidos de América y Puerto Rico",
+            "it": "I 50 stati degli Stati Uniti d'America e Porto Rico",
+            "jp": "アメリカ合衆国の50州とプエルトリコ"
+        },
+        "Text": {
+            "fr": "Les 50 États des États-Unis d'Amérique et Porto Rico",
+            "en": "The 50 states of the United States of America and Puerto Rico",
+            "es": "Los 50 estados de los Estados Unidos de América y Puerto Rico",
+            "it": "I 50 stati degli Stati Uniti d'America e Porto Rico",
+            "jp": "アメリカ合衆国の50州とプエルトリコ"
+        },
+        "lang": [
+            "fr",
+            "en",
+            "es",
+            "it",
+            "jp"
+        ],
+        "pictureURL": "None",
+        "setInfo": "AM-USA",
+        "group": [
+            "g.usa"
+        ],
+        "option": {
+            "tryMax": 2,
+            "EliminateSelected": true
+        },
+        "card_key_id": "BTw8Dw"
     },
-    {
-      "id": "AM-USA-AK"
-    },
-    {
-      "id": "AM-USA-AZ"
-    },
-    {
-      "id": "AM-USA-AR"
-    },
-    {
-      "id": "AM-USA-CA"
-    },
-    {
-      "id": "AM-USA-NC"
-    },
-    {
-      "id": "AM-USA-SC"
-    },
-    {
-      "id": "AM-USA-CO"
-    },
-    {
-      "id": "AM-USA-CT"
-    },
-    {
-      "id": "AM-USA-ND"
-    },
-    {
-      "id": "AM-USA-SD"
-    },
-    {
-      "id": "AM-USA-DE"
-    },
-    {
-      "id": "AM-USA-FL"
-    },
-    {
-      "id": "AM-USA-GA"
-    },
-    {
-      "id": "AM-USA-HI"
-    },
-    {
-      "id": "AM-USA-ID"
-    },
-    {
-      "id": "AM-USA-IL"
-    },
-    {
-      "id": "AM-USA-IN"
-    },
-    {
-      "id": "AM-USA-IA"
-    },
-    {
-      "id": "AM-USA-KS"
-    },
-    {
-      "id": "AM-USA-KY"
-    },
-    {
-      "id": "AM-USA-LA"
-    },
-    {
-      "id": "AM-USA-ME"
-    },
-    {
-      "id": "AM-USA-MD"
-    },
-    {
-      "id": "AM-USA-MA"
-    },
-    {
-      "id": "AM-USA-MI"
-    },
-    {
-      "id": "AM-USA-MN"
-    },
-    {
-      "id": "AM-USA-MS"
-    },
-    {
-      "id": "AM-USA-MO"
-    },
-    {
-      "id": "AM-USA-MT"
-    },
-    {
-      "id": "AM-USA-NE"
-    },
-    {
-      "id": "AM-USA-NV"
-    },
-    {
-      "id": "AM-USA-NH"
-    },
-    {
-      "id": "AM-USA-NJ"
-    },
-    {
-      "id": "AM-USA-NY"
-    },
-    {
-      "id": "AM-USA-NM"
-    },
-    {
-      "id": "AM-USA-OH"
-    },
-    {
-      "id": "AM-USA-OK"
-    },
-    {
-      "id": "AM-USA-OR"
-    },
-    {
-      "id": "AM-USA-PA"
-    },
-    {
-      "id": "AM-USA-RI"
-    },
-    {
-      "id": "AM-USA-TN"
-    },
-    {
-      "id": "AM-USA-TX"
-    },
-    {
-      "id": "AM-USA-UT"
-    },
-    {
-      "id": "AM-USA-VT"
-    },
-    {
-      "id": "AM-USA-VA"
-    },
-    {
-      "id": "AM-USA-WV"
-    },
-    {
-      "id": "AM-USA-WA"
-    },
-    {
-      "id": "AM-USA-WI"
-    },
-    {
-      "id": "AM-USA-WY"
-    },
-    {
-      "id": "AM-USA-PRI"
-    }
-  ],
-  "cardInfo": {
-    "Title": {
-      "fr": "Les 50 États des États-Unis d'Amérique et Porto Rico",
-      "en": "The 50 States of the United States of America and Puerto Rico",
-      "es": "Los 50 estados de los Estados Unidos de América y Puerto Rico",
-      "it": "I 50 stati degli Stati Uniti d'America e Porto Rico",
-      "jp": "アメリカ合衆国の50州とプエルトリコ"
-    },
-    "Text": {
-      "fr": "Les 50 États des États-Unis d'Amérique et Porto Rico",
-      "en": "The 50 states of the United States of America and Puerto Rico",
-      "es": "Los 50 estados de los Estados Unidos de América y Puerto Rico",
-      "it": "I 50 stati degli Stati Uniti d'America e Porto Rico",
-      "jp": "アメリカ合衆国の50州とプエルトリコ"
-    },
-    "lang": ["fr","en","es","it","jp"],
-    "pictureURL": "None",
-    "setInfo": "AM-USA",
-    "group":["g.usa"],
-    "option": {
-      "tryMax": 2,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

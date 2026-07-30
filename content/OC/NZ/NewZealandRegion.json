@@ -1,74 +1,78 @@
 {
-  "list": [
-    {
-      "id": "OC-NZ-NTL"
+    "list": [
+        {
+            "id": "OC-NZ-NTL"
+        },
+        {
+            "id": "OC-NZ-AUK"
+        },
+        {
+            "id": "OC-NZ-WKO"
+        },
+        {
+            "id": "OC-NZ-BOP"
+        },
+        {
+            "id": "OC-NZ-GIS"
+        },
+        {
+            "id": "OC-NZ-HKB"
+        },
+        {
+            "id": "OC-NZ-TKI"
+        },
+        {
+            "id": "OC-NZ-MWT"
+        },
+        {
+            "id": "OC-NZ-WGN"
+        },
+        {
+            "id": "OC-NZ-TAS"
+        },
+        {
+            "id": "OC-NZ-NSN"
+        },
+        {
+            "id": "OC-NZ-MBH"
+        },
+        {
+            "id": "OC-NZ-WTC"
+        },
+        {
+            "id": "OC-NZ-CAN"
+        },
+        {
+            "id": "OC-NZ-OTA"
+        },
+        {
+            "id": "OC-NZ-STL"
+        }
+    ],
+    "cardInfo": {
+        "Title": {
+            "fr": "Les régions de la Nouvelle-Zélande",
+            "en": "The Regions of New Zealand"
+        },
+        "Text": {
+            "fr": "Les 16 régions de la Nouvelle-Zélande",
+            "en": "The 16 regions of New Zealand"
+        },
+        "lang": [
+            "fr",
+            "en"
+        ],
+        "pictureURL": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lake_Ohau_Lodge_lupin_field%2C_NZ.jpg",
+        "setInfo": "OC-NZ",
+        "option": {
+            "tryMax": 1,
+            "EliminateSelected": true
+        },
+        "card_key_id": "GVYvEQ"
     },
-    {
-      "id": "OC-NZ-AUK"
-    },
-    {
-      "id": "OC-NZ-WKO"
-    },
-    {
-      "id": "OC-NZ-BOP"
-    },
-    {
-      "id": "OC-NZ-GIS"
-    },
-    {
-      "id": "OC-NZ-HKB"
-    },
-    {
-      "id": "OC-NZ-TKI"
-    },
-    {
-      "id": "OC-NZ-MWT"
-    },
-    {
-      "id": "OC-NZ-WGN"
-    },
-    {
-      "id": "OC-NZ-TAS"
-    },
-    {
-      "id": "OC-NZ-NSN"
-    },
-    {
-      "id": "OC-NZ-MBH"
-    },
-    {
-      "id": "OC-NZ-WTC"
-    },
-    {
-      "id": "OC-NZ-CAN"
-    },
-    {
-      "id": "OC-NZ-OTA"
-    },
-    {
-      "id": "OC-NZ-STL"
-    }
-  ],
-  "cardInfo": {
-    "Title": {
-      "fr": "Les régions de la Nouvelle-Zélande",
-      "en": "The Regions of New Zealand"
-    },
-    "Text": {
-      "fr": "Les 16 régions de la Nouvelle-Zélande",
-      "en": "The 16 regions of New Zealand"
-    },
-    "lang": ["fr","en"],
-    "pictureURL": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lake_Ohau_Lodge_lupin_field%2C_NZ.jpg",
-    "setInfo": "OC-NZ",
-    "option": {
-      "tryMax": 1,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

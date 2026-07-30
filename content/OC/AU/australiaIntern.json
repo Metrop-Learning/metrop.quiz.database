@@ -1,54 +1,60 @@
 {
-  "list": [
-    {
-      "id": "OC-AU-SA"
+    "list": [
+        {
+            "id": "OC-AU-SA"
+        },
+        {
+            "id": "OC-AU-WA"
+        },
+        {
+            "id": "OC-AU-NGS"
+        },
+        {
+            "id": "OC-AU-QLD"
+        },
+        {
+            "id": "OC-AU-TAS"
+        },
+        {
+            "id": "OC-AU-VIC"
+        },
+        {
+            "id": "OC-AU-ACT"
+        },
+        {
+            "id": "OC-AU-NT"
+        },
+        {
+            "id": "OC-AU-JBT"
+        }
+    ],
+    "cardInfo": {
+        "Title": {
+            "fr": "Les États et territoires intérieurs de l'Australie",
+            "en": "The States and Internal Territories of Australia"
+        },
+        "Text": {
+            "fr": "Les 6 États et les 3 territoires intérieurs de l'Australie",
+            "en": "The 6 states and 3 internal territories of Australia"
+        },
+        "lang": [
+            "fr",
+            "en"
+        ],
+        "pictureURL": "None",
+        "setInfo": "OC-AU",
+        "group": [
+            "g.aus"
+        ],
+        "option": {
+            "tryMax": 2,
+            "EliminateSelected": true
+        },
+        "card_key_id": "IC3p6w"
     },
-    {
-      "id": "OC-AU-WA"
-    },
-    {
-      "id": "OC-AU-NGS"
-    },
-    {
-      "id": "OC-AU-QLD"
-    },
-    {
-      "id": "OC-AU-TAS"
-    },
-    {
-      "id": "OC-AU-VIC"
-    },
-    {
-      "id": "OC-AU-ACT"
-    },
-    {
-      "id": "OC-AU-NT"
-    },
-    {
-      "id": "OC-AU-JBT"
-    }
-  ],
-  "cardInfo": {
-    "Title": {
-      "fr": "Les États et territoires intérieurs de l'Australie",
-      "en": "The States and Internal Territories of Australia"
-    },
-    "Text": {
-      "fr": "Les 6 États et les 3 territoires intérieurs de l'Australie",
-      "en": "The 6 states and 3 internal territories of Australia"
-    },
-    "lang": ["fr","en"],
-    "pictureURL": "None",
-    "setInfo": "OC-AU",
-    "group":["g.aus"],
-    "option": {
-      "tryMax": 2,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

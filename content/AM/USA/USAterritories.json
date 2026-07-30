@@ -1,243 +1,252 @@
 {
-  "list": [
-    {
-      "id": "AM-USA-AL"
+    "list": [
+        {
+            "id": "AM-USA-AL"
+        },
+        {
+            "id": "AM-USA-AK"
+        },
+        {
+            "id": "AM-USA-AZ"
+        },
+        {
+            "id": "AM-USA-AR"
+        },
+        {
+            "id": "AM-USA-CA"
+        },
+        {
+            "id": "AM-USA-NC"
+        },
+        {
+            "id": "AM-USA-SC"
+        },
+        {
+            "id": "AM-USA-CO"
+        },
+        {
+            "id": "AM-USA-CT"
+        },
+        {
+            "id": "AM-USA-ND"
+        },
+        {
+            "id": "AM-USA-SD"
+        },
+        {
+            "id": "AM-USA-DE"
+        },
+        {
+            "id": "AM-USA-FL"
+        },
+        {
+            "id": "AM-USA-GA"
+        },
+        {
+            "id": "AM-USA-HI"
+        },
+        {
+            "id": "AM-USA-ID"
+        },
+        {
+            "id": "AM-USA-IL"
+        },
+        {
+            "id": "AM-USA-IN"
+        },
+        {
+            "id": "AM-USA-IA"
+        },
+        {
+            "id": "AM-USA-KS"
+        },
+        {
+            "name": {
+                "fr": "Commonwealth du Kentucky",
+                "en": "Commonwealth of Kentucky",
+                "es": "Mancomunidad de Kentucky",
+                "it": "Commonwealth del Kentucky",
+                "jp": "ケンタッキー州"
+            },
+            "id": "AM-USA-KY"
+        },
+        {
+            "id": "AM-USA-LA"
+        },
+        {
+            "id": "AM-USA-ME"
+        },
+        {
+            "id": "AM-USA-MD"
+        },
+        {
+            "name": {
+                "fr": "Commonwealth du Massachusetts",
+                "en": "Commonwealth of Massachusetts",
+                "es": "Mancomunidad de Massachusetts",
+                "it": "Commonwealth del Massachusetts",
+                "jp": "マサチューセッツ州"
+            },
+            "id": "AM-USA-MA"
+        },
+        {
+            "id": "AM-USA-MI"
+        },
+        {
+            "id": "AM-USA-MN"
+        },
+        {
+            "id": "AM-USA-MS"
+        },
+        {
+            "id": "AM-USA-MO"
+        },
+        {
+            "id": "AM-USA-MT"
+        },
+        {
+            "id": "AM-USA-NE"
+        },
+        {
+            "id": "AM-USA-NV"
+        },
+        {
+            "id": "AM-USA-NH"
+        },
+        {
+            "id": "AM-USA-NJ"
+        },
+        {
+            "id": "AM-USA-NY"
+        },
+        {
+            "id": "AM-USA-NM"
+        },
+        {
+            "id": "AM-USA-OH"
+        },
+        {
+            "id": "AM-USA-OK"
+        },
+        {
+            "id": "AM-USA-OR"
+        },
+        {
+            "name": {
+                "fr": "Commonwealth de Pennsylvanie",
+                "en": "Commonwealth of Pennsylvania",
+                "es": "Mancomunidad de Pensilvania",
+                "it": "Commonwealth della Pennsylvania",
+                "jp": "ペンシルベニア州"
+            },
+            "id": "AM-USA-PA"
+        },
+        {
+            "id": "AM-USA-RI"
+        },
+        {
+            "id": "AM-USA-TN"
+        },
+        {
+            "id": "AM-USA-TX"
+        },
+        {
+            "id": "AM-USA-UT"
+        },
+        {
+            "id": "AM-USA-VT"
+        },
+        {
+            "name": {
+                "fr": "Commonwealth de Virginie",
+                "en": "Commonwealth of Virginia",
+                "es": "Mancomunidad de Virginia",
+                "it": "Commonwealth della Virginia",
+                "jp": "バージニア州"
+            },
+            "id": "AM-USA-VA"
+        },
+        {
+            "id": "AM-USA-WV"
+        },
+        {
+            "id": "AM-USA-WA"
+        },
+        {
+            "id": "AM-USA-WI"
+        },
+        {
+            "id": "AM-USA-WY"
+        },
+        {
+            "name": {
+                "fr": "Commonwealth de Porto Rico",
+                "en": "Commonwealth of Puerto Rico",
+                "es": "Mancomunidad de Puerto Rico",
+                "it": "Commonwealth di Porto Rico",
+                "jp": "プエルトリコ"
+            },
+            "id": "AM-USA-PRI"
+        },
+        {
+            "name": {
+                "fr": "Commonwealth des Îles Mariannes du Nord",
+                "en": "Commonwealth of the Northern Mariana Islands",
+                "es": "Mancomunidad de las Islas Marianas del Norte",
+                "it": "Commonwealth delle Isole Marianne Settentrionali",
+                "jp": "北マリアナ諸島"
+            },
+            "id": "AM-USA-NMI"
+        },
+        {
+            "id": "AM-USA-DC"
+        },
+        {
+            "id": "AM-USA-UVI"
+        },
+        {
+            "id": "AM-USA-GUM"
+        },
+        {
+            "id": "AM-USA-ASM"
+        }
+    ],
+    "cardInfo": {
+        "Title": {
+            "fr": "Les territoires des États-Unis d'Amérique",
+            "en": "The Territories of the United States of America",
+            "es": "Los territorios de los Estados Unidos de América",
+            "it": "I territori degli Stati Uniti d'America",
+            "jp": "アメリカ合衆国の領土"
+        },
+        "Text": {
+            "fr": "Les 50 États des États-Unis d'Amérique, les commonwealths américains, le District de Columbia et les autres territoires non incorporés des États-Unis.",
+            "en": "The 50 states of the United States of America, the U.S. commonwealths, the District of Columbia, and other unincorporated U.S. territories.",
+            "es": "Los 50 estados de los Estados Unidos de América, las mancomunidades estadounidenses, el Distrito de Columbia y otros territorios no incorporados de los Estados Unidos.",
+            "it": "I 50 stati degli Stati Uniti d'America, i commonwealth statunitensi, il Distretto di Columbia e gli altri territori non incorporati degli Stati Uniti.",
+            "jp": "アメリカ合衆国の50州、米領コモンウェルス、コロンビア特別区、およびその他の未組み込み領域。"
+        },
+        "lang": [
+            "fr",
+            "en",
+            "es",
+            "it",
+            "jp"
+        ],
+        "pictureURL": "None",
+        "setInfo": "AM-USA",
+        "group": [
+            "g.usa"
+        ],
+        "option": {
+            "tryMax": 2,
+            "EliminateSelected": true
+        },
+        "card_key_id": "FKExZQ"
     },
-    {
-      "id": "AM-USA-AK"
-    },
-    {
-      "id": "AM-USA-AZ"
-    },
-    {
-      "id": "AM-USA-AR"
-    },
-    {
-      "id": "AM-USA-CA"
-    },
-    {
-      "id": "AM-USA-NC"
-    },
-    {
-      "id": "AM-USA-SC"
-    },
-    {
-      "id": "AM-USA-CO"
-    },
-    {
-      "id": "AM-USA-CT"
-    },
-    {
-      "id": "AM-USA-ND"
-    },
-    {
-      "id": "AM-USA-SD"
-    },
-    {
-      "id": "AM-USA-DE"
-    },
-    {
-      "id": "AM-USA-FL"
-    },
-    {
-      "id": "AM-USA-GA"
-    },
-    {
-      "id": "AM-USA-HI"
-    },
-    {
-      "id": "AM-USA-ID"
-    },
-    {
-      "id": "AM-USA-IL"
-    },
-    {
-      "id": "AM-USA-IN"
-    },
-    {
-      "id": "AM-USA-IA"
-    },
-    {
-      "id": "AM-USA-KS"
-    },
-    {
-      "name": {
-          "fr": "Commonwealth du Kentucky",
-          "en": "Commonwealth of Kentucky",
-          "es": "Mancomunidad de Kentucky",
-          "it": "Commonwealth del Kentucky",
-          "jp": "ケンタッキー州"
-      },
-      "id": "AM-USA-KY"
-    },
-    {
-      "id": "AM-USA-LA"
-    },
-    {
-      "id": "AM-USA-ME"
-    },
-    {
-      "id": "AM-USA-MD"
-    },
-    {
-      "name": {
-          "fr": "Commonwealth du Massachusetts",
-          "en": "Commonwealth of Massachusetts",
-          "es": "Mancomunidad de Massachusetts",
-          "it": "Commonwealth del Massachusetts",
-          "jp": "マサチューセッツ州"
-      },
-      "id": "AM-USA-MA"
-    },
-    {
-      "id": "AM-USA-MI"
-    },
-    {
-      "id": "AM-USA-MN"
-    },
-    {
-      "id": "AM-USA-MS"
-    },
-    {
-      "id": "AM-USA-MO"
-    },
-    {
-      "id": "AM-USA-MT"
-    },
-    {
-      "id": "AM-USA-NE"
-    },
-    {
-      "id": "AM-USA-NV"
-    },
-    {
-      "id": "AM-USA-NH"
-    },
-    {
-      "id": "AM-USA-NJ"
-    },
-    {
-      "id": "AM-USA-NY"
-    },
-    {
-      "id": "AM-USA-NM"
-    },
-    {
-      "id": "AM-USA-OH"
-    },
-    {
-      "id": "AM-USA-OK"
-    },
-    {
-      "id": "AM-USA-OR"
-    },
-    {
-      "name": {
-          "fr": "Commonwealth de Pennsylvanie",
-          "en": "Commonwealth of Pennsylvania",
-          "es": "Mancomunidad de Pensilvania",
-          "it": "Commonwealth della Pennsylvania",
-          "jp": "ペンシルベニア州"
-      },
-      "id": "AM-USA-PA"
-    },
-    {
-      "id": "AM-USA-RI"
-    },
-    {
-      "id": "AM-USA-TN"
-    },
-    {
-      "id": "AM-USA-TX"
-    },
-    {
-      "id": "AM-USA-UT"
-    },
-    {
-      "id": "AM-USA-VT"
-    },
-    {
-      "name": {
-          "fr": "Commonwealth de Virginie",
-          "en": "Commonwealth of Virginia",
-          "es": "Mancomunidad de Virginia",
-          "it": "Commonwealth della Virginia",
-          "jp": "バージニア州"
-      },
-      "id": "AM-USA-VA"
-    },
-    {
-      "id": "AM-USA-WV"
-    },
-    {
-      "id": "AM-USA-WA"
-    },
-    {
-      "id": "AM-USA-WI"
-    },
-    {
-      "id": "AM-USA-WY"
-    },
-    {
-      "name": {
-          "fr": "Commonwealth de Porto Rico",
-          "en": "Commonwealth of Puerto Rico",
-          "es": "Mancomunidad de Puerto Rico",
-          "it": "Commonwealth di Porto Rico",
-          "jp": "プエルトリコ"
-      },
-      "id": "AM-USA-PRI"
-    },
-    {
-      "name": {
-          "fr": "Commonwealth des Îles Mariannes du Nord",
-          "en": "Commonwealth of the Northern Mariana Islands",
-          "es": "Mancomunidad de las Islas Marianas del Norte",
-          "it": "Commonwealth delle Isole Marianne Settentrionali",
-          "jp": "北マリアナ諸島"
-      },
-      "id": "AM-USA-NMI"
-    },
-    {
-      "id": "AM-USA-DC"
-    },
-    {
-      "id": "AM-USA-UVI"
-    },
-    {
-      "id": "AM-USA-GUM"
-    },
-    {
-      "id": "AM-USA-ASM"
-    }
-  ],
-  "cardInfo": {
-    "Title": {
-      "fr": "Les territoires des États-Unis d'Amérique",
-      "en": "The Territories of the United States of America",
-      "es": "Los territorios de los Estados Unidos de América",
-      "it": "I territori degli Stati Uniti d'America",
-      "jp": "アメリカ合衆国の領土"
-    },
-    "Text": {
-      "fr": "Les 50 États des États-Unis d'Amérique, les commonwealths américains, le District de Columbia et les autres territoires non incorporés des États-Unis.",
-      "en": "The 50 states of the United States of America, the U.S. commonwealths, the District of Columbia, and other unincorporated U.S. territories.",
-      "es": "Los 50 estados de los Estados Unidos de América, las mancomunidades estadounidenses, el Distrito de Columbia y otros territorios no incorporados de los Estados Unidos.",
-      "it": "I 50 stati degli Stati Uniti d'America, i commonwealth statunitensi, il Distretto di Columbia e gli altri territori non incorporati degli Stati Uniti.",
-      "jp": "アメリカ合衆国の50州、米領コモンウェルス、コロンビア特別区、およびその他の未組み込み領域。"
-    },
-    "lang": ["fr","en","es","it","jp"],
-    "pictureURL": "None",
-    "setInfo": "AM-USA",
-    "group":["g.usa"],
-    "option": {
-      "tryMax": 2,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

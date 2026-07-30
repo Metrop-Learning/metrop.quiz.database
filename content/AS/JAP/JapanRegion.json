@@ -1,57 +1,66 @@
 {
-  "list": [
-    {
-      "id": "AS-JAP-R1"
+    "list": [
+        {
+            "id": "AS-JAP-R1"
+        },
+        {
+            "id": "AS-JAP-R2"
+        },
+        {
+            "id": "AS-JAP-R3"
+        },
+        {
+            "id": "AS-JAP-R4"
+        },
+        {
+            "id": "AS-JAP-R5"
+        },
+        {
+            "id": "AS-JAP-R6"
+        },
+        {
+            "id": "AS-JAP-R7"
+        },
+        {
+            "id": "AS-JAP-R8"
+        }
+    ],
+    "cardInfo": {
+        "Title": {
+            "fr": "Les régions japonaises",
+            "en": "The Japanese Regions",
+            "es": "Las regiones japonesas",
+            "it": "Le regioni giapponesi",
+            "jp": "日本の地方"
+        },
+        "Text": {
+            "fr": "Les 8 régions du Japon ne sont pas des subdivisions administrative du Japon, mais une division historique du territoire.",
+            "en": "The 8 regions of Japan are not administrative subdivisions of Japan, but a historical division of the territory.",
+            "es": "Las 8 regiones de Japón no son subdivisiones administrativas de Japón, sino una división histórica del territorio.",
+            "it": "Le 8 regioni del Giappone non sono suddivisioni amministrative del Giappone, ma una divisione storica del territorio.",
+            "jp": "日本の8つの地方は行政区画ではなく、歴史的な地域区分です。"
+        },
+        "lang": [
+            "fr",
+            "en",
+            "es",
+            "it",
+            "jp"
+        ],
+        "pictureURL": "None",
+        "setInfo": "AS-JAP",
+        "group": [
+            "g.jap"
+        ],
+        "option": {
+            "tryMax": 1,
+            "EliminateSelected": true
+        },
+        "card_key_id": "GzuAew"
     },
-    {
-      "id": "AS-JAP-R2"
-    },
-    {
-      "id": "AS-JAP-R3"
-    },
-    {
-      "id": "AS-JAP-R4"
-    },
-    {
-      "id": "AS-JAP-R5"
-    },
-    {
-      "id": "AS-JAP-R6"
-    },
-    {
-      "id": "AS-JAP-R7"
-    },
-    {
-      "id": "AS-JAP-R8"
-    }
-  ],
-  "cardInfo": {
-    "Title": {
-      "fr": "Les régions japonaises",
-      "en": "The Japanese Regions",
-      "es": "Las regiones japonesas",
-      "it": "Le regioni giapponesi",
-      "jp": "日本の地方"
-    },
-    "Text": {
-      "fr": "Les 8 régions du Japon ne sont pas des subdivisions administrative du Japon, mais une division historique du territoire.",
-      "en": "The 8 regions of Japan are not administrative subdivisions of Japan, but a historical division of the territory.",
-      "es": "Las 8 regiones de Japón no son subdivisiones administrativas de Japón, sino una división histórica del territorio.",
-      "it": "Le 8 regioni del Giappone non sono suddivisioni amministrative del Giappone, ma una divisione storica del territorio.",
-      "jp": "日本の8つの地方は行政区画ではなく、歴史的な地域区分です。"
-    },
-    "lang": ["fr","en","es","it","jp"],
-    "pictureURL": "None",
-    "setInfo": "AS-JAP",
-    "group":["g.jap"],
-    "option": {
-      "tryMax": 1,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

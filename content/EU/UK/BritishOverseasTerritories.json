@@ -1,68 +1,80 @@
 {
-  "list": [
-    {
-      "id": "EU-UK-SBA"
+    "list": [
+        {
+            "id": "EU-UK-SBA"
+        },
+        {
+            "id": "EU-UK-VGB"
+        },
+        {
+            "id": "EU-UK-MSR"
+        },
+        {
+            "id": "EU-UK-TCA"
+        },
+        {
+            "id": "EU-UK-DIS:GIB"
+        },
+        {
+            "id": "EU-UK-SHN"
+        },
+        {
+            "id": "EU-UK-DIS:SGS"
+        },
+        {
+            "id": "EU-UK-BMU"
+        },
+        {
+            "id": "EU-UK-DIS:IOT"
+        },
+        {
+            "id": "EU-UK-AIA"
+        },
+        {
+            "id": "EU-UK-CYM"
+        },
+        {
+            "id": "EU-UK-DIS:FLK"
+        },
+        {
+            "id": "EU-UK-PCN"
+        }
+    ],
+    "cardInfo": {
+        "Title": {
+            "fr": "Les territoires britanniques d'outre-mer",
+            "en": "The British Overseas Territories"
+        },
+        "Text": {
+            "fr": "Les territoires britanniques d'outre-mer (à l'exception des revendications en Antarctique)",
+            "en": "The British Overseas Territories (excluding Antarctic claims)"
+        },
+        "lang": [
+            "fr",
+            "en"
+        ],
+        "pictureURL": "None",
+        "setInfo": "EU-UK",
+        "group": [
+            "g.uk"
+        ],
+        "conflic_type": [
+            "ter"
+        ],
+        "involved": [
+            "EU-UK",
+            "AM-ARG",
+            "EU-ESP"
+        ],
+        "option": {
+            "tryMax": 1,
+            "EliminateSelected": true
+        },
+        "card_key_id": "HuxK3g"
     },
-    {
-      "id": "EU-UK-VGB"
-    },
-    {
-      "id": "EU-UK-MSR"
-    },
-    {
-      "id": "EU-UK-TCA"
-    },
-    {
-      "id": "EU-UK-DIS:GIB"
-    },
-    {
-      "id": "EU-UK-SHN"
-    },
-    {
-      "id": "EU-UK-DIS:SGS"
-    },
-    {
-      "id": "EU-UK-BMU"
-    },
-    {
-      "id": "EU-UK-DIS:IOT"
-    },
-    {
-      "id": "EU-UK-AIA"
-    },
-    {
-      "id": "EU-UK-CYM"
-    },
-    {
-      "id": "EU-UK-DIS:FLK"
-    },
-    {
-      "id": "EU-UK-PCN"
-    }
-  ],
-  "cardInfo": {
-    "Title": {
-      "fr": "Les territoires britanniques d'outre-mer",
-      "en": "The British Overseas Territories"
-    },
-    "Text": {
-      "fr": "Les territoires britanniques d'outre-mer (à l'exception des revendications en Antarctique)",
-      "en": "The British Overseas Territories (excluding Antarctic claims)"
-    },
-    "lang": ["fr","en"],
-    "pictureURL": "None",
-    "setInfo": "EU-UK",
-    "group":["g.uk"],
-    "conflic_type":["ter"],
-    "involved":["EU-UK","AM-ARG","EU-ESP"],
-    "option": {
-      "tryMax": 1,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

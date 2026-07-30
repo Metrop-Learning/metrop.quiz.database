@@ -1,50 +1,51 @@
 {
-  "list": [
-    {
-      "name": {
-        "fr": "Jutland du Nord"
-      },
-      "id": "EU-DNK-NJL"
+    "list": [
+        {
+            "name": {
+                "fr": "Jutland du Nord"
+            },
+            "id": "EU-DNK-NJL"
+        },
+        {
+            "name": {
+                "fr": "Jutland central"
+            },
+            "id": "EU-DNK-MJL"
+        },
+        {
+            "name": {
+                "fr": "Danemark du Sud"
+            },
+            "id": "EU-DNK-SYM"
+        },
+        {
+            "name": {
+                "fr": "Sjælland"
+            },
+            "id": "EU-DNK-SJL"
+        },
+        {
+            "name": {
+                "fr": "Région de la Capitale"
+            },
+            "id": "EU-DNK-HSD"
+        }
+    ],
+    "cardInfo": {
+        "Title": "Les régions du Danemark avant 2027",
+        "Text": "Les 5 régions du Danemark avant le 1er Janvier 2027",
+        "lang": "FR",
+        "pictureURL": "None",
+        "setInfo": "EU-DNK",
+        "option": {
+            "tryMax": 1,
+            "EliminateSelected": true
+        },
+        "card_key_id": "ExuCmQ"
     },
-    {
-      "name": {
-        "fr": "Jutland central"
-      },
-      "id": "EU-DNK-MJL"
-    },
-    {
-      "name": {
-        "fr": "Danemark du Sud"
-      },
-      "id": "EU-DNK-SYM"
-    },
-    {
-      "name": {
-        "fr": "Sjælland"
-      },
-      "id": "EU-DNK-SJL"
-    },
-    {
-      "name": {
-        "fr": "Région de la Capitale"
-      },
-      "id": "EU-DNK-HSD"
-    }
-  ],
-  "cardInfo": {
-    "Title": "Les régions du Danemark avant 2027",
-    "Text": "Les 5 régions du Danemark avant le 1er Janvier 2027",
-    "lang": "FR",
-    "pictureURL": "None",
-    "setInfo": "EU-DNK",
-    "option": {
-      "tryMax": 1,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

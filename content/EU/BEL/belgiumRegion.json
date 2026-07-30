@@ -1,29 +1,30 @@
 {
-  "list": [
-    {
-      "id": "EU-BEL-BRU"
+    "list": [
+        {
+            "id": "EU-BEL-BRU"
+        },
+        {
+            "id": "EU-BEL-VLG"
+        },
+        {
+            "id": "EU-BEL-WAL"
+        }
+    ],
+    "cardInfo": {
+        "Title": "Les régions de Belgique",
+        "Text": "Les 3 régions de Belgique (Ne pas confondre avec les Communautés de Belgique)",
+        "lang": "FR",
+        "pictureURL": "None",
+        "setInfo": "EU-BEL",
+        "option": {
+            "tryMax": 1,
+            "EliminateSelected": true
+        },
+        "card_key_id": "M97jkA"
     },
-    {
-      "id": "EU-BEL-VLG"
-    },
-    {
-      "id": "EU-BEL-WAL"
-    }
-  ],
-  "cardInfo": {
-    "Title": "Les régions de Belgique",
-    "Text": "Les 3 régions de Belgique (Ne pas confondre avec les Communautés de Belgique)",
-    "lang": "FR",
-    "pictureURL": "None",
-    "setInfo": "EU-BEL",
-    "option": {
-      "tryMax": 1,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

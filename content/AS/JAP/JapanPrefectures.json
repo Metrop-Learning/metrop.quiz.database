@@ -1,174 +1,183 @@
 {
-  "list": [
-    {
-      "id": "AS-JAP-R1-P1"
+    "list": [
+        {
+            "id": "AS-JAP-R1-P1"
+        },
+        {
+            "id": "AS-JAP-R2-P2"
+        },
+        {
+            "id": "AS-JAP-R2-P3"
+        },
+        {
+            "id": "AS-JAP-R2-P4"
+        },
+        {
+            "id": "AS-JAP-R2-P5"
+        },
+        {
+            "id": "AS-JAP-R2-P6"
+        },
+        {
+            "id": "AS-JAP-R2-P7"
+        },
+        {
+            "id": "AS-JAP-R3-P8"
+        },
+        {
+            "id": "AS-JAP-R3-P9"
+        },
+        {
+            "id": "AS-JAP-R3-P10"
+        },
+        {
+            "id": "AS-JAP-R3-P11"
+        },
+        {
+            "id": "AS-JAP-R3-P12"
+        },
+        {
+            "id": "AS-JAP-R3-P13"
+        },
+        {
+            "id": "AS-JAP-R3-P14"
+        },
+        {
+            "id": "AS-JAP-R4-P15"
+        },
+        {
+            "id": "AS-JAP-R4-P16"
+        },
+        {
+            "id": "AS-JAP-R4-P17"
+        },
+        {
+            "id": "AS-JAP-R4-P18"
+        },
+        {
+            "id": "AS-JAP-R4-P19"
+        },
+        {
+            "id": "AS-JAP-R4-P20"
+        },
+        {
+            "id": "AS-JAP-R4-P21"
+        },
+        {
+            "id": "AS-JAP-R4-P22"
+        },
+        {
+            "id": "AS-JAP-R4-P23"
+        },
+        {
+            "id": "AS-JAP-R5-P24"
+        },
+        {
+            "id": "AS-JAP-R5-P25"
+        },
+        {
+            "id": "AS-JAP-R5-P26"
+        },
+        {
+            "id": "AS-JAP-R5-P27"
+        },
+        {
+            "id": "AS-JAP-R5-P28"
+        },
+        {
+            "id": "AS-JAP-R5-P29"
+        },
+        {
+            "id": "AS-JAP-R5-P30"
+        },
+        {
+            "id": "AS-JAP-R6-P31"
+        },
+        {
+            "id": "AS-JAP-R6-P32"
+        },
+        {
+            "id": "AS-JAP-R6-P33"
+        },
+        {
+            "id": "AS-JAP-R6-P34"
+        },
+        {
+            "id": "AS-JAP-R6-P35"
+        },
+        {
+            "id": "AS-JAP-R7-P36"
+        },
+        {
+            "id": "AS-JAP-R7-P37"
+        },
+        {
+            "id": "AS-JAP-R7-P38"
+        },
+        {
+            "id": "AS-JAP-R7-P39"
+        },
+        {
+            "id": "AS-JAP-R8-P40"
+        },
+        {
+            "id": "AS-JAP-R8-P41"
+        },
+        {
+            "id": "AS-JAP-R8-P42"
+        },
+        {
+            "id": "AS-JAP-R8-P43"
+        },
+        {
+            "id": "AS-JAP-R8-P44"
+        },
+        {
+            "id": "AS-JAP-R8-P45"
+        },
+        {
+            "id": "AS-JAP-R8-P46"
+        },
+        {
+            "id": "AS-JAP-R8-P47"
+        }
+    ],
+    "cardInfo": {
+        "Title": {
+            "fr": "Les préfectures japonaises",
+            "en": "The Japanese Prefectures",
+            "es": "Las prefecturas japonesas",
+            "it": "Le prefetture giapponesi",
+            "jp": "日本の都道府県"
+        },
+        "Text": {
+            "fr": "Les 47 préfectures du Japon",
+            "en": "The 47 prefectures of Japan",
+            "es": "Las 47 prefecturas de Japón",
+            "it": "Le 47 prefetture del Giappone",
+            "jp": "日本の47都道府県"
+        },
+        "lang": [
+            "fr",
+            "en",
+            "es",
+            "it",
+            "jp"
+        ],
+        "pictureURL": "None",
+        "setInfo": "AS-JAP",
+        "group": [
+            "g.jap"
+        ],
+        "option": {
+            "tryMax": 1,
+            "EliminateSelected": true
+        },
+        "card_key_id": "AHF8Tw"
     },
-    {
-      "id": "AS-JAP-R2-P2"
-    },
-    {
-      "id": "AS-JAP-R2-P3"
-    },
-    {
-      "id": "AS-JAP-R2-P4"
-    },
-    {
-      "id": "AS-JAP-R2-P5"
-    },
-    {
-      "id": "AS-JAP-R2-P6"
-    },
-    {
-      "id": "AS-JAP-R2-P7"
-    },
-    {
-      "id": "AS-JAP-R3-P8"
-    },
-    {
-      "id": "AS-JAP-R3-P9"
-    },
-    {
-      "id": "AS-JAP-R3-P10"
-    },
-    {
-      "id": "AS-JAP-R3-P11"
-    },
-    {
-      "id": "AS-JAP-R3-P12"
-    },
-    {
-      "id": "AS-JAP-R3-P13"
-    },
-    {
-      "id": "AS-JAP-R3-P14"
-    },
-    {
-      "id": "AS-JAP-R4-P15"
-    },
-    {
-      "id": "AS-JAP-R4-P16"
-    },
-    {
-      "id": "AS-JAP-R4-P17"
-    },
-    {
-      "id": "AS-JAP-R4-P18"
-    },
-    {
-      "id": "AS-JAP-R4-P19"
-    },
-    {
-      "id": "AS-JAP-R4-P20"
-    },
-    {
-      "id": "AS-JAP-R4-P21"
-    },
-    {
-      "id": "AS-JAP-R4-P22"
-    },
-    {
-      "id": "AS-JAP-R4-P23"
-    },
-    {
-      "id": "AS-JAP-R5-P24"
-    },
-    {
-      "id": "AS-JAP-R5-P25"
-    },
-    {
-      "id": "AS-JAP-R5-P26"
-    },
-    {
-      "id": "AS-JAP-R5-P27"
-    },
-    {
-      "id": "AS-JAP-R5-P28"
-    },
-    {
-      "id": "AS-JAP-R5-P29"
-    },
-    {
-      "id": "AS-JAP-R5-P30"
-    },
-    {
-      "id": "AS-JAP-R6-P31"
-    },
-    {
-      "id": "AS-JAP-R6-P32"
-    },
-    {
-      "id": "AS-JAP-R6-P33"
-    },
-    {
-      "id": "AS-JAP-R6-P34"
-    },
-    {
-      "id": "AS-JAP-R6-P35"
-    },
-    {
-      "id": "AS-JAP-R7-P36"
-    },
-    {
-      "id": "AS-JAP-R7-P37"
-    },
-    {
-      "id": "AS-JAP-R7-P38"
-    },
-    {
-      "id": "AS-JAP-R7-P39"
-    },
-    {
-      "id": "AS-JAP-R8-P40"
-    },
-    {
-      "id": "AS-JAP-R8-P41"
-    },
-    {
-      "id": "AS-JAP-R8-P42"
-    },
-    {
-      "id": "AS-JAP-R8-P43"
-    },
-    {
-      "id": "AS-JAP-R8-P44"
-    },
-    {
-      "id": "AS-JAP-R8-P45"
-    },
-    {
-      "id": "AS-JAP-R8-P46"
-    },
-    {
-      "id": "AS-JAP-R8-P47"
-    }
-  ],
-  "cardInfo": {
-    "Title": {
-      "fr": "Les préfectures japonaises",
-      "en": "The Japanese Prefectures",
-      "es": "Las prefecturas japonesas",
-      "it": "Le prefetture giapponesi",
-      "jp": "日本の都道府県"
-    },
-    "Text": {
-      "fr": "Les 47 préfectures du Japon",
-      "en": "The 47 prefectures of Japan",
-      "es": "Las 47 prefecturas de Japón",
-      "it": "Le 47 prefetture del Giappone",
-      "jp": "日本の47都道府県"
-    },
-    "lang": ["fr","en","es","it","jp"],
-    "pictureURL": "None",
-    "setInfo": "AS-JAP",
-    "group":["g.jap"],
-    "option": {
-      "tryMax": 1,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

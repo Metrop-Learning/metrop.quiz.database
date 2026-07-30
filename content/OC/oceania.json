@@ -1,70 +1,71 @@
 {
-  "list": [
-    {
-      "id": "OC-AU"
+    "list": [
+        {
+            "id": "OC-AU"
+        },
+        {
+            "id": "OC-NZ"
+        },
+        {
+            "id": "OC-COK"
+        },
+        {
+            "id": "OC-FJI"
+        },
+        {
+            "id": "OC-KIR"
+        },
+        {
+            "id": "OC-MHL"
+        },
+        {
+            "id": "OC-FSM"
+        },
+        {
+            "id": "OC-NRU"
+        },
+        {
+            "id": "OC-NIU"
+        },
+        {
+            "id": "OC-PLW"
+        },
+        {
+            "id": "OC-PNG"
+        },
+        {
+            "id": "OC-SLB"
+        },
+        {
+            "id": "OC-WSM"
+        },
+        {
+            "id": "OC-TON"
+        },
+        {
+            "id": "OC-TUV"
+        },
+        {
+            "id": "OC-VUT"
+        }
+    ],
+    "cardInfo": {
+        "Title": "Les pays d'Océanie",
+        "Text": "Les 16 pays d'Océanie",
+        "lang": "FR",
+        "pictureURL": "None",
+        "setInfo": "OC",
+        "option": {
+            "tryMax": 2,
+            "EliminateSelected": true
+        },
+        "card_key_id": "DuP8qw"
     },
-    {
-      "id": "OC-NZ"
-    },
-    {
-      "id": "OC-COK"
-    },
-    {
-      "id": "OC-FJI"
-    },
-    {
-      "id": "OC-KIR"
-    },
-    {
-      "id": "OC-MHL"
-    },
-    {
-      "id": "OC-FSM"
-    },
-    {
-      "id": "OC-NRU"
-    },
-    {
-      "id": "OC-NIU"
-    },
-    {
-      "id": "OC-PLW"
-    },
-    {
-      "id": "OC-PNG"
-    },
-    {
-      "id": "OC-SLB"
-    },
-    {
-      "id": "OC-WSM"
-    },
-    {
-      "id": "OC-TON"
-    },
-    {
-      "id": "OC-TUV"
-    },
-    {
-      "id": "OC-VUT"
-    }
-  ],
-  "cardInfo": {
-    "Title": "Les pays d'Océanie",
-    "Text": "Les 16 pays d'Océanie",
-    "lang": "FR",
-    "pictureURL": "None",
-    "setInfo": "OC",
-    "option": {
-      "tryMax": 2,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "fromFlag",
-    "fromName",
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "fromFlag",
+        "fromName",
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

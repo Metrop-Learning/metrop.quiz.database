@@ -1,45 +1,51 @@
 {
-  "list": [
-    {
-      "id": "EU-UKC:IMN-GLE"
+    "list": [
+        {
+            "id": "EU-UKC:IMN-GLE"
+        },
+        {
+            "id": "EU-UKC:IMN-MIC"
+        },
+        {
+            "id": "EU-UKC:IMN-AYR"
+        },
+        {
+            "id": "EU-UKC:IMN-GAR"
+        },
+        {
+            "id": "EU-UKC:IMN-MID"
+        },
+        {
+            "id": "EU-UKC:IMN-RUS"
+        }
+    ],
+    "cardInfo": {
+        "Title": {
+            "fr": "Les sheadings de l’île de Man",
+            "en": "The Sheadings of the Isle of Man"
+        },
+        "Text": {
+            "fr": "Les 6 sheadings de l’île de Man",
+            "en": "The 6 sheadings of the Isle of Man"
+        },
+        "lang": [
+            "fr",
+            "en"
+        ],
+        "pictureURL": "None",
+        "setInfo": "EU-UKC:IMN",
+        "group": [
+            "g.uk"
+        ],
+        "option": {
+            "tryMax": 1,
+            "EliminateSelected": true
+        },
+        "card_key_id": "OzocIQ"
     },
-    {
-      "id": "EU-UKC:IMN-MIC"
-    },
-    {
-      "id": "EU-UKC:IMN-AYR"
-    },
-    {
-      "id": "EU-UKC:IMN-GAR"
-    },
-    {
-      "id": "EU-UKC:IMN-MID"
-    },
-    {
-      "id": "EU-UKC:IMN-RUS"
-    }
-  ],
-  "cardInfo": {
-    "Title": {
-      "fr": "Les sheadings de l’île de Man",
-      "en": "The Sheadings of the Isle of Man"
-    },
-    "Text": {
-      "fr": "Les 6 sheadings de l’île de Man",
-      "en": "The 6 sheadings of the Isle of Man"
-    },
-    "lang": ["fr","en"],
-    "pictureURL": "None",
-    "setInfo": "EU-UKC:IMN",
-    "group":["g.uk"],
-    "option": {
-      "tryMax": 1,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

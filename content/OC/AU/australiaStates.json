@@ -1,45 +1,51 @@
 {
-  "list": [
-    {
-      "id": "OC-AU-SA"
+    "list": [
+        {
+            "id": "OC-AU-SA"
+        },
+        {
+            "id": "OC-AU-WA"
+        },
+        {
+            "id": "OC-AU-NGS"
+        },
+        {
+            "id": "OC-AU-QLD"
+        },
+        {
+            "id": "OC-AU-TAS"
+        },
+        {
+            "id": "OC-AU-VIC"
+        }
+    ],
+    "cardInfo": {
+        "Title": {
+            "fr": "Les États de l'Australie",
+            "en": "The States of Australia"
+        },
+        "Text": {
+            "fr": "Les 6 États de l’Australie",
+            "en": "The 6 states of Australia"
+        },
+        "lang": [
+            "fr",
+            "en"
+        ],
+        "pictureURL": "None",
+        "setInfo": "OC-AU",
+        "group": [
+            "g.aus"
+        ],
+        "option": {
+            "tryMax": 2,
+            "EliminateSelected": true
+        },
+        "card_key_id": "GbB0Mg"
     },
-    {
-      "id": "OC-AU-WA"
-    },
-    {
-      "id": "OC-AU-NGS"
-    },
-    {
-      "id": "OC-AU-QLD"
-    },
-    {
-      "id": "OC-AU-TAS"
-    },
-    {
-      "id": "OC-AU-VIC"
-    }
-  ],
-  "cardInfo": {
-    "Title": {
-      "fr": "Les États de l'Australie",
-      "en": "The States of Australia"
-    },
-    "Text": {
-      "fr": "Les 6 États de l’Australie",
-      "en": "The 6 states of Australia"
-    },
-    "lang": ["fr","en"],
-    "pictureURL": "None",
-    "setInfo": "OC-AU",
-    "group":["g.aus"],
-    "option": {
-      "tryMax": 2,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

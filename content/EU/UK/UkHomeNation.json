@@ -1,39 +1,45 @@
 {
-  "list": [
-    {
-      "id": "EU-UK-ENG"
+    "list": [
+        {
+            "id": "EU-UK-ENG"
+        },
+        {
+            "id": "EU-UK-SCT"
+        },
+        {
+            "id": "EU-UK-WLS"
+        },
+        {
+            "id": "EU-UK-NIR"
+        }
+    ],
+    "cardInfo": {
+        "Title": {
+            "fr": "Les nations constitutives du Royaume-Uni",
+            "en": "The Constituent Countries of the United Kingdom"
+        },
+        "Text": {
+            "fr": "Les 4 nations constitutives du Royaume-Uni",
+            "en": "The 4 constituent countries of the United Kingdom"
+        },
+        "lang": [
+            "fr",
+            "en"
+        ],
+        "pictureURL": "None",
+        "setInfo": "EU-UK",
+        "group": [
+            "g.uk"
+        ],
+        "option": {
+            "tryMax": 1,
+            "EliminateSelected": true
+        },
+        "card_key_id": "IXZnGQ"
     },
-    {
-      "id": "EU-UK-SCT"
-    },
-    {
-      "id": "EU-UK-WLS"
-    },
-    {
-      "id": "EU-UK-NIR"
-    }
-  ],
-  "cardInfo": {
-    "Title": {
-      "fr": "Les nations constitutives du Royaume-Uni",
-      "en": "The Constituent Countries of the United Kingdom"
-    },
-    "Text": {
-      "fr": "Les 4 nations constitutives du Royaume-Uni",
-      "en": "The 4 constituent countries of the United Kingdom"
-    },
-    "lang": ["fr","en"],
-    "pictureURL": "None",
-    "setInfo": "EU-UK",
-    "group":["g.uk"],
-    "option": {
-      "tryMax": 1,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }

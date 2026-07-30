@@ -1,95 +1,104 @@
 {
-  "list": [
-    {
-      "id": "EU-ITA-ABR"
+    "list": [
+        {
+            "id": "EU-ITA-ABR"
+        },
+        {
+            "id": "EU-ITA-BAS"
+        },
+        {
+            "id": "EU-ITA-CAL"
+        },
+        {
+            "id": "EU-ITA-CAM"
+        },
+        {
+            "id": "EU-ITA-EMR"
+        },
+        {
+            "id": "EU-ITA-FVG"
+        },
+        {
+            "id": "EU-ITA-LAZ"
+        },
+        {
+            "id": "EU-ITA-LIG"
+        },
+        {
+            "id": "EU-ITA-LOM"
+        },
+        {
+            "id": "EU-ITA-MAR"
+        },
+        {
+            "id": "EU-ITA-MOL"
+        },
+        {
+            "id": "EU-ITA-UMB"
+        },
+        {
+            "id": "EU-ITA-PMN"
+        },
+        {
+            "id": "EU-ITA-PUG"
+        },
+        {
+            "id": "EU-ITA-SAR"
+        },
+        {
+            "id": "EU-ITA-SIC"
+        },
+        {
+            "id": "EU-ITA-TOS"
+        },
+        {
+            "id": "EU-ITA-TAA"
+        },
+        {
+            "id": "EU-ITA-VAO"
+        },
+        {
+            "id": "EU-ITA-VEN"
+        }
+    ],
+    "cardInfo": {
+        "Title": {
+            "fr": "Les régions d'Italie",
+            "en": "The Regions of Italy",
+            "es": "Las regiones de Italia",
+            "it": "Le regioni d'Italia",
+            "jp": "イタリアの州"
+        },
+        "Text": {
+            "fr": "Les 20 régions italiennes",
+            "en": "The 20 Italian regions",
+            "es": "Las 20 regiones italianas",
+            "it": "Le 20 regioni italiane",
+            "jp": "イタリアの20の州"
+        },
+        "lang": [
+            "fr",
+            "en",
+            "es",
+            "it",
+            "jp"
+        ],
+        "pictureURL": "None",
+        "setInfo": "EU-ITA",
+        "group": [
+            "g.ita"
+        ],
+        "option": {
+            "tryMax": 1,
+            "EliminateSelected": true
+        },
+        "card_key_id": "MReiMw"
     },
-    {
-      "id": "EU-ITA-BAS"
-    },
-    {
-      "id": "EU-ITA-CAL"
-    },
-    {
-      "id": "EU-ITA-CAM"
-    },
-    {
-      "id": "EU-ITA-EMR"
-    },
-    {
-      "id": "EU-ITA-FVG"
-    },
-    {
-      "id": "EU-ITA-LAZ"
-    },
-    {
-      "id": "EU-ITA-LIG"
-    },
-    {
-      "id": "EU-ITA-LOM"
-    },
-    {
-      "id": "EU-ITA-MAR"
-    },
-    {
-      "id": "EU-ITA-MOL"
-    },
-    {
-      "id": "EU-ITA-UMB"
-    },
-    {
-      "id": "EU-ITA-PMN"
-    },
-    {
-      "id": "EU-ITA-PUG"
-    },
-    {
-      "id": "EU-ITA-SAR"
-    },
-    {
-      "id": "EU-ITA-SIC"
-    },
-    {
-      "id": "EU-ITA-TOS"
-    },
-    {
-      "id": "EU-ITA-TAA"
-    },
-    {
-      "id": "EU-ITA-VAO"
-    },
-    {
-      "id": "EU-ITA-VEN"
-    }
-  ],
-  "cardInfo": {
-    "Title": {
-      "fr": "Les régions d'Italie",
-      "en": "The Regions of Italy",
-      "es": "Las regiones de Italia",
-      "it": "Le regioni d'Italia",
-      "jp": "イタリアの州"
-    },
-    "Text": {
-      "fr": "Les 20 régions italiennes",
-      "en": "The 20 Italian regions",
-      "es": "Las 20 regiones italianas",
-      "it": "Le 20 regioni italiane",
-      "jp": "イタリアの20の州"
-    },
-    "lang": ["fr","en","es","it","jp"],
-    "pictureURL": "None",
-    "setInfo": "EU-ITA",
-    "group":["g.ita"],
-    "option": {
-      "tryMax": 1,
-      "EliminateSelected": true
-    }
-  },
-  "type": [
-    "fromFlag",
-    "fromName",
-    "placeTerritory",
-    "shadowTerritory",
-    "guessFromPosiTerritory"
-  ]
+    "type": [
+        "fromFlag",
+        "fromName",
+        "placeTerritory",
+        "shadowTerritory",
+        "guessFromPosiTerritory"
+    ]
 }
